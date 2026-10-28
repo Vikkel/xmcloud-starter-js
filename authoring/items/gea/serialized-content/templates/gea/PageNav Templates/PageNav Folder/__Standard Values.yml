@@ -1,0 +1,23 @@
+---
+ID: "92aee798-9886-4e2b-a699-ba41983afb71"
+Parent: "e63f2a59-45ca-4913-9f2d-3e989c7faa9c"
+Template: "e63f2a59-45ca-4913-9f2d-3e989c7faa9c"
+Path: "/sitecore/templates/Project/gea/PageNav Templates/PageNav Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C26C2B49-70F2-4E01-8CA0-5751CAD69812}
+    {E63F2A59-45CA-4913-9F2D-3E989C7FAA9C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

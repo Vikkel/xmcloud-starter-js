@@ -1,0 +1,17 @@
+---
+ID: "0830df9b-454e-4dde-b658-23b203c4370a"
+Parent: "c5ac85fb-e2f8-4e20-b41e-725c02eeb5d9"
+Template: "ad7fccae-3342-4be5-b110-20695ee35a74"
+Path: "/sitecore/content/gea/gea/Data/IndustryTile/Pharma"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5"
+      Hint: ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5
+      Value: "Pharma"
+    - ID: "15759960-cc2c-4bfe-881f-6feeaaf709ed"
+      Hint: 15759960-cc2c-4bfe-881f-6feeaaf709ed
+      Value: |
+        <link text="Pharma" linktype="external" url="https://www.gea.com/en/" anchor="" target="" />

@@ -1,0 +1,48 @@
+---
+ID: "882ff547-3942-4571-ba97-3d5051d10f25"
+Parent: "6c0d2586-261b-443f-a4e6-5d15b18440fa"
+Template: "c90f43ee-592b-470b-95e6-81e08da0ac8b"
+Path: "/sitecore/content/gea/gea/Data/Header/Site header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
+      Hint: dee3bf5d-9e64-4b0b-9526-77d05853ed93
+      Value: "Search"
+    - ID: "adb5bdd0-0321-483c-8acd-c67810677f02"
+      Hint: adb5bdd0-0321-483c-8acd-c67810677f02
+      Value: |
+        <link text="Log in" linktype="external" url="https://www.gea.com/en/" anchor="" target="" />
+    - ID: "077cb6e1-3e82-46d6-adf5-cc2691f9bad5"
+      Hint: 077cb6e1-3e82-46d6-adf5-cc2691f9bad5
+      Value: "EN"
+    - ID: "33babe74-d6c4-41aa-a477-3809a29a3e23"
+      Hint: 33babe74-d6c4-41aa-a477-3809a29a3e23
+      Value: |
+        <link text="Contact" linktype="external" url="/contact" anchor="" target="" />
+    - ID: "b9747f79-3a12-4c15-8ea1-38fa349d1ac5"
+      Hint: b9747f79-3a12-4c15-8ea1-38fa349d1ac5
+      Value: |
+        Products & Services
+    - ID: "298af196-777b-4824-a442-ee4eb3f21b63"
+      Hint: 298af196-777b-4824-a442-ee4eb3f21b63
+      Value: |
+        <link text="About us" linktype="external" url="https://www.gea.com/en/company/" anchor="" target="" />
+    - ID: "1aa15866-05d9-4f30-94e8-0a4072271be6"
+      Hint: 1aa15866-05d9-4f30-94e8-0a4072271be6
+      Value: |
+        <link text="Sustainability" linktype="external" url="https://www.gea.com/en/sustainability/" anchor="" target="" />
+    - ID: "9450c1f8-639a-4131-93d7-8119a3093e1e"
+      Hint: 9450c1f8-639a-4131-93d7-8119a3093e1e
+      Value: |
+        <link text="Investors" linktype="external" url="https://www.gea.com/en/investors/" anchor="" target="" />
+    - ID: "fadbaded-0654-4a25-9048-c6cae7baaff7"
+      Hint: fadbaded-0654-4a25-9048-c6cae7baaff7
+      Value: |
+        <link text="Media" linktype="external" url="https://www.gea.com/en/news/" anchor="" target="" />
+    - ID: "31ebfc94-f651-4db9-8787-ef3d06b7790e"
+      Hint: 31ebfc94-f651-4db9-8787-ef3d06b7790e
+      Value: |
+        <link text="Careers" linktype="external" url="https://www.gea.com/en/careers/" anchor="" target="" />

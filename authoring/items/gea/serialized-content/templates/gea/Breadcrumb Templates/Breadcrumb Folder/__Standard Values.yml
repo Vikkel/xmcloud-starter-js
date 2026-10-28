@@ -1,0 +1,23 @@
+---
+ID: "18b52479-86c4-4137-a822-90f0520222d5"
+Parent: "333de82c-4905-4e65-8fcd-e7735a842083"
+Template: "333de82c-4905-4e65-8fcd-e7735a842083"
+Path: "/sitecore/templates/Project/gea/Breadcrumb Templates/Breadcrumb Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AD7672F2-C74A-4E88-847A-B4C491F31541}
+    {333DE82C-4905-4E65-8FCD-E7735A842083}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

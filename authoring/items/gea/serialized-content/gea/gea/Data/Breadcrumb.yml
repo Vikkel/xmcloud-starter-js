@@ -1,0 +1,11 @@
+---
+ID: "28989358-ae48-4a22-a822-0061619e29d8"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "333de82c-4905-4e65-8fcd-e7735a842083"
+Path: "/sitecore/content/gea/gea/Data/Breadcrumb"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

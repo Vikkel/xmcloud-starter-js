@@ -1,0 +1,11 @@
+---
+ID: "c23638e3-e87d-4d6c-8be7-a84488ed22aa"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "ac7c5784-bce3-4252-b3b7-e227eef64183"
+Path: "/sitecore/content/gea/gea/Data/RichText"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

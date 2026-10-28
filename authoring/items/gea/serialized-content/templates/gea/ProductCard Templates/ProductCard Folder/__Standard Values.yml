@@ -1,0 +1,23 @@
+---
+ID: "665285ed-da82-48f3-b6c6-f001c17b4fbe"
+Parent: "5745c373-3974-40bf-b358-715e2abe2d6b"
+Template: "5745c373-3974-40bf-b358-715e2abe2d6b"
+Path: "/sitecore/templates/Project/gea/ProductCard Templates/ProductCard Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {5D092B73-E7BE-4C3D-832C-C51DAA4AD557}
+    {5745C373-3974-40BF-B358-715E2ABE2D6B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

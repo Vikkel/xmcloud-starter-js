@@ -1,0 +1,17 @@
+---
+ID: "a9fc3cde-843c-40ef-96b6-42e590b7ba79"
+Parent: "c23638e3-e87d-4d6c-8be7-a84488ed22aa"
+Template: "6b305792-a468-4d39-8295-85c88b798c92"
+Path: "/sitecore/content/gea/gea/Data/RichText/Arla solution"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5ddbb5d1-6c60-4ead-b29d-269acd3b5d39"
+      Hint: 5ddbb5d1-6c60-4ead-b29d-269acd3b5d39
+      Value: "The solution"
+    - ID: "73a80864-4625-4537-a7d5-07b830c2ab92"
+      Hint: 73a80864-4625-4537-a7d5-07b830c2ab92
+      Value: |
+        <p>GEA and Arla integrated an AddCool® high-temperature heat pump into a running spray dryer — a first for a dairy plant. The system passed its site performance test on the first attempt and is monitored with InsightPartner®.</p>

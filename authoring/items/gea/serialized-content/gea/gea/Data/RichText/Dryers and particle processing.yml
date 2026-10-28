@@ -1,0 +1,17 @@
+---
+ID: "b29c2209-eeaf-4d28-b5eb-2dae8b5d7937"
+Parent: "c23638e3-e87d-4d6c-8be7-a84488ed22aa"
+Template: "6b305792-a468-4d39-8295-85c88b798c92"
+Path: "/sitecore/content/gea/gea/Data/RichText/Dryers and particle processing"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5ddbb5d1-6c60-4ead-b29d-269acd3b5d39"
+      Hint: 5ddbb5d1-6c60-4ead-b29d-269acd3b5d39
+      Value: "Dryers and particle processing"
+    - ID: "73a80864-4625-4537-a7d5-07b830c2ab92"
+      Hint: 73a80864-4625-4537-a7d5-07b830c2ab92
+      Value: |
+        <p>Dryers, including spray dryers for milk powder.</p>

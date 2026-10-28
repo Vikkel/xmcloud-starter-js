@@ -1,0 +1,11 @@
+---
+ID: "66e57806-b3ae-410c-8c11-3905b6ddee4b"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "baa4119c-51a6-40ef-bb2d-fcf4647e8e78"
+Path: "/sitecore/content/gea/gea/Data/CardGrid"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

@@ -1,0 +1,23 @@
+---
+ID: "5136631f-df1d-40dc-98db-6d17f3103a4d"
+Parent: "baa4119c-51a6-40ef-bb2d-fcf4647e8e78"
+Template: "baa4119c-51a6-40ef-bb2d-fcf4647e8e78"
+Path: "/sitecore/templates/Project/gea/CardGrid Templates/CardGrid Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4BA19807-D0CF-4DF4-947B-480EF0A87690}
+    {BAA4119C-51A6-40EF-BB2D-FCF4647E8E78}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

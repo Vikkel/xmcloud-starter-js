@@ -1,0 +1,24 @@
+---
+ID: "f093d6df-0857-4bf0-8c83-54ee2653f926"
+Parent: "e23e8e6a-9300-4d44-8411-31327e94c01e"
+Template: "ae78a83a-f23b-474e-8dcd-f25fd30c4c36"
+Path: "/sitecore/content/gea/gea/Data/Card/Spray drying story"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3c9022f1-33f7-4978-8f3c-a100540ad5b7"
+      Hint: 3c9022f1-33f7-4978-8f3c-a100540ad5b7
+      Value: "Story"
+    - ID: "9773b2ae-62a7-49d2-8824-d2ce24dca862"
+      Hint: 9773b2ae-62a7-49d2-8824-d2ce24dca862
+      Value: "The breakthrough that changed spray drying"
+    - ID: "bc32be42-f331-4cb9-abd7-42ea18aa4716"
+      Hint: bc32be42-f331-4cb9-abd7-42ea18aa4716
+      Value: |
+        <p>How spray drying moved from batch craft to an industrial process.</p>
+    - ID: "ec7453de-fe3a-4418-a209-8abaa41c60db"
+      Hint: ec7453de-fe3a-4418-a209-8abaa41c60db
+      Value: |
+        <link text="Read the story" linktype="external" url="https://www.gea.com/en/stories/the-breakthrough-that-changed-spray-drying/" anchor="" target="" />

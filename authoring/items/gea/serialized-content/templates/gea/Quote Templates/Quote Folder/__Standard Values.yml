@@ -1,0 +1,23 @@
+---
+ID: "f3442efe-536f-4850-8fc0-bbeba8d4f407"
+Parent: "895d3b82-5e9d-485a-98b9-81b8196aec33"
+Template: "895d3b82-5e9d-485a-98b9-81b8196aec33"
+Path: "/sitecore/templates/Project/gea/Quote Templates/Quote Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {251C22A9-6DF3-4568-8D9C-CB21F178C6A5}
+    {895D3B82-5E9D-485A-98B9-81B8196AEC33}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

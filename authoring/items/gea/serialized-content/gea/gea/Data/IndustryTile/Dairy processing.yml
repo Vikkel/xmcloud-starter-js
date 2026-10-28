@@ -1,0 +1,17 @@
+---
+ID: "946ffbf7-540f-495a-811b-e50c6cf54675"
+Parent: "c5ac85fb-e2f8-4e20-b41e-725c02eeb5d9"
+Template: "ad7fccae-3342-4be5-b110-20695ee35a74"
+Path: "/sitecore/content/gea/gea/Data/IndustryTile/Dairy processing"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5"
+      Hint: ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5
+      Value: "Dairy processing"
+    - ID: "15759960-cc2c-4bfe-881f-6feeaaf709ed"
+      Hint: 15759960-cc2c-4bfe-881f-6feeaaf709ed
+      Value: |
+        <link text="Dairy processing" linktype="external" url="/dairy-processing" anchor="" target="" />

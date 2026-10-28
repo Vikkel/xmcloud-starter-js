@@ -1,0 +1,13 @@
+---
+ID: "82fdb2a7-d0fa-4c56-bccb-9172e321b4bf"
+Parent: "e7e9ae03-8546-4873-b06a-5dc7564b7dc6"
+Template: "63fbca3a-c914-473c-9313-79f370263aba"
+Path: "/sitecore/content/gea/gea/Data/IndustryTiles/Home industries"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ec6d2366-002f-4ba6-9d56-4cfa9907324d"
+      Hint: ec6d2366-002f-4ba6-9d56-4cfa9907324d
+      Value: "Industries"

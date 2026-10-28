@@ -1,0 +1,17 @@
+---
+ID: "22e07aa4-1a6f-433b-ad79-55c0d5b9146d"
+Parent: "3a7b8e8f-b595-4d3c-8577-b423098a86df"
+Template: "3a7b8e8f-b595-4d3c-8577-b423098a86df"
+Path: "/sitecore/templates/Project/gea/ProcessLine Templates/ProcessLine Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

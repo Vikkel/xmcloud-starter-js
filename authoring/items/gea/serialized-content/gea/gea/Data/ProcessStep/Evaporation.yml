@@ -1,0 +1,21 @@
+---
+ID: "e49c6e01-8831-43d8-a01e-d5f35c240d3c"
+Parent: "84a42aa7-735f-40df-aeb4-a9f81060035c"
+Template: "53bf0f0a-a1b3-4362-9525-0c9fffafbca4"
+Path: "/sitecore/content/gea/gea/Data/ProcessStep/Evaporation"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
+      Hint: ad46de13-5d4c-4d6a-8d59-c0f740768792
+      Value: "Evaporation"
+    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
+      Hint: 5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac
+      Value: |
+        <p>The formulated product is heat treated and concentrated on a falling-film evaporator.</p>
+    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
+      Hint: cc9adc6a-c1c6-42cd-a03c-37be239dba69
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Spray Dryer</a></p>

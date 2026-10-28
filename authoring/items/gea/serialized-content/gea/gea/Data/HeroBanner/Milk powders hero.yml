@@ -1,0 +1,24 @@
+---
+ID: "ddbb389f-7519-4e46-8f46-3178ae6e77ec"
+Parent: "5bf726f5-3517-4b68-86b6-26ba2a415f31"
+Template: "ffc35154-3a9e-4d13-aa32-c8ac63d5f462"
+Path: "/sitecore/content/gea/gea/Data/HeroBanner/Milk powders hero"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11784cbe-1f6f-4619-bad0-f9b377e13e94"
+      Hint: 11784cbe-1f6f-4619-bad0-f9b377e13e94
+      Value: "Milk powders"
+    - ID: "17263a7b-c05f-40f2-b553-44833602d30f"
+      Hint: 17263a7b-c05f-40f2-b553-44833602d30f
+      Value: "Supplying global milk powder plants"
+    - ID: "f7a50d20-928a-4e3b-9e9d-2b737428c5a0"
+      Hint: f7a50d20-928a-4e3b-9e9d-2b737428c5a0
+      Value: |
+        <p>GEA is one of the world’s largest suppliers of complete plants for dairy-based milk powder. Every day, millions of liters of milk are dried on lines designed and equipped by GEA.</p>
+    - ID: "99871749-be90-498e-ab30-d2542c9a8f9e"
+      Hint: 99871749-be90-498e-ab30-d2542c9a8f9e
+      Value: |
+        <link text="Get a quote" linktype="external" url="/contact" anchor="" target="" />

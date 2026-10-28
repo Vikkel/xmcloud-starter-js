@@ -1,0 +1,23 @@
+---
+ID: "2158d3c9-b071-44d6-8a0b-ca6039147b39"
+Parent: "77ee930b-129b-4e23-9a88-267fc3fb40b2"
+Template: "77ee930b-129b-4e23-9a88-267fc3fb40b2"
+Path: "/sitecore/templates/Project/gea/CtaBanner Templates/CtaBanner Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E05E75FC-009E-481D-AA3A-90780FB45F74}
+    {77EE930B-129B-4E23-9A88-267FC3FB40B2}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

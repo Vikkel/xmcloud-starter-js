@@ -1,0 +1,32 @@
+---
+ID: "ff1acb46-ec81-4ebd-8111-9126bd42fbee"
+Parent: "f2bbc4aa-296c-4035-85ba-76ea4a670cf5"
+Template: "f9d39d29-98ef-40b0-b57b-c605f58901bc"
+Path: "/sitecore/content/gea/gea/Data/NewsletterContactBand/Site band"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "e5955f30-a946-4869-a905-fa7d392eb244"
+      Hint: e5955f30-a946-4869-a905-fa7d392eb244
+      Value: "Receive news from GEA"
+    - ID: "ffca1628-ebc6-4a62-8e90-a4a35c2187ee"
+      Hint: ffca1628-ebc6-4a62-8e90-a4a35c2187ee
+      Value: |
+        <p>Stories, customer cases and product news from dairy and process technology.</p>
+    - ID: "26f74b07-0b25-461e-9783-551433eba5b1"
+      Hint: 26f74b07-0b25-461e-9783-551433eba5b1
+      Value: |
+        <link text="Insights" linktype="external" url="https://www.gea.com/en/insights/" anchor="" target="" />
+    - ID: "0467690b-2df5-4e09-ba08-2677e69aa46b"
+      Hint: 0467690b-2df5-4e09-ba08-2677e69aa46b
+      Value: "Contact us"
+    - ID: "4a8527e5-8eaa-465d-a851-a46456c2b2b5"
+      Hint: 4a8527e5-8eaa-465d-a851-a46456c2b2b5
+      Value: |
+        <p>Talk to GEA about a milk powder line, spray dryer or AddCool® heat pump.</p>
+    - ID: "2f05e7a9-729a-43bd-9e29-4dc631c0364d"
+      Hint: 2f05e7a9-729a-43bd-9e29-4dc631c0364d
+      Value: |
+        <link text="Get a quote" linktype="external" url="/contact" anchor="" target="" />

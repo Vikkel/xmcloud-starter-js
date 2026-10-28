@@ -1,0 +1,17 @@
+---
+ID: "07a99fa4-f244-4cc5-a7a9-dac141235f49"
+Parent: "c23638e3-e87d-4d6c-8be7-a84488ed22aa"
+Template: "6b305792-a468-4d39-8295-85c88b798c92"
+Path: "/sitecore/content/gea/gea/Data/RichText/Milk powders lead"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5ddbb5d1-6c60-4ead-b29d-269acd3b5d39"
+      Hint: 5ddbb5d1-6c60-4ead-b29d-269acd3b5d39
+      Value: "From liquid milk to powder"
+    - ID: "73a80864-4625-4537-a7d5-07b830c2ab92"
+      Hint: 73a80864-4625-4537-a7d5-07b830c2ab92
+      Value: |
+        <p>High quality milk powder depends on hygienic equipment and a process that is monitored at every stage, so yield stays high and the powder keeps its nutritional and functional properties.</p>

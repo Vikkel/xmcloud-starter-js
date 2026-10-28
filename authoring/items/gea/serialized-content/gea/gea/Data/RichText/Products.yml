@@ -1,0 +1,17 @@
+---
+ID: "731e4a03-596d-462c-93e5-75e0b549bcad"
+Parent: "c23638e3-e87d-4d6c-8be7-a84488ed22aa"
+Template: "6b305792-a468-4d39-8295-85c88b798c92"
+Path: "/sitecore/content/gea/gea/Data/RichText/Products"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5ddbb5d1-6c60-4ead-b29d-269acd3b5d39"
+      Hint: 5ddbb5d1-6c60-4ead-b29d-269acd3b5d39
+      Value: "Products"
+    - ID: "73a80864-4625-4537-a7d5-07b830c2ab92"
+      Hint: 73a80864-4625-4537-a7d5-07b830c2ab92
+      Value: |
+        <p>Product categories for the GEA demo.</p>

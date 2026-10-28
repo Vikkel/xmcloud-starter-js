@@ -39,7 +39,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home",
       "yamlRelativePath": "Home.yml",
       "kind": "home",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "1.1"
@@ -68,7 +68,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home/dairy-processing",
       "yamlRelativePath": "Home/dairy-processing.yml",
       "kind": "industry",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "3.2",
@@ -99,7 +99,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home/dairy-processing/milk-powders",
       "yamlRelativePath": "Home/dairy-processing/milk-powders.yml",
       "kind": "market",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "1.1",
@@ -129,7 +129,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers/msd-spray-dryer",
       "yamlRelativePath": "Home/products/dryers-particle-processing/spray-dryers/msd-spray-dryer.yml",
       "kind": "product",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "2.1"
@@ -155,7 +155,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers/gea-add-cool",
       "yamlRelativePath": "Home/products/dryers-particle-processing/spray-dryers/gea-add-cool.yml",
       "kind": "product",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "2.1",
@@ -186,7 +186,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home/customer-cases/arla-addcool",
       "yamlRelativePath": "Home/customer-cases/arla-addcool.yml",
       "kind": "case",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "1.1",
@@ -218,7 +218,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers/drying-test-center",
       "yamlRelativePath": "Home/products/dryers-particle-processing/spray-dryers/drying-test-center.yml",
       "kind": "product",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "5.1",
@@ -246,7 +246,7 @@
       "sitecorePath": "/sitecore/content/gea/gea/Home/contact",
       "yamlRelativePath": "Home/contact.yml",
       "kind": "contact",
-      "status": "captured",
+      "status": "published",
       "tier": 1,
       "storyActs": [
         "7.1",

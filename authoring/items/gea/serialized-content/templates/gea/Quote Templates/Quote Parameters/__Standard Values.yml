@@ -1,0 +1,17 @@
+---
+ID: "5c420796-cbd3-41c3-825d-c7a2840cd5c8"
+Parent: "60adb441-8527-4522-9fe5-979e4406046e"
+Template: "60adb441-8527-4522-9fe5-979e4406046e"
+Path: "/sitecore/templates/Project/gea/Quote Templates/Quote Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

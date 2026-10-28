@@ -1,0 +1,23 @@
+---
+ID: "38934b5e-726d-43a5-a934-107bd668bcb0"
+Parent: "e5403f2d-da00-42d2-badd-93e52435d7c3"
+Template: "e5403f2d-da00-42d2-badd-93e52435d7c3"
+Path: "/sitecore/templates/Project/gea/Header Templates/Header Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C90F43EE-592B-470B-95E6-81E08DA0AC8B}
+    {E5403F2D-DA00-42D2-BADD-93E52435D7C3}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,11 @@
+---
+ID: "6c0d2586-261b-443f-a4e6-5d15b18440fa"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "e5403f2d-da00-42d2-badd-93e52435d7c3"
+Path: "/sitecore/content/gea/gea/Data/Header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

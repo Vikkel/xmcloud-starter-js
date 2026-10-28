@@ -1,0 +1,17 @@
+---
+ID: "222ed109-03c0-4abf-9343-706be6843d80"
+Parent: "6b305792-a468-4d39-8295-85c88b798c92"
+Template: "6b305792-a468-4d39-8295-85c88b798c92"
+Path: "/sitecore/templates/Project/gea/RichText Templates/RichText/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

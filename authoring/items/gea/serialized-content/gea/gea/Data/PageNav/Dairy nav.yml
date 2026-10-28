@@ -1,0 +1,21 @@
+---
+ID: "cc36c213-20e3-43dc-8001-40346cb08d35"
+Parent: "881d52a9-7c90-4684-940d-264b8c40fd95"
+Template: "c26c2b49-70f2-4e01-8ca0-5751cad69812"
+Path: "/sitecore/content/gea/gea/Data/PageNav/Dairy nav"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c23d24ab-cb2b-40e0-aba2-b2e047ba0f6d"
+      Hint: c23d24ab-cb2b-40e0-aba2-b2e047ba0f6d
+      Value: "Dairy processing"
+    - ID: "4e1e924d-809e-452e-b9fb-f72b42b84d34"
+      Hint: 4e1e924d-809e-452e-b9fb-f72b42b84d34
+      Value: |
+        <link text="Contact us" linktype="external" url="/contact" anchor="" target="" />
+    - ID: "f03dce8c-75ca-4a21-968c-695b70649722"
+      Hint: f03dce8c-75ca-4a21-968c-695b70649722
+      Value: |
+        <link text="Get a quote" linktype="external" url="/contact" anchor="" target="" />

@@ -1,0 +1,23 @@
+---
+ID: "986fc8ef-26d4-4a57-a26f-770e1e067d20"
+Parent: "4a8eee1b-6550-409d-a330-fe70357520ea"
+Template: "4a8eee1b-6550-409d-a330-fe70357520ea"
+Path: "/sitecore/templates/Project/gea/ProcessStep Templates/ProcessStep Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {53BF0F0A-A1B3-4362-9525-0C9FFFAFBCA4}
+    {4A8EEE1B-6550-409D-A330-FE70357520EA}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,13 @@
+---
+ID: "7d2f1cd5-b9f0-4343-aaea-aa77740994d4"
+Parent: "28989358-ae48-4a22-a822-0061619e29d8"
+Template: "ad7672f2-c74a-4e88-847a-b4c491f31541"
+Path: "/sitecore/content/gea/gea/Data/Breadcrumb/Milk powders trail"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "6a3ac7dd-9bb1-4073-99c9-f68271e7fd7a"
+      Hint: 6a3ac7dd-9bb1-4073-99c9-f68271e7fd7a
+      Value: "Home / Dairy processing / Milk powders"

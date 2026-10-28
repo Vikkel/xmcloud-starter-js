@@ -1,0 +1,23 @@
+---
+ID: "af1993e4-13aa-44bd-8742-8a7a2e34af9f"
+Parent: "42d12c99-0c5d-4564-8a1d-cd4da2dd07ba"
+Template: "42d12c99-0c5d-4564-8a1d-cd4da2dd07ba"
+Path: "/sitecore/templates/Project/gea/IndustryTile Templates/IndustryTile Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AD7FCCAE-3342-4BE5-B110-20695EE35A74}
+    {42D12C99-0C5D-4564-8A1D-CD4DA2DD07BA}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

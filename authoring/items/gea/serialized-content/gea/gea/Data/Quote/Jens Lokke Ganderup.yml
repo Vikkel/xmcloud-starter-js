@@ -1,0 +1,20 @@
+---
+ID: "e0b0349b-4269-4423-b895-26bc249195a7"
+Parent: "d6bbd3ff-da78-46d6-922e-df628a35bce7"
+Template: "251c22a9-6df3-4568-8d9c-cb21f178c6a5"
+Path: "/sitecore/content/gea/gea/Data/Quote/Jens Lokke Ganderup"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "384dbc76-2ef4-4f4e-bda4-84456ab4ec2c"
+      Hint: 384dbc76-2ef4-4f4e-bda4-84456ab4ec2c
+      Value: |
+        <p>The spray drying process is highly complex, and GEA’s expertise within this field has shown us that they were the right partner.</p>
+    - ID: "7906faa8-2f21-499d-8fdd-2681aeb8a7e2"
+      Hint: 7906faa8-2f21-499d-8fdd-2681aeb8a7e2
+      Value: "Jens Løkke Ganderup"
+    - ID: "0bca4282-29f3-4ccd-840d-886bee632356"
+      Hint: 0bca4282-29f3-4ccd-840d-886bee632356
+      Value: "Project Manager, Arla Foods"

@@ -1,0 +1,23 @@
+---
+ID: "910a6c24-491b-498c-8dd6-603cc8b1560b"
+Parent: "23553c85-4844-45c0-aedb-d3b7411d1e5a"
+Template: "23553c85-4844-45c0-aedb-d3b7411d1e5a"
+Path: "/sitecore/templates/Project/gea/HeroBanner Templates/HeroBanner Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {FFC35154-3A9E-4D13-AA32-C8AC63D5F462}
+    {23553C85-4844-45C0-AEDB-D3B7411D1E5A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

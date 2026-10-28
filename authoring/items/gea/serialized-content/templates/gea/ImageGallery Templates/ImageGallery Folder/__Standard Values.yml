@@ -1,0 +1,23 @@
+---
+ID: "d27786da-6b83-46d9-b019-c580d485f5af"
+Parent: "487bc1f3-7465-4f6d-ae1d-4c60898c65ba"
+Template: "487bc1f3-7465-4f6d-ae1d-4c60898c65ba"
+Path: "/sitecore/templates/Project/gea/ImageGallery Templates/ImageGallery Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {D8C62266-3E0B-43F7-A774-2382DC6C6185}
+    {487BC1F3-7465-4F6D-AE1D-4C60898C65BA}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

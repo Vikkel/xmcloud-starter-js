@@ -1,0 +1,17 @@
+---
+ID: "2dad6a78-3e5d-4aa4-ab72-de2fed89bbb0"
+Parent: "f0365052-1154-4ebe-a698-3587a001d25b"
+Template: "8730b0cf-c9f3-4ec3-b120-0a96456d83f9"
+Path: "/sitecore/content/gea/gea/Data/LinkList/Home links"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "bfd39724-b6f4-4f16-b901-7ad8e96f1a0c"
+      Hint: bfd39724-b6f4-4f16-b901-7ad8e96f1a0c
+      Value: "Overview of our products"
+    - ID: "b1994b2d-60c6-4d3e-92ae-cd370d05e86a"
+      Hint: b1994b2d-60c6-4d3e-92ae-cd370d05e86a
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Spray Dryer</a></p><p><a href="https://www.gea.com/en/service/">GEA Service</a></p>

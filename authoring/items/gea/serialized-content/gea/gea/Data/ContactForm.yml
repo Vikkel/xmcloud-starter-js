@@ -1,0 +1,11 @@
+---
+ID: "e28b9ac1-e210-46d3-8b08-f967c2cc7d9e"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "c1ba533d-a9a7-46e1-8c01-afcd0a875ea7"
+Path: "/sitecore/content/gea/gea/Data/ContactForm"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

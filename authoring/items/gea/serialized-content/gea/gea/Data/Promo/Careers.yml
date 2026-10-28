@@ -1,0 +1,24 @@
+---
+ID: "53da2daa-6336-40a3-9a17-e73296343163"
+Parent: "363f427c-4ce4-4e25-8b9b-408a661ac3d0"
+Template: "0e26c665-fd57-49a7-b650-21afcff53393"
+Path: "/sitecore/content/gea/gea/Data/Promo/Careers"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "e40547d0-6eb2-43a1-ab09-a6fc176aeb9e"
+      Hint: e40547d0-6eb2-43a1-ab09-a6fc176aeb9e
+      Value: "Careers"
+    - ID: "2285a304-79df-458e-8ced-e8f1a850ef8e"
+      Hint: 2285a304-79df-458e-8ced-e8f1a850ef8e
+      Value: "Careers at GEA"
+    - ID: "bbf86390-1015-4a3e-aa99-5451248dd514"
+      Hint: bbf86390-1015-4a3e-aa99-5451248dd514
+      Value: |
+        <p>Engineering roles across process technology.</p>
+    - ID: "55bf1e22-f803-422d-8b7c-00f574e7aacb"
+      Hint: 55bf1e22-f803-422d-8b7c-00f574e7aacb
+      Value: |
+        <link text="Careers" linktype="external" url="https://www.gea.com/en/careers/" anchor="" target="" />

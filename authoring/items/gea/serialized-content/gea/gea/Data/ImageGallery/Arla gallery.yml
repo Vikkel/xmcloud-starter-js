@@ -1,0 +1,19 @@
+---
+ID: "1c48d0f7-9a58-4ee3-a4c0-eaa79629158e"
+Parent: "8faf9b24-419f-4c2d-afce-a491fe40c65f"
+Template: "d8c62266-3e0b-43f7-a774-2382dc6c6185"
+Path: "/sitecore/content/gea/gea/Data/ImageGallery/Arla gallery"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7ccd2061-73b6-42dd-afd7-8954ed39d624"
+      Hint: 7ccd2061-73b6-42dd-afd7-8954ed39d624
+      Value: "GEA AddCool® heat pump in action"
+    - ID: "8777da21-68ae-4a5e-b312-9e6888c2675d"
+      Hint: 8777da21-68ae-4a5e-b312-9e6888c2675d
+      Value: "GEA NIRO MSD® spray dryer at Svenstrup"
+    - ID: "33f9c347-6cd5-4a66-825e-cfd17b0ab5aa"
+      Hint: 33f9c347-6cd5-4a66-825e-cfd17b0ab5aa
+      Value: "GEA AddCool® heat pump in action"

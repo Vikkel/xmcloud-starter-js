@@ -1,0 +1,17 @@
+---
+ID: "afe10a09-5d77-467e-8307-fcf1d567e3f4"
+Parent: "4d0b7b25-b251-4693-83f0-bede9549980b"
+Template: "4d0b7b25-b251-4693-83f0-bede9549980b"
+Path: "/sitecore/templates/Project/gea/ContactForm Templates/ContactForm/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

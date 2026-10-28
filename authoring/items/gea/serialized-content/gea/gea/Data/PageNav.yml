@@ -1,0 +1,11 @@
+---
+ID: "881d52a9-7c90-4684-940d-264b8c40fd95"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "e63f2a59-45ca-4913-9f2d-3e989c7faa9c"
+Path: "/sitecore/content/gea/gea/Data/PageNav"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

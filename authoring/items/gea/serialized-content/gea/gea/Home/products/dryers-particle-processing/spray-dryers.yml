@@ -1,0 +1,52 @@
+---
+ID: "80621e07-b29f-4248-bed8-c5ba7b75fcad"
+Parent: "f859714b-259c-492e-9b7c-a9aecdbdc0bf"
+Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
+Path: "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{26500146-9E87-4B41-BA0C-281058DD6AEF}"
+              p:before="*"
+              s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
+              s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
+              s:par="CSSStyles"
+              s:ph="headless-header" />
+            <r
+              uid="{6EF32E66-AB38-4FD1-9E4C-DBF407EA2E05}"
+              p:after="r[@uid='{26500146-9E87-4B41-BA0C-281058DD6AEF}']"
+              s:ds="{25993148-B09C-4F41-AFE4-4CB997554A64}"
+              s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{03155B26-DF7A-4689-91A8-27657C7894DF}"
+              p:after="r[@uid='{6EF32E66-AB38-4FD1-9E4C-DBF407EA2E05}']"
+              s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
+              s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
+              s:par="CSSStyles"
+              s:ph="headless-footer" />
+            <r
+              uid="{C42A7A59-D638-4AE3-B317-CAB033537C4F}"
+              p:after="r[@uid='{03155B26-DF7A-4689-91A8-27657C7894DF}']"
+              s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
+              s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
+              s:par="CSSStyles"
+              s:ph="headless-footer" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
+      Hint: Title
+      Value: "Spray dryers"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Spray dryers"

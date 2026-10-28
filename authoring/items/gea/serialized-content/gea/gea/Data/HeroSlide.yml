@@ -1,0 +1,11 @@
+---
+ID: "e5c25403-1c2f-4a81-b2df-b3fd0666a72d"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "3fd61f07-cbb6-4e09-bc64-50aeae5762fe"
+Path: "/sitecore/content/gea/gea/Data/HeroSlide"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

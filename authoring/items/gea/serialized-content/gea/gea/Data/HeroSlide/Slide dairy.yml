@@ -1,0 +1,20 @@
+---
+ID: "915771f3-6788-4de8-8a42-b1065d3e5b29"
+Parent: "e5c25403-1c2f-4a81-b2df-b3fd0666a72d"
+Template: "b94266d0-f0c1-40bc-8d2c-8884863e5faa"
+Path: "/sitecore/content/gea/gea/Data/HeroSlide/Slide dairy"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "9ca389a5-23d9-456d-b74c-2ec9fae8aadb"
+      Hint: 9ca389a5-23d9-456d-b74c-2ec9fae8aadb
+      Value: "GEA"
+    - ID: "2b7d7c03-8db1-4db5-8886-ed6eb3b24989"
+      Hint: 2b7d7c03-8db1-4db5-8886-ed6eb3b24989
+      Value: "Dairy processing"
+    - ID: "1779a587-810a-43f3-8a60-2a690053701b"
+      Hint: 1779a587-810a-43f3-8a60-2a690053701b
+      Value: |
+        <link text="Read more" linktype="external" url="/dairy-processing" anchor="" target="" />

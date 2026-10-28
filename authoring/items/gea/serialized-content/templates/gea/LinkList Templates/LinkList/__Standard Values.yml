@@ -1,0 +1,17 @@
+---
+ID: "138d49ea-8b38-4556-8b42-784eaecd3500"
+Parent: "8730b0cf-c9f3-4ec3-b120-0a96456d83f9"
+Template: "8730b0cf-c9f3-4ec3-b120-0a96456d83f9"
+Path: "/sitecore/templates/Project/gea/LinkList Templates/LinkList/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

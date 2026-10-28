@@ -1,0 +1,17 @@
+---
+ID: "3f3ef879-008e-41a5-bba8-225bd6e1b5d3"
+Parent: "c23638e3-e87d-4d6c-8be7-a84488ed22aa"
+Template: "6b305792-a468-4d39-8295-85c88b798c92"
+Path: "/sitecore/content/gea/gea/Data/RichText/Arla lead"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5ddbb5d1-6c60-4ead-b29d-269acd3b5d39"
+      Hint: 5ddbb5d1-6c60-4ead-b29d-269acd3b5d39
+      Value: "The challenge"
+    - ID: "73a80864-4625-4537-a7d5-07b830c2ab92"
+      Hint: 73a80864-4625-4537-a7d5-07b830c2ab92
+      Value: |
+        <p>Spray drying is one of the most energy-intensive steps in dairy, and a large source of CO₂. At AKAFA in Svenstrup the task was to decarbonize without stopping production or the profit of the plant.</p>

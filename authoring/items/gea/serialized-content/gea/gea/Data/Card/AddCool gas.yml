@@ -1,0 +1,21 @@
+---
+ID: "256b28ee-85e5-498a-a3a6-103f428923b0"
+Parent: "e23e8e6a-9300-4d44-8411-31327e94c01e"
+Template: "ae78a83a-f23b-474e-8dcd-f25fd30c4c36"
+Path: "/sitecore/content/gea/gea/Data/Card/AddCool gas"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "9773b2ae-62a7-49d2-8824-d2ce24dca862"
+      Hint: 9773b2ae-62a7-49d2-8824-d2ce24dca862
+      Value: "Less natural gas"
+    - ID: "bc32be42-f331-4cb9-abd7-42ea18aa4716"
+      Hint: bc32be42-f331-4cb9-abd7-42ea18aa4716
+      Value: |
+        <p>At Arla Svenstrup, primary-air gas use fell 59%.</p>
+    - ID: "ec7453de-fe3a-4418-a209-8abaa41c60db"
+      Hint: ec7453de-fe3a-4418-a209-8abaa41c60db
+      Value: |
+        <link text="Arla case" linktype="external" url="/customer-cases/arla-addcool" anchor="" target="" />

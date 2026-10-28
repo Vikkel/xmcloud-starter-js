@@ -1,0 +1,13 @@
+---
+ID: "756e5fd2-fb50-4b9d-9e7e-4c47a9ad1988"
+Parent: "7e7f016a-2ddb-479a-bca3-3c411d24e858"
+Template: "9917b6db-56bf-4da9-adba-9415467ccab6"
+Path: "/sitecore/content/gea/gea/Data/HeroCarousel/Home carousel"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "aaff2306-d2cf-4218-b30c-cfad18cd04ce"
+      Hint: aaff2306-d2cf-4218-b30c-cfad18cd04ce
+      Value: "Home"

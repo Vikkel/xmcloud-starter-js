@@ -1,0 +1,23 @@
+---
+ID: "250ed3d7-fd97-4c6d-bea5-6e92c163f534"
+Parent: "281b363b-f902-4c0e-a6e3-6c761bb113bf"
+Template: "281b363b-f902-4c0e-a6e3-6c761bb113bf"
+Path: "/sitecore/templates/Project/gea/Footer Templates/Footer Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {69D37866-E9AF-4706-AAB3-E855FBA05BB4}
+    {281B363B-F902-4C0E-A6E3-6C761BB113BF}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

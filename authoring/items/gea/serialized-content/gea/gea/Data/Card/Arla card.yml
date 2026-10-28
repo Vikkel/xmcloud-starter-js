@@ -1,0 +1,24 @@
+---
+ID: "dfa87834-c958-4fd6-b365-e75bb0e7e5ae"
+Parent: "e23e8e6a-9300-4d44-8411-31327e94c01e"
+Template: "ae78a83a-f23b-474e-8dcd-f25fd30c4c36"
+Path: "/sitecore/content/gea/gea/Data/Card/Arla card"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3c9022f1-33f7-4978-8f3c-a100540ad5b7"
+      Hint: 3c9022f1-33f7-4978-8f3c-a100540ad5b7
+      Value: "Customer story"
+    - ID: "9773b2ae-62a7-49d2-8824-d2ce24dca862"
+      Hint: 9773b2ae-62a7-49d2-8824-d2ce24dca862
+      Value: "Arla Foods cuts spray dryer CO₂ with GEA AddCool®"
+    - ID: "bc32be42-f331-4cb9-abd7-42ea18aa4716"
+      Hint: bc32be42-f331-4cb9-abd7-42ea18aa4716
+      Value: |
+        <p>1,500 tons of CO₂ a year at the Svenstrup milk powder factory.</p>
+    - ID: "ec7453de-fe3a-4418-a209-8abaa41c60db"
+      Hint: ec7453de-fe3a-4418-a209-8abaa41c60db
+      Value: |
+        <link text="Read the case" linktype="external" url="/customer-cases/arla-addcool" anchor="" target="" />

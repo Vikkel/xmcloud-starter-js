@@ -2,7 +2,7 @@
 
 Generated from the 28 Oct 2026 capture of the Tier 1 pages in [GEA.md](./GEA.md). Machine-readable versions: [docs/gea/](./gea/) (`page-map.json`, `component-map.json`, `component-review.json`, `media-map.json`); the agent's working copies are in `design-screenshots/gea-com/` (gitignored).
 
-**Status: component manifest awaiting approval.** Nothing below has been built yet.
+**Status: Tier 1 pages are published to Edge.** React components are in `examples/gea` locally. Redeploy the `gea` editing host after this code is on the branch the host builds, or Pages will not render them. Images are grey placeholders.
 
 ## Target
 

@@ -1,0 +1,17 @@
+---
+ID: "0a1037c7-8614-4be4-b292-63c05ea33ed3"
+Parent: "53bf0f0a-a1b3-4362-9525-0c9fffafbca4"
+Template: "53bf0f0a-a1b3-4362-9525-0c9fffafbca4"
+Path: "/sitecore/templates/Project/gea/ProcessStep Templates/ProcessStep/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

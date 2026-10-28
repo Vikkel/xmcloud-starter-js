@@ -1,0 +1,13 @@
+---
+ID: "8dc9a532-e6e0-45f0-8b67-84debc7b1529"
+Parent: "66e57806-b3ae-410c-8c11-3905b6ddee4b"
+Template: "4ba19807-d0cf-4df4-947b-480ef0a87690"
+Path: "/sitecore/content/gea/gea/Data/CardGrid/AddCool pillars"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f39270d1-2bc9-4e5e-be50-b88fd93caf42"
+      Hint: f39270d1-2bc9-4e5e-be50-b88fd93caf42
+      Value: "Why AddCool®"

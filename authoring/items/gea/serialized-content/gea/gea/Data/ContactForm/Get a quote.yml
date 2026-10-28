@@ -1,0 +1,33 @@
+---
+ID: "b906479e-4f5c-405f-a799-96c2696431a1"
+Parent: "e28b9ac1-e210-46d3-8b08-f967c2cc7d9e"
+Template: "4d0b7b25-b251-4693-83f0-bede9549980b"
+Path: "/sitecore/content/gea/gea/Data/ContactForm/Get a quote"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4f30dd08-f6db-42b0-a1ee-1a8f5b59f530"
+      Hint: 4f30dd08-f6db-42b0-a1ee-1a8f5b59f530
+      Value: "Get a quote"
+    - ID: "195e405c-a340-4be1-97ab-63ee94208bc1"
+      Hint: 195e405c-a340-4be1-97ab-63ee94208bc1
+      Value: |
+        <p>Tell GEA about the milk powder line, spray dryer or AddCool® project. This form is for the demo only and is not submitted.</p>
+    - ID: "41ff53f1-b524-4d63-9b11-af9861f69f5f"
+      Hint: 41ff53f1-b524-4d63-9b11-af9861f69f5f
+      Value: "Area of interest"
+    - ID: "e9ffd00a-32ea-4251-b970-3caa2e38075d"
+      Hint: e9ffd00a-32ea-4251-b970-3caa2e38075d
+      Value: "Message"
+    - ID: "57fc3e70-ae36-49d2-a328-66583015c5d6"
+      Hint: 57fc3e70-ae36-49d2-a328-66583015c5d6
+      Value: "Your details"
+    - ID: "72b769ad-3835-4fcd-8610-d0b74d0ba966"
+      Hint: 72b769ad-3835-4fcd-8610-d0b74d0ba966
+      Value: "Submit"
+    - ID: "56fd42cb-0804-4deb-9130-6a9d25edb995"
+      Hint: 56fd42cb-0804-4deb-9130-6a9d25edb995
+      Value: |
+        <p>Thanks. In the demo this is where the known visitor would book a Drying Test Center trial.</p>

@@ -1,0 +1,52 @@
+---
+ID: "f859714b-259c-492e-9b7c-a9aecdbdc0bf"
+Parent: "e38e5637-06cf-44be-9e20-cffa8e0ae97b"
+Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
+Path: "/sitecore/content/gea/gea/Home/products/dryers-particle-processing"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B16764A8-F022-4ADE-BE24-E54025DBB504}"
+              p:before="*"
+              s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
+              s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
+              s:par="CSSStyles"
+              s:ph="headless-header" />
+            <r
+              uid="{18A4A62A-94CD-4DB7-B11C-E67AF0FF8859}"
+              p:after="r[@uid='{B16764A8-F022-4ADE-BE24-E54025DBB504}']"
+              s:ds="{B29C2209-EEAF-4D28-B5EB-2DAE8B5D7937}"
+              s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{C86C304F-4F6A-42D8-B150-C086AE87112B}"
+              p:after="r[@uid='{18A4A62A-94CD-4DB7-B11C-E67AF0FF8859}']"
+              s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
+              s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
+              s:par="CSSStyles"
+              s:ph="headless-footer" />
+            <r
+              uid="{237DD27E-B6B3-439F-AFD0-E2A3DE3D7B7A}"
+              p:after="r[@uid='{C86C304F-4F6A-42D8-B150-C086AE87112B}']"
+              s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
+              s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
+              s:par="CSSStyles"
+              s:ph="headless-footer" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
+      Hint: Title
+      Value: "Dryers and particle processing"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Dryers and particle processing"

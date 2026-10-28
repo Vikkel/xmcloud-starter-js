@@ -1,0 +1,33 @@
+---
+ID: "c957e74c-fd21-4381-a83b-d5ff263e6226"
+Parent: "2a87518b-1b56-4374-ba77-fd43bcd8ac34"
+Template: "69d37866-e9af-4706-aab3-e855fba05bb4"
+Path: "/sitecore/content/gea/gea/Data/Footer/Site footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: 32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e
+      Value: |
+        <p>Engineering for a better world.</p>
+    - ID: "5e876277-4181-47d1-9ddc-d61a7775f2a7"
+      Hint: 5e876277-4181-47d1-9ddc-d61a7775f2a7
+      Value: |
+        <p><strong>Products &amp; services</strong></p><p>Dairy, food, beverages, pharma and chemical processing.</p>
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: d6cb86f8-2978-4b00-b0d1-d2f829f99d27
+      Value: |
+        <p><strong>Company</strong></p><p>About us, sustainability, investors, media and careers.</p>
+    - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
+      Hint: 9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5
+      Value: |
+        <p><strong>Quick links</strong></p><p><a href="/contact">Contact</a></p><p><a href="/dairy-processing">Dairy processing</a></p>
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: 9179d22a-2b84-432f-a736-d277d09d7a1d
+      Value: |
+        <p>Imprint · Data protection · Cookie settings · Sitemap</p>
+    - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
+      Hint: 40c8a0ab-7462-43c7-b1e4-11204b7b5a50
+      Value: "© GEA"

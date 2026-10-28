@@ -1,0 +1,11 @@
+---
+ID: "599cb8ec-a00d-42a7-a069-063e316671ad"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "590e34dd-15c7-4089-9153-58186c36c745"
+Path: "/sitecore/content/gea/gea/Data/ProcessLine"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

@@ -1,0 +1,17 @@
+---
+ID: "4a9932ac-2abc-4540-8cf3-4e8e78bbd68d"
+Parent: "df873d89-cd75-4686-8cb3-b31cb90cc1f5"
+Template: "df873d89-cd75-4686-8cb3-b31cb90cc1f5"
+Path: "/sitecore/templates/Project/gea/IndustryTiles Templates/IndustryTiles Parameters/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

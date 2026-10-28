@@ -1,0 +1,23 @@
+---
+ID: "a7bc799e-dea6-4816-957a-a1293f5565a2"
+Parent: "3fd61f07-cbb6-4e09-bc64-50aeae5762fe"
+Template: "3fd61f07-cbb6-4e09-bc64-50aeae5762fe"
+Path: "/sitecore/templates/Project/gea/HeroSlide Templates/HeroSlide Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B94266D0-F0C1-40BC-8D2C-8884863E5FAA}
+    {3FD61F07-CBB6-4E09-BC64-50AEAE5762FE}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,17 @@
+---
+ID: "1709bded-09a4-441f-aff4-d8ad83114050"
+Parent: "8b322111-07b1-44f0-af5d-a557c5650a27"
+Template: "e05e75fc-009e-481d-aa3a-90780fb45f74"
+Path: "/sitecore/content/gea/gea/Data/CtaBanner/AddCool cta"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "d40de4df-ec58-419d-b0e3-3530f2575212"
+      Hint: d40de4df-ec58-419d-b0e3-3530f2575212
+      Value: "Want to know more? Get in touch with our experts today."
+    - ID: "5551376c-a537-4e8e-b8ad-67b0f52c2027"
+      Hint: 5551376c-a537-4e8e-b8ad-67b0f52c2027
+      Value: |
+        <link text="Contact us" linktype="external" url="/contact" anchor="" target="" />

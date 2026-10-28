@@ -1,0 +1,23 @@
+---
+ID: "48f39847-a877-4c0e-924e-0b3f9a683c8a"
+Parent: "8724afc0-1372-4b91-a377-50d2303f5f68"
+Template: "8724afc0-1372-4b91-a377-50d2303f5f68"
+Path: "/sitecore/templates/Project/gea/HeroCarousel Templates/HeroCarousel Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {9917B6DB-56BF-4DA9-ADBA-9415467CCAB6}
+    {8724AFC0-1372-4B91-A377-50D2303F5F68}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,11 @@
+---
+ID: "e7e9ae03-8546-4873-b06a-5dc7564b7dc6"
+Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
+Template: "a3e1711a-cb26-4aa1-bef8-b469edd07fdb"
+Path: "/sitecore/content/gea/gea/Data/IndustryTiles"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields: []
+

@@ -1,0 +1,13 @@
+---
+ID: "733ef506-25a3-497a-9547-f52585e3e44e"
+Parent: "599cb8ec-a00d-42a7-a069-063e316671ad"
+Template: "48169b17-947c-4205-8564-000b237c85fb"
+Path: "/sitecore/content/gea/gea/Data/ProcessLine/Milk powder line"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7f0404db-faf3-4a59-9b64-01bf99cf552e"
+      Hint: 7f0404db-faf3-4a59-9b64-01bf99cf552e
+      Value: "Milk powder process"

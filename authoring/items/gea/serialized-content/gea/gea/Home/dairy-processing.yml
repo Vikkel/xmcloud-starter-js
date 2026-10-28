@@ -1,0 +1,87 @@
+---
+ID: "ae01fd53-a967-416d-b593-c6851dbd21bb"
+Parent: "189ff498-abc0-4f8f-b950-cd8e127ca7a0"
+Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
+Path: "/sitecore/content/gea/gea/Home/dairy-processing"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{EC30E956-53C8-4BCC-A96B-A4A16D01B914}"
+              p:before="*"
+              s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
+              s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
+              s:par="CSSStyles"
+              s:ph="headless-header" />
+            <r
+              uid="{8AAB0552-D9B7-4B9D-9D91-3BA87E8D160F}"
+              p:after="r[@uid='{EC30E956-53C8-4BCC-A96B-A4A16D01B914}']"
+              s:ds="{CC36C213-20E3-43DC-8001-40346CB08D35}"
+              s:id="{E11A3298-142B-4E24-9F48-CFEF0324DFDE}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{A90CD82F-7326-4B1F-AA71-CFC9514D7E97}"
+              p:after="r[@uid='{8AAB0552-D9B7-4B9D-9D91-3BA87E8D160F}']"
+              s:ds="{48D89EBE-959E-4CED-B408-0739058E80AF}"
+              s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
+              s:par="CSSStyles&amp;Variant=Split"
+              s:ph="headless-main" />
+            <r
+              uid="{E4E3FC89-2E6F-4654-8E9B-652EDDC4CC3D}"
+              p:after="r[@uid='{A90CD82F-7326-4B1F-AA71-CFC9514D7E97}']"
+              s:ds="{54B658CD-25BC-42C0-8437-55C2BE085CF1}"
+              s:id="{6B6F0D2A-981C-4064-B308-AC85FDCF4F11}"
+              s:par="CSSStyles&amp;Variant=Inline"
+              s:ph="headless-main" />
+            <r
+              uid="{3E396F68-3397-4254-9D74-1C27E08B64FE}"
+              p:after="r[@uid='{E4E3FC89-2E6F-4654-8E9B-652EDDC4CC3D}']"
+              s:ds="{14678D88-A7F8-47C3-BF7C-5A50B325DC10}"
+              s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
+              s:par="CSSStyles&amp;Variant=Default"
+              s:ph="headless-main" />
+            <r
+              uid="{C6CD5370-4EB7-4B6F-BED9-C62B13E2D375}"
+              p:after="r[@uid='{3E396F68-3397-4254-9D74-1C27E08B64FE}']"
+              s:ds="{32C8EE94-3BCC-438D-B5AA-982A366F1741}"
+              s:id="{6E669F20-7200-494A-921F-8B3B1EEADC22}"
+              s:par="CSSStyles&amp;Variant=Carousel&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{AFCC01A5-A6CC-48F7-B797-26A729D56E33}"
+              p:after="r[@uid='{C6CD5370-4EB7-4B6F-BED9-C62B13E2D375}']"
+              s:ds="{DFA87834-C958-4FD6-B365-E75BB0E7E5AE}"
+              s:id="{93DA15D4-F679-4CE6-8F89-743D02C5CC16}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/cards-1" />
+            <r
+              uid="{CD87D962-A680-4A24-94A5-E69F6DF2FBA4}"
+              p:after="r[@uid='{AFCC01A5-A6CC-48F7-B797-26A729D56E33}']"
+              s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
+              s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
+              s:par="CSSStyles"
+              s:ph="headless-footer" />
+            <r
+              uid="{5BD3EB27-CD23-43BD-934A-7A609D645608}"
+              p:after="r[@uid='{CD87D962-A680-4A24-94A5-E69F6DF2FBA4}']"
+              s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
+              s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
+              s:par="CSSStyles"
+              s:ph="headless-footer" />
+          </d>
+        </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
+      Hint: Title
+      Value: "Dairy processing"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Dairy processing"

@@ -1,0 +1,24 @@
+---
+ID: "5a0762ca-b70f-4afd-800d-a34db9e374c6"
+Parent: "5bf726f5-3517-4b68-86b6-26ba2a415f31"
+Template: "ffc35154-3a9e-4d13-aa32-c8ac63d5f462"
+Path: "/sitecore/content/gea/gea/Data/HeroBanner/Test center hero"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11784cbe-1f6f-4619-bad0-f9b377e13e94"
+      Hint: 11784cbe-1f6f-4619-bad0-f9b377e13e94
+      Value: "Drying Test Center"
+    - ID: "17263a7b-c05f-40f2-b553-44833602d30f"
+      Hint: 17263a7b-c05f-40f2-b553-44833602d30f
+      Value: "Test. Perfect. Scale."
+    - ID: "f7a50d20-928a-4e3b-9e9d-2b737428c5a0"
+      Hint: f7a50d20-928a-4e3b-9e9d-2b737428c5a0
+      Value: |
+        <p>Trial a spray drying process before you commit the plant.</p>
+    - ID: "99871749-be90-498e-ab30-d2542c9a8f9e"
+      Hint: 99871749-be90-498e-ab30-d2542c9a8f9e
+      Value: |
+        <link text="Contact us" linktype="external" url="/contact" anchor="" target="" />

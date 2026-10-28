@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "project": "gea-com",
+  "brand": "GEA",
+  "site": {
+    "displayName": "gea",
+    "systemName": "gea",
+    "collection": "gea",
+    "path": "/sitecore/content/gea/gea",
+    "editingHost": "gea",
+    "appPath": "examples/gea",
+    "module": "authoring/items/gea/gea.module.json",
+    "namespace": "gea-scs",
+    "mediaRoot": "/sitecore/media library/Project/gea/gea",
+    "mediaRootId": "4378179a-0ac5-4725-bae2-0a9d8977eb8a"
+  },
+  "tenant": {
+    "portal": "https://app.sitecorecloud.io/strategy/overview?organization=org_Yr0e8LadQ1bxB05s&tenantName=sitecoresaa2551-mvmdemo93ad-mvmdemoauthadc2",
+    "organization": "org_Yr0e8LadQ1bxB05s",
+    "tenantName": "sitecoresaa2551-mvmdemo93ad-mvmdemoauthadc2",
+    "cmHostGuess": "https://xmc-sitecoresaa2551-mvmdemo93ad-mvmdemoauthadc2.sitecorecloud.io",
+    "notes": "CM host follows the usual xmc-{tenantName} pattern; confirm in the Deploy portal before ser login."
+  },
+  "baseUrl": "https://www.gea.com/en",
+  "capturedAt": "2026-10-28T16:30:00Z",
+  "captureMethod": "Built-in browser DOM capture (sections, headings, CTAs, images, computed styles) + text fetch. PNGs: run capture.mjs locally (docs/GEA-SITE-MAP.md).",
+  "statusValues": {
+    "captured": "Structure captured; page YAML not composed.",
+    "composed": "Layout + datasources in local YAML.",
+    "pushed": "Serialized to CM.",
+    "published": "On Edge."
+  },
+  "pages": [
+    {
+      "slug": "home",
+      "label": "Home",
+      "url": "https://www.gea.com/en/",
+      "routePath": "/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home",
+      "yamlRelativePath": "Home.yml",
+      "kind": "home",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "1.1"
+      ],
+      "heroImage": null,
+      "composition": [
+        "headless-header: Header",
+        "headless-main: HeroCarousel (3 HeroSlide)",
+        "headless-main: Promo ImageLeft - About us",
+        "headless-main: IndustryTiles Blue (12 IndustryTile)",
+        "headless-main: LinkList Plus - products overview, GEA Service",
+        "headless-main: Promo Compact - quarterly statement",
+        "headless-main: Promo ImageRight - Sustainability",
+        "headless-main: CardGrid Insights (5 Card)",
+        "headless-main: Promo ImageLeft - Careers",
+        "headless-main: CardGrid News (3 Card)",
+        "headless-footer: NewsletterContactBand",
+        "headless-footer: Footer"
+      ]
+    },
+    {
+      "slug": "dairy-processing",
+      "label": "Dairy (industry landing)",
+      "url": "https://www.gea.com/en/dairy-processing/",
+      "routePath": "/dairy-processing/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home/dairy-processing",
+      "yamlRelativePath": "Home/dairy-processing.yml",
+      "kind": "industry",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "3.2",
+        "5.1"
+      ],
+      "heroImage": "/-/media/industries/dairy-processing/gea-dairy-proccessing-industry.jpg",
+      "composition": [
+        "headless-main: PageNav (Markets, Products, Downloads, Videos + Contact/Get a quote)",
+        "headless-main: HeroBanner Split - Specialists in processing white gold",
+        "headless-main: LinkList Inline - Explore our products (9 categories)",
+        "headless-main: IndustryTiles Outline - 8 markets",
+        "headless-main: RichText - 3 intro blocks",
+        "headless-main: CardGrid Carousel - 15 customer cases",
+        "headless-main: RichText - test centers intro",
+        "headless-main: CardGrid Promo - 3 test centers",
+        "headless-main: Promo ImageLeft - GEA Dairy LinkedIn",
+        "headless-main: ProductCardList Grid with filters (61 products, shows 4)",
+        "headless-main: Promo - milk lactoferrin",
+        "headless-main: CardGrid - 2 dairy cases",
+        "headless-main: CardGrid Insights - 3 stories"
+      ]
+    },
+    {
+      "slug": "milk-powders",
+      "label": "Milk powders (market page)",
+      "url": "https://www.gea.com/en/dairy-processing/milk-powders/",
+      "routePath": "/dairy-processing/milk-powders/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home/dairy-processing/milk-powders",
+      "yamlRelativePath": "Home/dairy-processing/milk-powders.yml",
+      "kind": "market",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "1.1",
+        "2.1",
+        "2.2",
+        "2.3",
+        "3.1"
+      ],
+      "heroImage": "/-/media/industries/dairy-processing/milk-powders/milk-powder.jpg",
+      "composition": [
+        "headless-main: PageNav (Products, Downloads, Videos + Contact/Get a quote)",
+        "headless-main: Breadcrumb",
+        "headless-main: HeroBanner Split - Supplying global milk powder plants",
+        "headless-main: RichText Lead - intro + image + Show more",
+        "headless-main: ProcessLine (12 ProcessStep with product links)",
+        "headless-main: Promo ImageLeft - OptiPartner Spray drying, optimized",
+        "headless-main: CardGrid Promo - Danone case, MMPA case, LinkedIn",
+        "headless-main: ProductCardList Grid with filters (40 products)",
+        "headless-main: CardGrid Insights - 3 stories"
+      ]
+    },
+    {
+      "slug": "msd-spray-dryer",
+      "label": "MSD Spray Dryer (product)",
+      "url": "https://www.gea.com/en/products/dryers-particle-processing/spray-dryers/msd-spray-dryer/",
+      "routePath": "/products/dryers-particle-processing/spray-dryers/msd-spray-dryer/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers/msd-spray-dryer",
+      "yamlRelativePath": "Home/products/dryers-particle-processing/spray-dryers/msd-spray-dryer.yml",
+      "kind": "product",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "2.1"
+      ],
+      "heroImage": "/-/media/migratedfromtridion/market/msd-spray-dryer-36506.jpg",
+      "composition": [
+        "headless-main: PageNav (Videos + Contact/Get a quote)",
+        "headless-main: Breadcrumb",
+        "headless-main: HeroBanner Split - eyebrow, H1, lede, Contact/Get a quote",
+        "headless-main: RichText - 5 sections + benefits list",
+        "headless-main: RichText - upgrades, hygiene, efficiency, sustainability, testing",
+        "headless-main: Promo ImageLeft - OptiPartner",
+        "headless-main: ProductCardList Row - Related products (4)",
+        "headless-main: ProductCardList Row - Service products (2)",
+        "headless-main: CardGrid Insights - 3 stories"
+      ]
+    },
+    {
+      "slug": "gea-add-cool",
+      "label": "GEA AddCool (product)",
+      "url": "https://www.gea.com/en/products/dryers-particle-processing/spray-dryers/gea-add-cool/",
+      "routePath": "/products/dryers-particle-processing/spray-dryers/gea-add-cool/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers/gea-add-cool",
+      "yamlRelativePath": "Home/products/dryers-particle-processing/spray-dryers/gea-add-cool.yml",
+      "kind": "product",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "2.1",
+        "6.1"
+      ],
+      "heroImage": "/-/media/products/dryers-and-particle-processing-plants/addcool/gea-addcool-heat-pump-solution-spray-dryers.jpg",
+      "composition": [
+        "headless-main: PageNav",
+        "headless-main: Breadcrumb",
+        "headless-main: HeroBanner Split",
+        "headless-main: RichText",
+        "headless-main: CardGrid Feature - 3 pillars",
+        "headless-main: Promo ImageLeft - Add Better label",
+        "headless-main: Promo - savings calculator (CTA only, no form)",
+        "headless-main: CardGrid Promo - Arla case, energy audit case",
+        "headless-main: RichText - how it works, matching, benefits",
+        "headless-main: CtaBanner - Want to know more? Contact us",
+        "headless-main: ProductCardList Row - Related (4)",
+        "headless-main: ProductCardList Row - Service (2)",
+        "headless-main: CardGrid Insights"
+      ]
+    },
+    {
+      "slug": "arla-addcool",
+      "label": "Arla AddCool (customer case)",
+      "url": "https://www.gea.com/en/customer-cases/arla-addcool/",
+      "routePath": "/customer-cases/arla-addcool/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home/customer-cases/arla-addcool",
+      "yamlRelativePath": "Home/customer-cases/arla-addcool.yml",
+      "kind": "case",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "1.1",
+        "2.1",
+        "4.1",
+        "7.2"
+      ],
+      "heroImage": "/-/media/customer-cases/2025-arla-addcool/arla-site-svenstrup.jpg",
+      "composition": [
+        "headless-main: HeroBanner Case - eyebrow Customer story, H1, Contact us, image",
+        "headless-main: RichText Lead",
+        "headless-main: RichText - challenge",
+        "headless-main: Quote (Line Brandt Pedersen)",
+        "headless-main: RichText - solution",
+        "headless-main: Quote (Jens Lokke Ganderup)",
+        "headless-main: ImageGallery (3)",
+        "headless-main: RichText - results list",
+        "headless-main: Image - impact graphs",
+        "headless-main: Quote",
+        "headless-main: RichText - the future",
+        "headless-main: Promo ImageLeft - GEA AddCool / Add Better"
+      ]
+    },
+    {
+      "slug": "drying-test-center",
+      "label": "Drying Test Center (product / service)",
+      "url": "https://www.gea.com/en/products/dryers-particle-processing/spray-dryers/drying-test-center/",
+      "routePath": "/products/dryers-particle-processing/spray-dryers/drying-test-center/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers/drying-test-center",
+      "yamlRelativePath": "Home/products/dryers-particle-processing/spray-dryers/drying-test-center.yml",
+      "kind": "product",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "5.1",
+        "8.1"
+      ],
+      "heroImage": "/-/media/products/dryers-and-particle-processing-plants/spray-dryers/gea-drying-test-facility.jpg",
+      "composition": [
+        "headless-main: HeroBanner Split - Test. Perfect. Scale. + Contact us",
+        "headless-main: PageNav",
+        "headless-main: RichText - 2 blocks",
+        "headless-main: CardGrid Feature - 3 services",
+        "headless-main: RichText + Image - Virtual spray dryer testing",
+        "headless-main: RichText - Drynetics, powder testing",
+        "headless-main: CardGrid Feature - 9 applications",
+        "headless-main: ProductCardList Row - Related (4)",
+        "headless-main: ProductCardList Row - Service (2)",
+        "headless-main: CardGrid Insights"
+      ]
+    },
+    {
+      "slug": "contact",
+      "label": "Contact / Get a quote",
+      "url": "https://www.gea.com/en/contact/?cu=contact-us-get-a-quote",
+      "routePath": "/contact/",
+      "sitecorePath": "/sitecore/content/gea/gea/Home/contact",
+      "yamlRelativePath": "Home/contact.yml",
+      "kind": "contact",
+      "status": "captured",
+      "tier": 1,
+      "storyActs": [
+        "7.1",
+        "8.1"
+      ],
+      "heroImage": null,
+      "composition": [
+        "headless-main: ContactForm - area of interest (2 selects), message, first/last name, company, email, phone, zip, city, country, Submit"
+      ]
+    }
+  ],
+  "intermediatePages": [
+    {
+      "sitecorePath": "/sitecore/content/gea/gea/Home/products",
+      "note": "Folder page so routes resolve; simple page until Tier 2 is captured."
+    },
+    {
+      "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing",
+      "note": "Folder page so routes resolve; simple page until Tier 2 is captured."
+    },
+    {
+      "sitecorePath": "/sitecore/content/gea/gea/Home/products/dryers-particle-processing/spray-dryers",
+      "note": "Folder page so routes resolve; simple page until Tier 2 is captured."
+    },
+    {
+      "sitecorePath": "/sitecore/content/gea/gea/Home/customer-cases",
+      "note": "Folder page so routes resolve; simple page until Tier 2 is captured."
+    }
+  ]
+}

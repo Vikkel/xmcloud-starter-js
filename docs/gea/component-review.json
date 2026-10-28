@@ -1,0 +1,706 @@
+{
+  "project": "gea-com",
+  "sourceUrls": [
+    "https://www.gea.com/en/",
+    "https://www.gea.com/en/dairy-processing/",
+    "https://www.gea.com/en/dairy-processing/milk-powders/",
+    "https://www.gea.com/en/products/dryers-particle-processing/spray-dryers/msd-spray-dryer/",
+    "https://www.gea.com/en/products/dryers-particle-processing/spray-dryers/gea-add-cool/",
+    "https://www.gea.com/en/customer-cases/arla-addcool/",
+    "https://www.gea.com/en/products/dryers-particle-processing/spray-dryers/drying-test-center/",
+    "https://www.gea.com/en/contact/?cu=contact-us-get-a-quote"
+  ],
+  "generatedAt": "2026-10-28T16:30:00Z",
+  "approval": "PENDING",
+  "components": [
+    {
+      "id": "C01",
+      "cmsName": "Header",
+      "visualRole": "Two rows: utility bar (search, Log in, language, blue pill Contact) and nav row (Products & Services mega-menu trigger left; About us, Sustainability, Investors, Media, Careers right). Mega-menu from a LinkList datasource. Pattern: header-navigation skill.",
+      "scope": "site",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "all"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#all"
+      ],
+      "fields": [
+        "logo",
+        "searchPlaceholder",
+        "loginLink",
+        "languageLabel",
+        "contactLink",
+        "primaryLinks[]",
+        "productsMenuLabel"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C02",
+      "cmsName": "Footer",
+      "visualRole": "Light grey #F4F4F4. Columns: Products & services (12 industries), Company, Quick links. Legal row: Imprint, Data Protection Notice, Cookie settings, Sitemap.",
+      "scope": "site",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "all"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#all"
+      ],
+      "fields": [
+        "logo",
+        "aboutText",
+        "legalText",
+        "copyright",
+        "socialLinks[]"
+      ],
+      "placeholders": [
+        {
+          "name": "footer-columns",
+          "allows": [
+            "FooterLinkColumn"
+          ]
+        }
+      ],
+      "parentSection": null,
+      "placeholderFor": "FooterLinkColumn",
+      "confidence": "high"
+    },
+    {
+      "id": "C03",
+      "cmsName": "NewsletterContactBand",
+      "visualRole": "Receive news from GEA + Contact us blocks above the footer on every page. Lives on the footer partial design.",
+      "scope": "site",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "all"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#all"
+      ],
+      "fields": [
+        "newsTitle",
+        "newsText",
+        "newsLink",
+        "contactTitle",
+        "contactText",
+        "contactLink"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C04",
+      "cmsName": "Breadcrumb",
+      "visualRole": "Reads ancestors from layout; pattern vendored in header-navigation skill.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#milk-powders"
+      ],
+      "fields": [],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C05",
+      "cmsName": "PageNav",
+      "visualRole": "Sticky in-page bar: page title + anchor links built from components with an anchorId rendering parameter + Contact us / Get a quote buttons.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "drying-test-center"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#dairy-processing"
+      ],
+      "fields": [
+        "title",
+        "contactLink",
+        "quoteLink"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C06",
+      "cmsName": "HeroCarousel",
+      "visualRole": "Full-bleed image slides; eyebrow link, uppercase H1 (GEA Head), green #1AFF80 Read more pill, numbered progress + prev/next.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "home"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [],
+      "placeholders": [
+        {
+          "name": "hero-slides",
+          "allows": [
+            "HeroSlide"
+          ]
+        }
+      ],
+      "parentSection": null,
+      "placeholderFor": "HeroSlide",
+      "confidence": "high"
+    },
+    {
+      "id": "C07",
+      "cmsName": "HeroSlide",
+      "visualRole": "",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "home"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [
+        "image",
+        "eyebrow",
+        "title",
+        "link"
+      ],
+      "placeholders": [],
+      "parentSection": "HeroCarousel",
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C08",
+      "cmsName": "HeroBanner",
+      "visualRole": "Split: blue #0303B8 panel left (eyebrow, uppercase H1, lede, green pill CTA) + image right. Case: Customer story eyebrow, H1, Contact us, image. Story: date + H1 + lede (Tier 2).",
+      "scope": "page",
+      "action": "create",
+      "variants": [
+        "Split",
+        "Case",
+        "Story"
+      ],
+      "pageSlugs": [
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "drying-test-center",
+        "arla-addcool"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#dairy-processing"
+      ],
+      "fields": [
+        "eyebrow",
+        "title",
+        "lede",
+        "image",
+        "primaryLink",
+        "secondaryLink"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C09",
+      "cmsName": "RichText",
+      "visualRole": "Lead = larger intro with optional Show more. Rendering parameter anchorId feeds PageNav.",
+      "scope": "page",
+      "action": "create",
+      "variants": [
+        "Default",
+        "Lead"
+      ],
+      "pageSlugs": [
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "drying-test-center",
+        "arla-addcool"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#dairy-processing"
+      ],
+      "fields": [
+        "heading",
+        "text"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C10",
+      "cmsName": "Promo",
+      "visualRole": "Image + text + link. Grey #F5F5F5 panel on home About/Careers.",
+      "scope": "page",
+      "action": "create",
+      "variants": [
+        "ImageLeft",
+        "ImageRight",
+        "Compact"
+      ],
+      "pageSlugs": [
+        "home",
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "arla-addcool"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [
+        "image",
+        "eyebrow",
+        "title",
+        "text",
+        "link"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C11",
+      "cmsName": "IndustryTiles",
+      "visualRole": "Blue: white icon on #0303B8 tile (home). Outline: blue icon + label (dairy markets).",
+      "scope": "page",
+      "action": "create",
+      "variants": [
+        "Blue",
+        "Outline"
+      ],
+      "pageSlugs": [
+        "home",
+        "dairy-processing"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [
+        "title"
+      ],
+      "placeholders": [
+        {
+          "name": "industry-tiles",
+          "allows": [
+            "IndustryTile"
+          ]
+        }
+      ],
+      "parentSection": null,
+      "placeholderFor": "IndustryTile",
+      "confidence": "high"
+    },
+    {
+      "id": "C12",
+      "cmsName": "IndustryTile",
+      "visualRole": "",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "home",
+        "dairy-processing"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [
+        "icon",
+        "label",
+        "link"
+      ],
+      "placeholders": [],
+      "parentSection": "IndustryTiles",
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C13",
+      "cmsName": "LinkList",
+      "visualRole": "Inline comma list (Explore our products); Plus = + Overview of our products headline links.",
+      "scope": "page",
+      "action": "create",
+      "variants": [
+        "Inline",
+        "Plus"
+      ],
+      "pageSlugs": [
+        "home",
+        "dairy-processing"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [
+        "title",
+        "links[]"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C14",
+      "cmsName": "CardGrid",
+      "visualRole": "One grid for stories, news, customer cases (Carousel), test centres (Promo) and pillars/applications (Feature).",
+      "scope": "page",
+      "action": "create",
+      "variants": [
+        "Insights",
+        "News",
+        "Carousel",
+        "Promo",
+        "Feature"
+      ],
+      "pageSlugs": [
+        "home",
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "drying-test-center"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [
+        "title",
+        "link"
+      ],
+      "placeholders": [
+        {
+          "name": "cards",
+          "allows": [
+            "Card"
+          ]
+        }
+      ],
+      "parentSection": null,
+      "placeholderFor": "Card",
+      "confidence": "high"
+    },
+    {
+      "id": "C15",
+      "cmsName": "Card",
+      "visualRole": "Title is the link; separate CTA text. Do not wrap the whole card in one anchor.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "home",
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "drying-test-center"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#home"
+      ],
+      "fields": [
+        "image",
+        "eyebrow",
+        "title",
+        "text",
+        "link"
+      ],
+      "placeholders": [],
+      "parentSection": "CardGrid",
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C16",
+      "cmsName": "ProcessLine",
+      "visualRole": "Numbered stepper/accordion: 12 steps from cream separation to automation. Key component for the Page Builder edit and translation demo.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "milk-powders"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#milk-powders"
+      ],
+      "fields": [
+        "title",
+        "overviewImage"
+      ],
+      "placeholders": [
+        {
+          "name": "process-steps",
+          "allows": [
+            "ProcessStep"
+          ]
+        }
+      ],
+      "parentSection": null,
+      "placeholderFor": "ProcessStep",
+      "confidence": "high"
+    },
+    {
+      "id": "C17",
+      "cmsName": "ProcessStep",
+      "visualRole": "Number from position. links = product pages.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "milk-powders"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#milk-powders"
+      ],
+      "fields": [
+        "title",
+        "text",
+        "image",
+        "links[]"
+      ],
+      "placeholders": [],
+      "parentSection": "ProcessLine",
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C18",
+      "cmsName": "ProductCardList",
+      "visualRole": "Grid = Products & Technologies with category filter chips + View more. Row = Related Products / Service Products.",
+      "scope": "page",
+      "action": "create",
+      "variants": [
+        "Grid",
+        "Row"
+      ],
+      "pageSlugs": [
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "drying-test-center"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#dairy-processing"
+      ],
+      "fields": [
+        "title",
+        "link",
+        "filterLabels[]"
+      ],
+      "placeholders": [
+        {
+          "name": "product-cards",
+          "allows": [
+            "ProductCard"
+          ]
+        }
+      ],
+      "parentSection": null,
+      "placeholderFor": "ProductCard",
+      "confidence": "high"
+    },
+    {
+      "id": "C19",
+      "cmsName": "ProductCard",
+      "visualRole": "",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "dairy-processing",
+        "milk-powders",
+        "msd-spray-dryer",
+        "gea-add-cool",
+        "drying-test-center"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#dairy-processing"
+      ],
+      "fields": [
+        "image",
+        "title",
+        "text",
+        "category",
+        "link"
+      ],
+      "placeholders": [],
+      "parentSection": "ProductCardList",
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C20",
+      "cmsName": "Quote",
+      "visualRole": "Large pull quote with optional portrait.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "arla-addcool"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#arla-addcool"
+      ],
+      "fields": [
+        "quote",
+        "name",
+        "role",
+        "image"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C21",
+      "cmsName": "ImageGallery",
+      "visualRole": "3-image slider with captions.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "arla-addcool"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#arla-addcool"
+      ],
+      "fields": [
+        "images[] (image + caption)"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C22",
+      "cmsName": "Image",
+      "visualRole": "",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "arla-addcool",
+        "drying-test-center"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#arla-addcool"
+      ],
+      "fields": [
+        "image",
+        "caption"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C23",
+      "cmsName": "CtaBanner",
+      "visualRole": "Want to know more? Get in touch with our experts today + Contact us.",
+      "scope": "page",
+      "action": "create",
+      "variants": [],
+      "pageSlugs": [
+        "gea-add-cool"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#gea-add-cool"
+      ],
+      "fields": [
+        "title",
+        "link"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    },
+    {
+      "id": "C24",
+      "cmsName": "ContactForm",
+      "visualRole": "Decide: (a) custom React form, demo only, no real submission, or (b) SitecoreAI Forms via the built-in Form component (authorable; needs Forms in the tenant).",
+      "scope": "page",
+      "action": "unclear",
+      "variants": [],
+      "pageSlugs": [
+        "contact"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#contact"
+      ],
+      "fields": [
+        "title",
+        "intro",
+        "areaLabel",
+        "messageLabel",
+        "contactInfoLabel",
+        "submitLabel",
+        "thankYouText"
+      ],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "medium"
+    },
+    {
+      "id": "C25",
+      "cmsName": "PartialDesignDynamicPlaceholder",
+      "visualRole": "Already in examples/gea.",
+      "scope": "site",
+      "action": "reuse",
+      "variants": [],
+      "pageSlugs": [
+        "all"
+      ],
+      "evidence": [
+        "design-screenshots/gea-com/page-map.json#all"
+      ],
+      "fields": [],
+      "placeholders": [],
+      "parentSection": null,
+      "placeholderFor": null,
+      "confidence": "high"
+    }
+  ]
+}

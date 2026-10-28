@@ -1,5 +1,14 @@
 # Agents.md - XM Cloud Starter Kits AI Guidance
 
+## Demo-site tooling in this fork (read first)
+
+This clone is a fork used for **SitecoreAI prospect demos**. Website-mimic, capture and YAML-generator skills live in `.cursor/skills/` (mirrored to `.agents/skills/`); the index is `.cursor/AGENTS.md` and the site list is `.cursor/SITE-REGISTRY.md`.
+
+- New demo hosts go in `examples/{folder}/`; never modify the upstream starters for a demo.
+- Each demo has its own collection: `authoring/items/{collection}/{collection}.module.json`, site `/sitecore/content/{collection}/{site}`.
+- Current demo: **GEA** (`examples/gea`, planned) — see `docs/GEA.md` for the story, personas and the pages to mimic.
+- When a site is created or renamed, run the `new-site-inventory` skill in the same change.
+
 ## Project Overview
 
 This repository contains **XM Cloud Front End Application Starter Kits** - a collection of production-ready Next.js starter applications for Sitecore XM Cloud development. Each starter demonstrates modern headless CMS patterns with Sitecore Content SDK integration.

@@ -152,3 +152,15 @@ Referenced:
 @authoring/
 @local-containers/
 @CONTRIBUTING.md
+## Demo sites in this fork (SitecoreAI demos)
+
+This clone (`xmcloud-starter-js-1`) is a **fork used for prospect demos**, not a PR target for upstream. Demo work stays here; do not propose demo hosts upstream.
+
+- Demo rendering hosts live in `examples/{folder}/` next to the upstream starters. Do not modify the upstream starters for a demo.
+- Each demo has its own isolated collection: `authoring/items/{collection}/{collection}.module.json`, site `/sitecore/content/{collection}/{site}`.
+- Register each host in `xmcloud.build.json` with `path: ./examples/{folder}`, `nodeVersion: 24.22.1`, `packageManager: npm`.
+- Website mimic, YAML generators and capture tooling are skills in `.cursor/skills/` (mirrored in `.agents/skills/`). Index: `.cursor/AGENTS.md`. Registry: `.cursor/SITE-REGISTRY.md`.
+- Reference implementations for full industry verticals are in the sibling repo `C:\code\sitecore\spd-csdk-verticals` (patterns only; never copy GUIDs or env values).
+
+Demo sites:
+- `gea` — **GEA** (industrial B2B, food/dairy/pharma process technology). Scaffolded (`examples/gea`, `authoring/items/gea`), not yet built; mimic of https://www.gea.com/en/. Guide: `docs/GEA.md`. Skill: `industry-industrial`.

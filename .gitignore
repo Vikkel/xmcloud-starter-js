@@ -49,3 +49,17 @@ packages/
 
 # VS Code settings
 .vscode/
+
+# Demo tooling (ported from spd-csdk-verticals)
+node_modules/
+.local/
+design-screenshots/
+.env
+.env.*
+!.env.example
+!.env.remote.example
+!.env.remote.site
+!.env.container.example
+!.env*.example
+.env copy
+*.tsbuildinfo

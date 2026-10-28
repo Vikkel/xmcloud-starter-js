@@ -1,0 +1,1578 @@
+{
+  "version": 1,
+  "project": "gea-com",
+  "site": "gea",
+  "status": "pending-download",
+  "generatedAt": "2026-10-28T16:30:00Z",
+  "library": {
+    "root": "/sitecore/media library/Project/gea/gea",
+    "rootId": "4378179a-0ac5-4725-bae2-0a9d8977eb8a",
+    "diskRoot": "authoring/items/gea/serialized-content/media-library/gea/gea",
+    "fieldShape": "<image mediaid=\"{MEDIA-ITEM-GUID}\" />",
+    "generator": ".cursor/skills/sitecore-yaml/generators/sitecore-media-from-url-yaml/scripts/create-media-from-urls.ps1",
+    "runner": "authoring/items/gea/scripts/media-maps/download-gea-media.ps1"
+  },
+  "contentHub": {
+    "status": "not-configured",
+    "notes": "Optional: upload to a GEA brand in Content Hub and switch fields to DAM src + dam-id."
+  },
+  "rules": [
+    "Never put cdn.gea.com URLs in serialized fields; fields reference media items by GUID.",
+    "Library path mirrors the gea.com /-/media path under the site media root (dedupes -/media and -/jssmedia).",
+    "Priority 1 = logo, icons, heroes, home, milk powders, Arla case; priority 2 = product-grid thumbnails and test-centre application images."
+  ],
+  "assetCount": 119,
+  "priority1": 66,
+  "assets": [
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/2025-arla-addcool/add-better-solution-arla.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/add-better-solution-arla.jpg",
+      "pages": [
+        "arla-addcool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/add-better-solution-arla",
+      "type": "image",
+      "alt": "add better solution arla",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/2025-arla-addcool/addcool-impact-graphs.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/addcool-impact-graphs.jpg",
+      "pages": [
+        "arla-addcool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/addcool-impact-graphs",
+      "type": "image",
+      "alt": "addcool impact graphs",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/customer-cases/2025-arla-addcool/arla-site-svenstrup.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/arla-site-svenstrup.jpg",
+      "pages": [
+        "arla-addcool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/arla-site-svenstrup",
+      "type": "image",
+      "alt": "arla site svenstrup",
+      "use": "hero",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/customer-cases/2025-arla-addcool/arla-spray-dried-milk-powder.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/arla-spray-dried-milk-powder.jpg",
+      "pages": [
+        "arla-addcool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/arla-spray-dried-milk-powder",
+      "type": "image",
+      "alt": "arla spray dried milk powder",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/customer-cases/2025-arla-addcool/arla-spray-dryer.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/arla-spray-dryer.jpg",
+      "pages": [
+        "arla-addcool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/arla-spray-dryer",
+      "type": "image",
+      "alt": "arla spray dryer",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/2025-arla-addcool/line-brandt-pedersen-arla.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/line-brandt-pedersen-arla.jpg",
+      "pages": [
+        "arla-addcool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/line-brandt-pedersen-arla",
+      "type": "image",
+      "alt": "line brandt pedersen arla",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/36493__milk-powders.svg",
+      "libraryPath": "icons/36493__milk-powders.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/36493__milk-powders",
+      "type": "icon",
+      "alt": "36493 milk powders",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/36494__nutritional-formula.svg",
+      "libraryPath": "icons/36494__nutritional-formula.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/36494__nutritional-formula",
+      "type": "icon",
+      "alt": "36494 nutritional formula",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/51653__ice-cream.svg",
+      "libraryPath": "icons/51653__ice-cream.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/51653__ice-cream",
+      "type": "icon",
+      "alt": "51653 ice cream",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/51702desserts--fermented-products.svg",
+      "libraryPath": "icons/51702desserts--fermented-products.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/51702desserts--fermented-products",
+      "type": "icon",
+      "alt": "51702desserts fermented products",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/52491milk--cream.svg",
+      "libraryPath": "icons/52491milk--cream.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/52491milk--cream",
+      "type": "icon",
+      "alt": "52491milk cream",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/52502__milk-fat-products.svg",
+      "libraryPath": "icons/52502__milk-fat-products.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/52502__milk-fat-products",
+      "type": "icon",
+      "alt": "52502 milk fat products",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/942__cheese.svg",
+      "libraryPath": "icons/942__cheese.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/942__cheese",
+      "type": "icon",
+      "alt": "942 cheese",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/948__dairy-ingredients.svg",
+      "libraryPath": "icons/948__dairy-ingredients.svg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/948__dairy-ingredients",
+      "type": "icon",
+      "alt": "948 dairy ingredients",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/industries/dairy-processing/gea-dairy-proccessing-industry.jpg",
+      "libraryPath": "industries/dairy-processing/gea-dairy-proccessing-industry.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/dairy-processing/gea-dairy-proccessing-industry",
+      "type": "image",
+      "alt": "gea dairy proccessing industry",
+      "use": "hero",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/gea-drying-test-facility.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/gea-drying-test-facility.jpg",
+      "pages": [
+        "dairy-processing",
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/gea-drying-test-facility",
+      "type": "image",
+      "alt": "gea drying test facility",
+      "use": "hero",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/products/dryers-and-particle-processing-plants/addcool/gea-addcool-heat-pump-solution-spray-dryers.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/addcool/gea-addcool-heat-pump-solution-spray-dryers.jpg",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/addcool/gea-addcool-heat-pump-solution-spray-dryers",
+      "type": "image",
+      "alt": "gea addcool heat pump solution spray dryers",
+      "use": "hero",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/careers/home-careers.jpg",
+      "libraryPath": "careers/home-careers.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/careers/home-careers",
+      "type": "image",
+      "alt": "home careers",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/company/about-us/home-about.jpg",
+      "libraryPath": "company/about-us/home-about.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/company/about-us/home-about",
+      "type": "image",
+      "alt": "home about",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/gea/arrows/arrow-up1.jpg",
+      "libraryPath": "gea/arrows/arrow-up1.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/gea/arrows/arrow-up1",
+      "type": "image",
+      "alt": "arrow up1",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/gea/globes/full/globe1.jpg",
+      "libraryPath": "gea/globes/full/globe1.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/gea/globes/full/globe1",
+      "type": "image",
+      "alt": "globe1",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/cell-based-food_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/cell-based-food_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/cell-based-food_srgb_white",
+      "type": "icon",
+      "alt": "cell based food srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/chemicals_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/chemicals_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/chemicals_srgb_white",
+      "type": "icon",
+      "alt": "chemicals srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/dairy-farming_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/dairy-farming_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/dairy-farming_srgb_white",
+      "type": "icon",
+      "alt": "dairy farming srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/dairy-processing_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/dairy-processing_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/dairy-processing_srgb_white",
+      "type": "icon",
+      "alt": "dairy processing srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/environment_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/environment_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/environment_srgb_white",
+      "type": "icon",
+      "alt": "environment srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/food_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/food_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/food_srgb_white",
+      "type": "icon",
+      "alt": "food srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/home-personal-care_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/home-personal-care_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/home-personal-care_srgb_white",
+      "type": "icon",
+      "alt": "home personal care srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/marine_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/marine_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/marine_srgb_white",
+      "type": "icon",
+      "alt": "marine srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/oil-gas-energy_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/oil-gas-energy_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/oil-gas-energy_srgb_white",
+      "type": "icon",
+      "alt": "oil gas energy srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/pharma_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/pharma_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/pharma_srgb_white",
+      "type": "icon",
+      "alt": "pharma srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/icons/white-icons/products-and-services/refrigeration-heating_srgb_white.svg",
+      "libraryPath": "icons/white-icons/products-and-services/refrigeration-heating_srgb_white.svg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/icons/white-icons/products-and-services/refrigeration-heating_srgb_white",
+      "type": "icon",
+      "alt": "refrigeration heating srgb white",
+      "use": "icon",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/investors/events-and-releases/quarterly-reports/2025/q2_half-year/gea-quarterly-figures-announcement.jpg",
+      "libraryPath": "investors/events-and-releases/quarterly-reports/2025/q2_half-year/gea-quarterly-figures-announcement.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/investors/events-and-releases/quarterly-reports/2025/q2_half-year/gea-quarterly-figures-announcement",
+      "type": "image",
+      "alt": "gea quarterly figures announcement",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/news/corporate-press/2026/gea-top-employer-asia-pacific/top-employer-asia-pacific-2026_g.png",
+      "libraryPath": "news/corporate-press/2026/gea-top-employer-asia-pacific/top-employer-asia-pacific-2026_g.png",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/news/corporate-press/2026/gea-top-employer-asia-pacific/top-employer-asia-pacific-2026_g",
+      "type": "image",
+      "alt": "top employer asia pacific 2026 g",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/stories/better-plant-performance/gea-the-better-journey_home.jpg",
+      "libraryPath": "stories/better-plant-performance/gea-the-better-journey_home.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/better-plant-performance/gea-the-better-journey_home",
+      "type": "image",
+      "alt": "gea the better journey home",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/stories/building-resilience-into-the-olive-oil-industry/gea-center-of-excellence-olive-oil.jpg",
+      "libraryPath": "stories/building-resilience-into-the-olive-oil-industry/gea-center-of-excellence-olive-oil.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/building-resilience-into-the-olive-oil-industry/gea-center-of-excellence-olive-oil",
+      "type": "image",
+      "alt": "gea center of excellence olive oil",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/stories/functional-beverages/gea-functional-beverages.jpg",
+      "libraryPath": "stories/functional-beverages/gea-functional-beverages.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/functional-beverages/gea-functional-beverages",
+      "type": "image",
+      "alt": "gea functional beverages",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/stories/gea-business-china/gea-multi-purpose-site-tianjin-china_teaser.jpg",
+      "libraryPath": "stories/gea-business-china/gea-multi-purpose-site-tianjin-china_teaser.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/gea-business-china/gea-multi-purpose-site-tianjin-china_teaser",
+      "type": "image",
+      "alt": "gea multi purpose site tianjin china teaser",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/stories/mastering-industrial-cooking-complexity-control/tech-inspects-homestyle-chicken-gea-cookstar.jpg",
+      "libraryPath": "stories/mastering-industrial-cooking-complexity-control/tech-inspects-homestyle-chicken-gea-cookstar.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/mastering-industrial-cooking-complexity-control/tech-inspects-homestyle-chicken-gea-cookstar",
+      "type": "image",
+      "alt": "tech inspects homestyle chicken gea cookstar",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/stories/stopping-energy-loss-in-breweries/warka-brewhouse-gea-carousel.jpg",
+      "libraryPath": "stories/stopping-energy-loss-in-breweries/warka-brewhouse-gea-carousel.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/stopping-energy-loss-in-breweries/warka-brewhouse-gea-carousel",
+      "type": "image",
+      "alt": "warka brewhouse gea carousel",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/stories/the-breakthrough-that-changed-spray-drying/arla-spray-dryer-msd.jpg",
+      "libraryPath": "stories/the-breakthrough-that-changed-spray-drying/arla-spray-dryer-msd.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/the-breakthrough-that-changed-spray-drying/arla-spray-dryer-msd",
+      "type": "image",
+      "alt": "arla spray dryer msd",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/stories/water-equation/gea-water-efficiency-industry_teaser.jpg",
+      "libraryPath": "stories/water-equation/gea-water-efficiency-industry_teaser.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/water-equation/gea-water-efficiency-industry_teaser",
+      "type": "image",
+      "alt": "gea water efficiency industry teaser",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/sustainability/images---various/sustainability-forest.jpg",
+      "libraryPath": "sustainability/images---various/sustainability-forest.jpg",
+      "pages": [
+        "home"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/sustainability/images---various/sustainability-forest",
+      "type": "image",
+      "alt": "sustainability forest",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/company/media/media-homepage/linkedin-logo-white-36354-1200x675.png",
+      "libraryPath": "company/media/media-homepage/linkedin-logo-white-36354-1200x675.png",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/company/media/media-homepage/linkedin-logo-white-36354-1200x675",
+      "type": "image",
+      "alt": "linkedin logo white 36354 1200x675",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/industries/dairy-processing/milk-powders/milk-powder.jpg",
+      "libraryPath": "industries/dairy-processing/milk-powders/milk-powder.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/dairy-processing/milk-powders/milk-powder",
+      "type": "image",
+      "alt": "milk powder",
+      "use": "hero",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/articles/optipartner-digital-solution-86303.jpg",
+      "libraryPath": "migratedfromtridion/articles/optipartner-digital-solution-86303.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/articles/optipartner-digital-solution-86303",
+      "type": "image",
+      "alt": "optipartner digital solution 86303",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/customer-cases/danone-plant-haps-netherlands-63991.jpg",
+      "libraryPath": "migratedfromtridion/customer-cases/danone-plant-haps-netherlands-63991.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/customer-cases/danone-plant-haps-netherlands-63991",
+      "type": "image",
+      "alt": "danone plant haps netherlands 63991",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/ariete-homogenizer-5400-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/ariete-homogenizer-5400-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/ariete-homogenizer-5400-36506",
+      "type": "image",
+      "alt": "ariete homogenizer 5400 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/automation-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/automation-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/automation-36506",
+      "type": "image",
+      "alt": "automation 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/centrifuge-separator-msi-milk-whey-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/centrifuge-separator-msi-milk-whey-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/centrifuge-separator-msi-milk-whey-36506",
+      "type": "image",
+      "alt": "centrifuge separator msi milk whey 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/dairy-evaporation-milk-powder-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/dairy-evaporation-milk-powder-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/dairy-evaporation-milk-powder-36506",
+      "type": "image",
+      "alt": "dairy evaporation milk powder 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/gea-filling-rbf800-new-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/gea-filling-rbf800-new-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/gea-filling-rbf800-new-36506",
+      "type": "image",
+      "alt": "gea filling rbf800 new 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/gea-hygitip-1-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/gea-hygitip-1-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/gea-hygitip-1-36506",
+      "type": "image",
+      "alt": "gea hygitip 1 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/gea-inline-formula-sol-high-shear-mixer-1000l_1-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/gea-inline-formula-sol-high-shear-mixer-1000l_1-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/gea-inline-formula-sol-high-shear-mixer-1000l_1-36506",
+      "type": "image",
+      "alt": "gea inline formula sol high shear mixer 1000l 1 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/gea-refrigeration-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/gea-refrigeration-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/gea-refrigeration-36506",
+      "type": "image",
+      "alt": "gea refrigeration 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/membrane-filtration-plants-1-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/membrane-filtration-plants-1-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/membrane-filtration-plants-1-36506",
+      "type": "image",
+      "alt": "membrane filtration plants 1 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/milk-powder-pile-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/milk-powder-pile-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/milk-powder-pile-36506",
+      "type": "image",
+      "alt": "milk powder pile 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/market/milk-powder-plant-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/milk-powder-plant-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/milk-powder-plant-36506",
+      "type": "image",
+      "alt": "milk powder plant 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/msd-spray-dryer-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/msd-spray-dryer-36506.jpg",
+      "pages": [
+        "milk-powders",
+        "msd-spray-dryer"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/msd-spray-dryer-36506",
+      "type": "image",
+      "alt": "msd spray dryer 36506",
+      "use": "hero",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/pasteurizer-skid-separator-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/pasteurizer-skid-separator-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/pasteurizer-skid-separator-36506",
+      "type": "image",
+      "alt": "pasteurizer skid separator 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/market/vibrating-sifter-36506.jpg",
+      "libraryPath": "migratedfromtridion/market/vibrating-sifter-36506.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/market/vibrating-sifter-36506",
+      "type": "image",
+      "alt": "vibrating sifter 36506",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/productgroup/gea-automated-packing-line-4594.jpg",
+      "libraryPath": "migratedfromtridion/productgroup/gea-automated-packing-line-4594.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/productgroup/gea-automated-packing-line-4594",
+      "type": "image",
+      "alt": "gea automated packing line 4594",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/productgroup/gea-bag-sealing-4598.jpg",
+      "libraryPath": "migratedfromtridion/productgroup/gea-bag-sealing-4598.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/productgroup/gea-bag-sealing-4598",
+      "type": "image",
+      "alt": "gea bag sealing 4598",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/products/gea-automated-packing-line-7800.jpg",
+      "libraryPath": "migratedfromtridion/products/gea-automated-packing-line-7800.jpg",
+      "pages": [
+        "milk-powders"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/products/gea-automated-packing-line-7800",
+      "type": "image",
+      "alt": "gea automated packing line 7800",
+      "use": "content",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/common/logos/footer.png",
+      "libraryPath": "common/logos/footer.png",
+      "pages": [
+        "site"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/common/logos/footer",
+      "type": "image",
+      "alt": "footer",
+      "use": "logo",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/common/logos/gea-logo.svg",
+      "libraryPath": "common/logos/gea-logo.svg",
+      "pages": [
+        "site"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/common/logos/gea-logo",
+      "type": "icon",
+      "alt": "gea logo",
+      "use": "logo",
+      "priority": 1
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/campaigns/milk-lactoferin/gea-lactoferrin-powder-test-facilities.jpg",
+      "libraryPath": "campaigns/milk-lactoferin/gea-lactoferrin-powder-test-facilities.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/campaigns/milk-lactoferin/gea-lactoferrin-powder-test-facilities",
+      "type": "image",
+      "alt": "gea lactoferrin powder test facilities",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/2025-arla-addcool/add-cool-heat-pump-arla-foods.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/add-cool-heat-pump-arla-foods.jpg",
+      "pages": [
+        "dairy-processing",
+        "arla-addcool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/add-cool-heat-pump-arla-foods",
+      "type": "image",
+      "alt": "add cool heat pump arla foods",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/aurivo-reduces-fossil-fuel-consumption/hero-photo-for-aurivo-story-66578.jpg",
+      "libraryPath": "customer-cases/aurivo-reduces-fossil-fuel-consumption/hero-photo-for-aurivo-story-66578.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/aurivo-reduces-fossil-fuel-consumption/hero-photo-for-aurivo-story-66578",
+      "type": "image",
+      "alt": "hero photo for aurivo story 66578",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/mmpa-optipartner/gaspar-calandrino-director-mmpa.jpg",
+      "libraryPath": "customer-cases/mmpa-optipartner/gaspar-calandrino-director-mmpa.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/mmpa-optipartner/gaspar-calandrino-director-mmpa",
+      "type": "image",
+      "alt": "gaspar calandrino director mmpa",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/strategic-partnership-between-mokate-group-and-gea/mokate-group-poland.jpg",
+      "libraryPath": "customer-cases/strategic-partnership-between-mokate-group-and-gea/mokate-group-poland.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/strategic-partnership-between-mokate-group-and-gea/mokate-group-poland",
+      "type": "image",
+      "alt": "mokate group poland",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/yili-gea-partnership/yili-site.jpg",
+      "libraryPath": "customer-cases/yili-gea-partnership/yili-site.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/yili-gea-partnership/yili-site",
+      "type": "image",
+      "alt": "yili site",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/industries/dairy-processing/danone-dairy-plant.jpg",
+      "libraryPath": "industries/dairy-processing/danone-dairy-plant.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/dairy-processing/danone-dairy-plant",
+      "type": "image",
+      "alt": "danone dairy plant",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/industries/migrated-from-tridion/gea-dairy-linkedin-2930.jpg",
+      "libraryPath": "industries/migrated-from-tridion/gea-dairy-linkedin-2930.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/migrated-from-tridion/gea-dairy-linkedin-2930",
+      "type": "image",
+      "alt": "gea dairy linkedin 2930",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/articles/optipartner-facility-105496.jpg",
+      "libraryPath": "migratedfromtridion/articles/optipartner-facility-105496.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/articles/optipartner-facility-105496",
+      "type": "image",
+      "alt": "optipartner facility 105496",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/articles/test-center-aseptic-processing-and-filling-ahaus-109076.jpg",
+      "libraryPath": "migratedfromtridion/articles/test-center-aseptic-processing-and-filling-ahaus-109076.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/articles/test-center-aseptic-processing-and-filling-ahaus-109076",
+      "type": "image",
+      "alt": "test center aseptic processing and filling ahaus 109076",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/customer-cases/amul-ghee-products-89166.jpg",
+      "libraryPath": "migratedfromtridion/customer-cases/amul-ghee-products-89166.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/customer-cases/amul-ghee-products-89166",
+      "type": "image",
+      "alt": "amul ghee products 89166",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/customer-cases/customer-story-arla-gea2-51677.jpg",
+      "libraryPath": "migratedfromtridion/customer-cases/customer-story-arla-gea2-51677.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/customer-cases/customer-story-arla-gea2-51677",
+      "type": "image",
+      "alt": "customer story arla gea2 51677",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/customer-cases/euromilk-promo-107437.jpg",
+      "libraryPath": "migratedfromtridion/customer-cases/euromilk-promo-107437.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/customer-cases/euromilk-promo-107437",
+      "type": "image",
+      "alt": "euromilk promo 107437",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/customer-cases/valfoo-cremo-lactoferrin-powder-product-110132.jpg",
+      "libraryPath": "migratedfromtridion/customer-cases/valfoo-cremo-lactoferrin-powder-product-110132.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/customer-cases/valfoo-cremo-lactoferrin-powder-product-110132",
+      "type": "image",
+      "alt": "valfoo cremo lactoferrin powder product 110132",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/news/aurivo-killygordon-66683.jpg",
+      "libraryPath": "migratedfromtridion/news/aurivo-killygordon-66683.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/news/aurivo-killygordon-66683",
+      "type": "image",
+      "alt": "aurivo killygordon 66683",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/news/milchwerk-crailsheim-107397.jpg",
+      "libraryPath": "migratedfromtridion/news/milchwerk-crailsheim-107397.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/news/milchwerk-crailsheim-107397",
+      "type": "image",
+      "alt": "milchwerk crailsheim 107397",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/productgroup/analytics-web-12528.jpg",
+      "libraryPath": "migratedfromtridion/productgroup/analytics-web-12528.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/productgroup/analytics-web-12528",
+      "type": "image",
+      "alt": "analytics web 12528",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/productgroup/gea-centrifuge-water-saving-unit-add-better-107871.jpg",
+      "libraryPath": "migratedfromtridion/productgroup/gea-centrifuge-water-saving-unit-add-better-107871.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/productgroup/gea-centrifuge-water-saving-unit-add-better-107871",
+      "type": "image",
+      "alt": "gea centrifuge water saving unit add better 107871",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/centrifuges-and-separation-equipment/others/ptc_oelde_laboratory.jpg",
+      "libraryPath": "products/centrifuges-and-separation-equipment/others/ptc_oelde_laboratory.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/centrifuges-and-separation-equipment/others/ptc_oelde_laboratory",
+      "type": "image",
+      "alt": "ptc oelde laboratory",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/products/liquid-processing/aseptic-systems/aseptic-systems-images-used-new/aseptic-tank_1.jpg",
+      "libraryPath": "products/liquid-processing/aseptic-systems/aseptic-systems-images-used-new/aseptic-tank_1.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/liquid-processing/aseptic-systems/aseptic-systems-images-used-new/aseptic-tank_1",
+      "type": "image",
+      "alt": "aseptic tank 1",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/products/pumps-valves-flow-components/valves-components-aseptic-liquid-processing/aseptic-valves-components.jpg",
+      "libraryPath": "products/pumps-valves-flow-components/valves-components-aseptic-liquid-processing/aseptic-valves-components.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/pumps-valves-flow-components/valves-components-aseptic-liquid-processing/aseptic-valves-components",
+      "type": "image",
+      "alt": "aseptic valves components",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/sustainability/impact-stories/enabling-customers/amulfed-dairy-plant.jpg",
+      "libraryPath": "sustainability/impact-stories/enabling-customers/amulfed-dairy-plant.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/sustainability/impact-stories/enabling-customers/amulfed-dairy-plant",
+      "type": "image",
+      "alt": "amulfed dairy plant",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/sustainability/impact-stories/enabling-customers/gea-dairy-separator-naarmann.jpg",
+      "libraryPath": "sustainability/impact-stories/enabling-customers/gea-dairy-separator-naarmann.jpg",
+      "pages": [
+        "dairy-processing"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/sustainability/impact-stories/enabling-customers/gea-dairy-separator-naarmann",
+      "type": "image",
+      "alt": "gea dairy separator naarmann",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/industries/beverage/gea-instant-coffee-process-lines.jpg",
+      "libraryPath": "industries/beverage/gea-instant-coffee-process-lines.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/beverage/gea-instant-coffee-process-lines",
+      "type": "image",
+      "alt": "gea instant coffee process lines",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/industries/dairy-processing/nutritional-formula/infant-formula.jpg",
+      "libraryPath": "industries/dairy-processing/nutritional-formula/infant-formula.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/dairy-processing/nutritional-formula/infant-formula",
+      "type": "image",
+      "alt": "infant formula",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/industries/food/food-ingredients/fermentation-derived-ingredients.jpg",
+      "libraryPath": "industries/food/food-ingredients/fermentation-derived-ingredients.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/food/food-ingredients/fermentation-derived-ingredients",
+      "type": "image",
+      "alt": "fermentation derived ingredients",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/industries/food/food-ingredients/orange-flavor-powder.jpg",
+      "libraryPath": "industries/food/food-ingredients/orange-flavor-powder.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/food/food-ingredients/orange-flavor-powder",
+      "type": "image",
+      "alt": "orange flavor powder",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/industries/food/food-ingredients/plant-based-proteins.jpg",
+      "libraryPath": "industries/food/food-ingredients/plant-based-proteins.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/industries/food/food-ingredients/plant-based-proteins",
+      "type": "image",
+      "alt": "plant based proteins",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/freeze-dryers/freeze-dried-pineapples.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/freeze-dryers/freeze-dried-pineapples.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/freeze-dryers/freeze-dried-pineapples",
+      "type": "image",
+      "alt": "freeze dried pineapples",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/aseptic-spray-dryer/aseptic-spray-drying-gea-test-center.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/aseptic-spray-dryer/aseptic-spray-drying-gea-test-center.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/aseptic-spray-dryer/aseptic-spray-drying-gea-test-center",
+      "type": "image",
+      "alt": "aseptic spray drying gea test center",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/aseptic-spray-dryer/gea-aseptic-spray-drying-solution.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/aseptic-spray-dryer/gea-aseptic-spray-drying-solution.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/aseptic-spray-dryer/gea-aseptic-spray-drying-solution",
+      "type": "image",
+      "alt": "gea aseptic spray drying solution",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/feasability-studies.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/feasability-studies.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/feasability-studies",
+      "type": "image",
+      "alt": "feasability studies",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/fsd-spray-dryer/spray-dried-plant-based-protein.jpeg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/fsd-spray-dryer/spray-dried-plant-based-protein.jpeg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/fsd-spray-dryer/spray-dried-plant-based-protein",
+      "type": "image",
+      "alt": "spray dried plant based protein",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/products/dryers-and-particle-processing-plants/spray-dryers/pharma-sd/aseptic-plants.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/pharma-sd/aseptic-plants.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/pharma-sd/aseptic-plants",
+      "type": "image",
+      "alt": "aseptic plants",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/powder-test-center-spray-drying.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/powder-test-center-spray-drying.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/powder-test-center-spray-drying",
+      "type": "image",
+      "alt": "powder test center spray drying",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/spray-dried-chemical-powder.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/spray-dried-chemical-powder.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/spray-dried-chemical-powder",
+      "type": "image",
+      "alt": "spray dried chemical powder",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/products/dryers-and-particle-processing-plants/spray-dryers/virtual-spray-dryer-testing.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/virtual-spray-dryer-testing.jpg",
+      "pages": [
+        "drying-test-center"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/virtual-spray-dryer-testing",
+      "type": "image",
+      "alt": "virtual spray dryer testing",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/campaigns/add-cool-sustainable-spray-drying-process/add-better.jpg",
+      "libraryPath": "campaigns/add-cool-sustainable-spray-drying-process/add-better.jpg",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/campaigns/add-cool-sustainable-spray-drying-process/add-better",
+      "type": "image",
+      "alt": "add better",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/customer-cases/2025-arla-addcool/jens-lkke-ganderup-arla.jpg",
+      "libraryPath": "customer-cases/2025-arla-addcool/jens-lkke-ganderup-arla.jpg",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/customer-cases/2025-arla-addcool/jens-lkke-ganderup-arla",
+      "type": "image",
+      "alt": "jens lkke ganderup arla",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/articles/gea-addcool-solution-117582.gif",
+      "libraryPath": "migratedfromtridion/articles/gea-addcool-solution-117582.gif",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/articles/gea-addcool-solution-117582",
+      "type": "animation",
+      "alt": "gea addcool solution 117582",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/articles/gea-circularity-in-manufacturing-addcool-117582.jpg",
+      "libraryPath": "migratedfromtridion/articles/gea-circularity-in-manufacturing-addcool-117582.jpg",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/articles/gea-circularity-in-manufacturing-addcool-117582",
+      "type": "image",
+      "alt": "gea circularity in manufacturing addcool 117582",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/articles/gea-spray-drying-solutions-117582.jpg",
+      "libraryPath": "migratedfromtridion/articles/gea-spray-drying-solutions-117582.jpg",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/articles/gea-spray-drying-solutions-117582",
+      "type": "image",
+      "alt": "gea spray drying solutions 117582",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/migratedfromtridion/articles/sustainability-spray-drying-117582.jpg",
+      "libraryPath": "migratedfromtridion/articles/sustainability-spray-drying-117582.jpg",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/articles/sustainability-spray-drying-117582",
+      "type": "image",
+      "alt": "sustainability spray drying 117582",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/products/dryers-and-particle-processing-plants/add-cool-calculator.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/add-cool-calculator.jpg",
+      "pages": [
+        "gea-add-cool"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/add-cool-calculator",
+      "type": "image",
+      "alt": "add cool calculator",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/customer-cases/gea-spray-dryer-mother-murphys-flavor-ingredients-79435.jpg",
+      "libraryPath": "migratedfromtridion/customer-cases/gea-spray-dryer-mother-murphys-flavor-ingredients-79435.jpg",
+      "pages": [
+        "msd-spray-dryer"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/customer-cases/gea-spray-dryer-mother-murphys-flavor-ingredients-79435",
+      "type": "image",
+      "alt": "gea spray dryer mother murphys flavor ingredients 79435",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/products/fsd-spray-dryer-food-ingredients-14377.jpg",
+      "libraryPath": "migratedfromtridion/products/fsd-spray-dryer-food-ingredients-14377.jpg",
+      "pages": [
+        "msd-spray-dryer"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/products/fsd-spray-dryer-food-ingredients-14377",
+      "type": "image",
+      "alt": "fsd spray dryer food ingredients 14377",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/products/safexpert-45546.jpg",
+      "libraryPath": "migratedfromtridion/products/safexpert-45546.jpg",
+      "pages": [
+        "msd-spray-dryer"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/products/safexpert-45546",
+      "type": "image",
+      "alt": "safexpert 45546",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/migratedfromtridion/products/spraydryer_gea-comaptact-dryer-cdi1200x675_final-14412.jpg",
+      "libraryPath": "migratedfromtridion/products/spraydryer_gea-comaptact-dryer-cdi1200x675_final-14412.jpg",
+      "pages": [
+        "msd-spray-dryer"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/migratedfromtridion/products/spraydryer_gea-comaptact-dryer-cdi1200x675_final-14412",
+      "type": "image",
+      "alt": "spraydryer gea comaptact dryer cdi1200x675 final 14412",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/products/dryers-and-particle-processing-plants/spray-dryers/filtermat/gea-filtermat-spray-dryer.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/filtermat/gea-filtermat-spray-dryer.jpg",
+      "pages": [
+        "msd-spray-dryer"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/filtermat/gea-filtermat-spray-dryer",
+      "type": "image",
+      "alt": "gea filtermat spray dryer",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/media/products/dryers-and-particle-processing-plants/spray-dryers/health-check-spray-dryer/health-check-spray-dryer-maintenance.jpg",
+      "libraryPath": "products/dryers-and-particle-processing-plants/spray-dryers/health-check-spray-dryer/health-check-spray-dryer-maintenance.jpg",
+      "pages": [
+        "msd-spray-dryer"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/products/dryers-and-particle-processing-plants/spray-dryers/health-check-spray-dryer/health-check-spray-dryer-maintenance",
+      "type": "image",
+      "alt": "health check spray dryer maintenance",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/stories/better-plant-performance/gea-the-better-journey_teaser.jpg",
+      "libraryPath": "stories/better-plant-performance/gea-the-better-journey_teaser.jpg",
+      "pages": [
+        "shared-insights"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/better-plant-performance/gea-the-better-journey_teaser",
+      "type": "image",
+      "alt": "gea the better journey teaser",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/stories/the-breakthrough-that-changed-spray-drying/niro-spray-dryer-model.png",
+      "libraryPath": "stories/the-breakthrough-that-changed-spray-drying/niro-spray-dryer-model.png",
+      "pages": [
+        "shared-insights"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/the-breakthrough-that-changed-spray-drying/niro-spray-dryer-model",
+      "type": "image",
+      "alt": "niro spray dryer model",
+      "use": "content",
+      "priority": 2
+    },
+    {
+      "sourceUrl": "https://cdn.gea.com/-/jssmedia/stories/water-hydraulic-hydract-valves/hydract-actuation-technology_teaser.jpg",
+      "libraryPath": "stories/water-hydraulic-hydract-valves/hydract-actuation-technology_teaser.jpg",
+      "pages": [
+        "shared-insights"
+      ],
+      "status": "pending-download",
+      "targetItemPath": "/sitecore/media library/Project/gea/gea/stories/water-hydraulic-hydract-valves/hydract-actuation-technology_teaser",
+      "type": "image",
+      "alt": "hydract actuation technology teaser",
+      "use": "content",
+      "priority": 2
+    }
+  ]
+}

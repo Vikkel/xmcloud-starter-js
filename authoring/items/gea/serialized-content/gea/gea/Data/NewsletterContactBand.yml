@@ -1,11 +1,5 @@
----
+﻿---
 ID: "f2bbc4aa-296c-4035-85ba-76ea4a670cf5"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "0b1b73b4-9b7e-4900-84f5-3824bcc10935"
-Path: "/sitecore/content/gea/gea/Data/NewsletterContactBand"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/NewsletterContactBand

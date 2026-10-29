@@ -1,11 +1,5 @@
----
+﻿---
 ID: "2a87518b-1b56-4374-ba77-fd43bcd8ac34"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "281b363b-f902-4c0e-a6e3-6c761bb113bf"
-Path: "/sitecore/content/gea/gea/Data/Footer"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/Footer

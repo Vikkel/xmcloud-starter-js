@@ -1,11 +1,5 @@
----
+﻿---
 ID: "f0365052-1154-4ebe-a698-3587a001d25b"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "b4e7fd0e-b629-45a9-8e70-173d89123ca2"
-Path: "/sitecore/content/gea/gea/Data/LinkList"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/LinkList

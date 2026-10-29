@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0817af45-ffbf-4af2-aa7e-8db906d2c26d"
+      Hint: Image
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-85002" dam-id="y80mn_ZGS-GvxIDMjpLzmQ" alt="jens lkke ganderup arla" dam-content-type="Image" />
     - ID: "384dbc76-2ef4-4f4e-bda4-84456ab4ec2c"
       Hint: 384dbc76-2ef4-4f4e-bda4-84456ab4ec2c
       Value: |

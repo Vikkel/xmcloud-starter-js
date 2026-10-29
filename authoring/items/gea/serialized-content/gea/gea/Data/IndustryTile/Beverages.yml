@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "09b0ad52-80b3-4bf6-a492-a50355fac861"
+      Hint: Icon
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84086" dam-id="WXstnjVOS7uV1aikzD-8uA" alt="gea functional beverages" dam-content-type="Image" />
     - ID: "ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5"
       Hint: ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5
       Value: "Beverages"

@@ -1,11 +1,5 @@
----
+﻿---
 ID: "8b322111-07b1-44f0-af5d-a557c5650a27"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "77ee930b-129b-4e23-9a88-267fc3fb40b2"
-Path: "/sitecore/content/gea/gea/Data/CtaBanner"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/CtaBanner

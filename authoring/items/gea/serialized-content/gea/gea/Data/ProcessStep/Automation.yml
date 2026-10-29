@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "e9b64b08-d91f-41ab-9bf2-cd97231728f0"
+      Hint: Image
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84251" dam-id="89x28KshSAC6k4KyqRgynQ" alt="automation 36506" dam-content-type="Image" />
     - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
       Hint: ad46de13-5d4c-4d6a-8d59-c0f740768792
       Value: "Automation"

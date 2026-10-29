@@ -1,11 +1,5 @@
----
+﻿---
 ID: "84a42aa7-735f-40df-aeb4-a9f81060035c"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "4a8eee1b-6550-409d-a330-fe70357520ea"
-Path: "/sitecore/content/gea/gea/Data/ProcessStep"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/ProcessStep

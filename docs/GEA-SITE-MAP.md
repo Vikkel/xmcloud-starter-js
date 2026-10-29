@@ -205,14 +205,7 @@ Not built (skipped):
 
 ## Media map
 
-119 unique images (66 priority 1). Each becomes a media item under `/sitecore/media library/Project/gea/gea/<gea.com media path>`; image fields reference the item GUID (`<image mediaid="{MEDIA-ITEM-GUID}" />`), never `cdn.gea.com`.
-
-Download on your machine (both of Claude's shells are blocked from cdn.gea.com):
-
-```powershell
-pwsh -File authoring/items/gea/scripts/media-maps/download-gea-media.ps1 -Priority 1   # essentials (66)
-pwsh -File authoring/items/gea/scripts/media-maps/download-gea-media.ps1               # everything (119)
-```
+119 unique images are in Content Hub on [mvm-ch](https://mvm-ch.sitecoresandbox.cloud/en-us), brand **GEA** (`83604`). Image fields use a public link plus `dam-id`, never `cdn.gea.com`. The composed pages reference 39 of those assets. The registry is `authoring/items/gea/scripts/media-maps/content-hub-asset-registry.json`.
 
 ### site (2)
 

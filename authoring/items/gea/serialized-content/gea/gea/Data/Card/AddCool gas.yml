@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "e8c37084-33d8-4843-b005-aa8f2295f6ef"
+      Hint: Image
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-85025" dam-id="0ctvZ-XoSciRjowivKVkiw" alt="gea circularity in manufacturing addcool 117582" dam-content-type="Image" />
     - ID: "9773b2ae-62a7-49d2-8824-d2ce24dca862"
       Hint: 9773b2ae-62a7-49d2-8824-d2ce24dca862
       Value: "Less natural gas"

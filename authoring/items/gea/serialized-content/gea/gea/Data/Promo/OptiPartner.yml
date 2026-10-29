@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "c56b26c6-55b1-496d-9294-3afc7a55fccb"
+      Hint: Image
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84215" dam-id="7zbbGNjCT0enoqdL_u617w" alt="optipartner digital solution 86303" dam-content-type="Image" />
     - ID: "e40547d0-6eb2-43a1-ab09-a6fc176aeb9e"
       Hint: e40547d0-6eb2-43a1-ab09-a6fc176aeb9e
       Value: "Digital"

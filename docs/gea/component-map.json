@@ -2,7 +2,7 @@
   "version": 2,
   "project": "gea-com",
   "site": "gea",
-  "status": "content published to Edge; React components are local until the gea editing host is redeployed",
+  "status": "119 images in Content Hub brand GEA; composed page image fields use dam-id",
   "generatedAt": "2026-10-28T16:30:00Z",
   "designTokens": {
     "fontBody": "Inter, sans-serif 16px #111111",

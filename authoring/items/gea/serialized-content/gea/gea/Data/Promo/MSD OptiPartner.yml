@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "c56b26c6-55b1-496d-9294-3afc7a55fccb"
+      Hint: Image
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84145" dam-id="RCq_dvxBQm-bj7iBYOJwkQ" alt="arla spray dryer msd" dam-content-type="Image" />
     - ID: "2285a304-79df-458e-8ced-e8f1a850ef8e"
       Hint: 2285a304-79df-458e-8ced-e8f1a850ef8e
       Value: "OptiPartner® on the dryer"

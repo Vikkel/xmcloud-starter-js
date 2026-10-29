@@ -1,4 +1,4 @@
----
+﻿---
 ID: "5c6891e1-f5c5-4d47-984d-d8e8261cde71"
 Parent: "80621e07-b29f-4248-bed8-c5ba7b75fcad"
 Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
@@ -7,66 +7,68 @@ SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
-    <r xmlns:p="p" xmlns:s="s" p:p="1">
-          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{436DFBD7-50D0-4163-A2E0-FA3816FD0AF2}"
-              p:before="*"
-              s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
-              s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
-              s:par="CSSStyles"
-              s:ph="headless-header" />
-            <r
-              uid="{6147FCD7-A3EC-46B2-8FC8-EBE00B1A9764}"
-              p:after="r[@uid='{436DFBD7-50D0-4163-A2E0-FA3816FD0AF2}']"
-              s:ds="{DDF3C5F6-BB5F-4359-B7A4-A63EF5A1B61A}"
-              s:id="{60BDE157-99E1-4F07-89F2-0DC3D827F913}"
-              s:par="CSSStyles"
-              s:ph="headless-main" />
-            <r
-              uid="{76CD3134-5E46-450E-93DB-139226D3CE94}"
-              p:after="r[@uid='{6147FCD7-A3EC-46B2-8FC8-EBE00B1A9764}']"
-              s:ds="{5D81DE60-129E-4F7F-A974-C6B0396B4F2C}"
-              s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
-              s:par="CSSStyles&amp;Variant=Split"
-              s:ph="headless-main" />
-            <r
-              uid="{2ED43B67-D3EF-4E4F-B23F-0EB69C541263}"
-              p:after="r[@uid='{76CD3134-5E46-450E-93DB-139226D3CE94}']"
-              s:ds="{8DC9A532-E6E0-45F0-8B67-84DEBC7B1529}"
-              s:id="{6E669F20-7200-494A-921F-8B3B1EEADC22}"
-              s:par="CSSStyles&amp;Variant=Feature&amp;DynamicPlaceholderId=2"
-              s:ph="headless-main" />
-            <r
-              uid="{AF4BF04E-0CCB-4DF8-8DFE-C8F7E8B8D8F0}"
-              p:after="r[@uid='{2ED43B67-D3EF-4E4F-B23F-0EB69C541263}']"
-              s:ds="{256B28EE-85E5-498A-A3A6-103F428923B0}"
-              s:id="{93DA15D4-F679-4CE6-8F89-743D02C5CC16}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/cards-2" />
-            <r
-              uid="{BB3C7348-7585-4A3E-8221-27F5EB192BE1}"
-              p:after="r[@uid='{AF4BF04E-0CCB-4DF8-8DFE-C8F7E8B8D8F0}']"
-              s:ds="{1709BDED-09A4-441F-AFF4-D8AD83114050}"
-              s:id="{B239A014-3BDB-4456-8014-0D68220D6584}"
-              s:par="CSSStyles"
-              s:ph="headless-main" />
-            <r
-              uid="{C6954370-9A85-457E-91D5-C7E51853F821}"
-              p:after="r[@uid='{BB3C7348-7585-4A3E-8221-27F5EB192BE1}']"
-              s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
-              s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
-              s:par="CSSStyles"
-              s:ph="headless-footer" />
-            <r
-              uid="{E891FFF6-D83C-4057-9E65-274F85C86FC6}"
-              p:after="r[@uid='{C6954370-9A85-457E-91D5-C7E51853F821}']"
-              s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
-              s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
-              s:par="CSSStyles"
-              s:ph="headless-footer" />
-          </d>
-        </r>
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{436DFBD7-50D0-4163-A2E0-FA3816FD0AF2}"
+          p:before="*"
+          s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
+          s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
+          s:par="CSSStyles"
+          s:ph="headless-header" />
+        <r
+          uid="{6147FCD7-A3EC-46B2-8FC8-EBE00B1A9764}"
+          p:after="r[@uid='{436DFBD7-50D0-4163-A2E0-FA3816FD0AF2}']"
+          s:ds="{DDF3C5F6-BB5F-4359-B7A4-A63EF5A1B61A}"
+          s:id="{60BDE157-99E1-4F07-89F2-0DC3D827F913}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{76CD3134-5E46-450E-93DB-139226D3CE94}"
+          p:after="r[@uid='{6147FCD7-A3EC-46B2-8FC8-EBE00B1A9764}']"
+          s:ds="{5D81DE60-129E-4F7F-A974-C6B0396B4F2C}"
+          s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
+          s:par="CSSStyles&amp;Variant=Split"
+          s:ph="headless-main" />
+        <r
+          uid="{2ED43B67-D3EF-4E4F-B23F-0EB69C541263}"
+          p:after="r[@uid='{76CD3134-5E46-450E-93DB-139226D3CE94}']"
+          s:ds="{8DC9A532-E6E0-45F0-8B67-84DEBC7B1529}"
+          s:id="{6E669F20-7200-494A-921F-8B3B1EEADC22}"
+          s:par="CSSStyles&amp;Variant=Feature&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{AF4BF04E-0CCB-4DF8-8DFE-C8F7E8B8D8F0}"
+          p:after="r[@uid='{2ED43B67-D3EF-4E4F-B23F-0EB69C541263}']"
+          s:ds="{256B28EE-85E5-498A-A3A6-103F428923B0}"
+          s:id="{93DA15D4-F679-4CE6-8F89-743D02C5CC16}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/cards-2" />
+        <r
+          uid="{BB3C7348-7585-4A3E-8221-27F5EB192BE1}"
+          p:after="r[@uid='{AF4BF04E-0CCB-4DF8-8DFE-C8F7E8B8D8F0}']"
+          s:ds="{1709BDED-09A4-441F-AFF4-D8AD83114050}"
+          s:id="{B239A014-3BDB-4456-8014-0D68220D6584}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{C6954370-9A85-457E-91D5-C7E51853F821}"
+          p:after="r[@uid='{BB3C7348-7585-4A3E-8221-27F5EB192BE1}']"
+          s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
+          s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
+          s:par="CSSStyles"
+          s:ph="headless-footer" />
+        <r
+          uid="{E891FFF6-D83C-4057-9E65-274F85C86FC6}"
+          p:after="r[@uid='{C6954370-9A85-457E-91D5-C7E51853F821}']"
+          s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
+          s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
+          s:par="CSSStyles"
+          s:ph="headless-footer" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -74,7 +76,7 @@ Languages:
     Fields:
     - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
       Hint: Title
-      Value: "GEA AddCool®"
+      Value: GEA AddCool®
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: "GEA AddCool®"
+      Value: GEA AddCool®

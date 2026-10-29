@@ -1,11 +1,5 @@
----
+﻿---
 ID: "c5ac85fb-e2f8-4e20-b41e-725c02eeb5d9"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "42d12c99-0c5d-4564-8a1d-cd4da2dd07ba"
-Path: "/sitecore/content/gea/gea/Data/IndustryTile"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/IndustryTile

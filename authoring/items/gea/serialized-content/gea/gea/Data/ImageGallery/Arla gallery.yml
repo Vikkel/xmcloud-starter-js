@@ -8,6 +8,18 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "aa557c4c-ce62-4ce2-ab20-a7ca7a50c4da"
+      Hint: Image3
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-83698" dam-id="aca7EOxRSYKjoOSYs__ogw" alt="addcool impact graphs" dam-content-type="Image" />
+    - ID: "b7e89b5c-2287-429d-b87d-c01234e9947b"
+      Hint: Image2
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-83708" dam-id="vK_PFG6bQ_Kep7RnWiGRVg" alt="arla spray dried milk powder" dam-content-type="Image" />
+    - ID: "1727bb9b-2618-4d66-aa73-b7883fb1b897"
+      Hint: Image1
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-83713" dam-id="oph33uYfRAuK03ip3LWvAA" alt="arla spray dryer" dam-content-type="Image" />
     - ID: "7ccd2061-73b6-42dd-afd7-8954ed39d624"
       Hint: 7ccd2061-73b6-42dd-afd7-8954ed39d624
       Value: "GEA AddCool® heat pump in action"

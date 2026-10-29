@@ -1,4 +1,4 @@
----
+﻿---
 ID: "5b7719d9-f3b4-4a25-8ad0-3c9a8951f3b5"
 Parent: "ae01fd53-a967-416d-b593-c6851dbd21bb"
 Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
@@ -7,157 +7,159 @@ SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
-    <r xmlns:p="p" xmlns:s="s" p:p="1">
-          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{F5316DF5-E46B-497B-AAD2-07BB22BCE445}"
-              p:before="*"
-              s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
-              s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
-              s:par="CSSStyles"
-              s:ph="headless-header" />
-            <r
-              uid="{6EF4E140-FA34-4BB7-8E1D-259465551036}"
-              p:after="r[@uid='{F5316DF5-E46B-497B-AAD2-07BB22BCE445}']"
-              s:ds="{8C3E1B0B-923B-48C4-A177-4A8FE341BC34}"
-              s:id="{E11A3298-142B-4E24-9F48-CFEF0324DFDE}"
-              s:par="CSSStyles"
-              s:ph="headless-main" />
-            <r
-              uid="{949E3141-9C7E-4A81-A297-640DC0A0C242}"
-              p:after="r[@uid='{6EF4E140-FA34-4BB7-8E1D-259465551036}']"
-              s:ds="{7D2F1CD5-B9F0-4343-AAEA-AA77740994D4}"
-              s:id="{60BDE157-99E1-4F07-89F2-0DC3D827F913}"
-              s:par="CSSStyles"
-              s:ph="headless-main" />
-            <r
-              uid="{978539E3-8522-469C-B3CA-6531FE74198C}"
-              p:after="r[@uid='{949E3141-9C7E-4A81-A297-640DC0A0C242}']"
-              s:ds="{DDBB389F-7519-4E46-8F46-3178AE6E77EC}"
-              s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
-              s:par="CSSStyles&amp;Variant=Split"
-              s:ph="headless-main" />
-            <r
-              uid="{D2A9682E-1A3F-4994-B720-5ABC0908E7AE}"
-              p:after="r[@uid='{978539E3-8522-469C-B3CA-6531FE74198C}']"
-              s:ds="{07A99FA4-F244-4CC5-A7A9-DAC141235F49}"
-              s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
-              s:par="CSSStyles&amp;Variant=Lead"
-              s:ph="headless-main" />
-            <r
-              uid="{259BA219-DDF5-4F35-BACF-78A1D109C9E4}"
-              p:after="r[@uid='{D2A9682E-1A3F-4994-B720-5ABC0908E7AE}']"
-              s:ds="{733EF506-25A3-497A-9547-F52585E3E44E}"
-              s:id="{DC41B70F-AFE7-40E1-86BB-FB0C7C77C87D}"
-              s:par="CSSStyles&amp;DynamicPlaceholderId=1"
-              s:ph="headless-main" />
-            <r
-              uid="{8C63D3AE-3CE7-4000-9CEF-E605B10D3530}"
-              p:after="r[@uid='{259BA219-DDF5-4F35-BACF-78A1D109C9E4}']"
-              s:ds="{EA501232-8C72-4AD3-A85C-BB848E09BF2A}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{50065AB8-940C-4599-BD4B-B3164D669852}"
-              p:after="r[@uid='{8C63D3AE-3CE7-4000-9CEF-E605B10D3530}']"
-              s:ds="{3C3C3EB7-6FEB-4F40-BBD1-697665D6F25C}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{C0350455-7743-4A51-B042-2B373CA7DC2B}"
-              p:after="r[@uid='{50065AB8-940C-4599-BD4B-B3164D669852}']"
-              s:ds="{14778065-B283-445E-AD07-B436DD7AD16E}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{7F5E3177-D6AB-4483-BBEA-EB36DD34B9DD}"
-              p:after="r[@uid='{C0350455-7743-4A51-B042-2B373CA7DC2B}']"
-              s:ds="{8EB50014-FE04-4D8C-B7B0-1B18395869FE}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{85CF82E4-9431-4F1C-A64A-48054486F7A7}"
-              p:after="r[@uid='{7F5E3177-D6AB-4483-BBEA-EB36DD34B9DD}']"
-              s:ds="{772DD9C4-9FA3-47E5-866D-CBEFBA581DA1}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{729A9047-47F9-40DF-888D-1442D317ACC7}"
-              p:after="r[@uid='{85CF82E4-9431-4F1C-A64A-48054486F7A7}']"
-              s:ds="{E49C6E01-8831-43D8-A01E-D5F35C240D3C}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{18D2A07B-DECF-4590-8BFF-455132A28E4F}"
-              p:after="r[@uid='{729A9047-47F9-40DF-888D-1442D317ACC7}']"
-              s:ds="{10F4478F-7268-4AF8-95CD-5B06AA4CF159}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{74D5395C-99FB-4304-8E3E-108F6C6FF857}"
-              p:after="r[@uid='{18D2A07B-DECF-4590-8BFF-455132A28E4F}']"
-              s:ds="{0186FEF3-ECB9-4496-9A58-CFFC00D58F8F}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{B22A757A-8153-4C82-8354-192E7D9DE374}"
-              p:after="r[@uid='{74D5395C-99FB-4304-8E3E-108F6C6FF857}']"
-              s:ds="{13B3DF8E-AF10-4E1D-AB1A-89F68D4829A4}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{196C3E9A-536E-48EE-9229-D183DBA5FA13}"
-              p:after="r[@uid='{B22A757A-8153-4C82-8354-192E7D9DE374}']"
-              s:ds="{3AFC15FF-186D-47D7-949C-C56CA1C9E1BF}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{4A337415-C635-4C79-9907-22C9BED3B8F3}"
-              p:after="r[@uid='{196C3E9A-536E-48EE-9229-D183DBA5FA13}']"
-              s:ds="{0A19ED6F-6C94-4F35-9C4C-0406D71854D7}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{3859A27E-5942-4D77-A9BB-37303E9CCEAC}"
-              p:after="r[@uid='{4A337415-C635-4C79-9907-22C9BED3B8F3}']"
-              s:ds="{F50FCB25-F8B5-42F0-B018-E5F7C1B4E0E0}"
-              s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
-              s:par="CSSStyles"
-              s:ph="/headless-main/process-steps-1" />
-            <r
-              uid="{1E4740D9-824C-4E52-BF03-816FE405904B}"
-              p:after="r[@uid='{3859A27E-5942-4D77-A9BB-37303E9CCEAC}']"
-              s:ds="{5FBE30AA-7EF1-496E-804B-398A29516FB7}"
-              s:id="{00102F11-AC94-4A2E-9E06-948D331C8D77}"
-              s:par="CSSStyles&amp;Variant=ImageLeft"
-              s:ph="headless-main" />
-            <r
-              uid="{987A7FA5-8A1E-4D74-8062-3AFEC24E6FB7}"
-              p:after="r[@uid='{1E4740D9-824C-4E52-BF03-816FE405904B}']"
-              s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
-              s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
-              s:par="CSSStyles"
-              s:ph="headless-footer" />
-            <r
-              uid="{FDBD6DB4-9040-4C91-9AC3-A98D5B8498DE}"
-              p:after="r[@uid='{987A7FA5-8A1E-4D74-8062-3AFEC24E6FB7}']"
-              s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
-              s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
-              s:par="CSSStyles"
-              s:ph="headless-footer" />
-          </d>
-        </r>
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F5316DF5-E46B-497B-AAD2-07BB22BCE445}"
+          p:before="*"
+          s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
+          s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
+          s:par="CSSStyles"
+          s:ph="headless-header" />
+        <r
+          uid="{6EF4E140-FA34-4BB7-8E1D-259465551036}"
+          p:after="r[@uid='{F5316DF5-E46B-497B-AAD2-07BB22BCE445}']"
+          s:ds="{8C3E1B0B-923B-48C4-A177-4A8FE341BC34}"
+          s:id="{E11A3298-142B-4E24-9F48-CFEF0324DFDE}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{949E3141-9C7E-4A81-A297-640DC0A0C242}"
+          p:after="r[@uid='{6EF4E140-FA34-4BB7-8E1D-259465551036}']"
+          s:ds="{7D2F1CD5-B9F0-4343-AAEA-AA77740994D4}"
+          s:id="{60BDE157-99E1-4F07-89F2-0DC3D827F913}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{978539E3-8522-469C-B3CA-6531FE74198C}"
+          p:after="r[@uid='{949E3141-9C7E-4A81-A297-640DC0A0C242}']"
+          s:ds="{DDBB389F-7519-4E46-8F46-3178AE6E77EC}"
+          s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
+          s:par="CSSStyles&amp;Variant=Split"
+          s:ph="headless-main" />
+        <r
+          uid="{D2A9682E-1A3F-4994-B720-5ABC0908E7AE}"
+          p:after="r[@uid='{978539E3-8522-469C-B3CA-6531FE74198C}']"
+          s:ds="{07A99FA4-F244-4CC5-A7A9-DAC141235F49}"
+          s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
+          s:par="CSSStyles&amp;Variant=Lead"
+          s:ph="headless-main" />
+        <r
+          uid="{259BA219-DDF5-4F35-BACF-78A1D109C9E4}"
+          p:after="r[@uid='{D2A9682E-1A3F-4994-B720-5ABC0908E7AE}']"
+          s:ds="{733EF506-25A3-497A-9547-F52585E3E44E}"
+          s:id="{DC41B70F-AFE7-40E1-86BB-FB0C7C77C87D}"
+          s:par="CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{8C63D3AE-3CE7-4000-9CEF-E605B10D3530}"
+          p:after="r[@uid='{259BA219-DDF5-4F35-BACF-78A1D109C9E4}']"
+          s:ds="{EA501232-8C72-4AD3-A85C-BB848E09BF2A}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{50065AB8-940C-4599-BD4B-B3164D669852}"
+          p:after="r[@uid='{8C63D3AE-3CE7-4000-9CEF-E605B10D3530}']"
+          s:ds="{3C3C3EB7-6FEB-4F40-BBD1-697665D6F25C}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{C0350455-7743-4A51-B042-2B373CA7DC2B}"
+          p:after="r[@uid='{50065AB8-940C-4599-BD4B-B3164D669852}']"
+          s:ds="{14778065-B283-445E-AD07-B436DD7AD16E}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{7F5E3177-D6AB-4483-BBEA-EB36DD34B9DD}"
+          p:after="r[@uid='{C0350455-7743-4A51-B042-2B373CA7DC2B}']"
+          s:ds="{8EB50014-FE04-4D8C-B7B0-1B18395869FE}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{85CF82E4-9431-4F1C-A64A-48054486F7A7}"
+          p:after="r[@uid='{7F5E3177-D6AB-4483-BBEA-EB36DD34B9DD}']"
+          s:ds="{772DD9C4-9FA3-47E5-866D-CBEFBA581DA1}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{729A9047-47F9-40DF-888D-1442D317ACC7}"
+          p:after="r[@uid='{85CF82E4-9431-4F1C-A64A-48054486F7A7}']"
+          s:ds="{E49C6E01-8831-43D8-A01E-D5F35C240D3C}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{18D2A07B-DECF-4590-8BFF-455132A28E4F}"
+          p:after="r[@uid='{729A9047-47F9-40DF-888D-1442D317ACC7}']"
+          s:ds="{10F4478F-7268-4AF8-95CD-5B06AA4CF159}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{74D5395C-99FB-4304-8E3E-108F6C6FF857}"
+          p:after="r[@uid='{18D2A07B-DECF-4590-8BFF-455132A28E4F}']"
+          s:ds="{0186FEF3-ECB9-4496-9A58-CFFC00D58F8F}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{B22A757A-8153-4C82-8354-192E7D9DE374}"
+          p:after="r[@uid='{74D5395C-99FB-4304-8E3E-108F6C6FF857}']"
+          s:ds="{13B3DF8E-AF10-4E1D-AB1A-89F68D4829A4}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{196C3E9A-536E-48EE-9229-D183DBA5FA13}"
+          p:after="r[@uid='{B22A757A-8153-4C82-8354-192E7D9DE374}']"
+          s:ds="{3AFC15FF-186D-47D7-949C-C56CA1C9E1BF}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{4A337415-C635-4C79-9907-22C9BED3B8F3}"
+          p:after="r[@uid='{196C3E9A-536E-48EE-9229-D183DBA5FA13}']"
+          s:ds="{0A19ED6F-6C94-4F35-9C4C-0406D71854D7}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{3859A27E-5942-4D77-A9BB-37303E9CCEAC}"
+          p:after="r[@uid='{4A337415-C635-4C79-9907-22C9BED3B8F3}']"
+          s:ds="{F50FCB25-F8B5-42F0-B018-E5F7C1B4E0E0}"
+          s:id="{4BA8CE12-5AA9-4C12-95F8-265A2790EA0B}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/process-steps-1" />
+        <r
+          uid="{1E4740D9-824C-4E52-BF03-816FE405904B}"
+          p:after="r[@uid='{3859A27E-5942-4D77-A9BB-37303E9CCEAC}']"
+          s:ds="{5FBE30AA-7EF1-496E-804B-398A29516FB7}"
+          s:id="{00102F11-AC94-4A2E-9E06-948D331C8D77}"
+          s:par="CSSStyles&amp;Variant=ImageLeft"
+          s:ph="headless-main" />
+        <r
+          uid="{987A7FA5-8A1E-4D74-8062-3AFEC24E6FB7}"
+          p:after="r[@uid='{1E4740D9-824C-4E52-BF03-816FE405904B}']"
+          s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
+          s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
+          s:par="CSSStyles"
+          s:ph="headless-footer" />
+        <r
+          uid="{FDBD6DB4-9040-4C91-9AC3-A98D5B8498DE}"
+          p:after="r[@uid='{987A7FA5-8A1E-4D74-8062-3AFEC24E6FB7}']"
+          s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
+          s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
+          s:par="CSSStyles"
+          s:ph="headless-footer" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -165,7 +167,7 @@ Languages:
     Fields:
     - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
       Hint: Title
-      Value: "Milk powders"
+      Value: Milk powders
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: "Milk powders"
+      Value: Milk powders

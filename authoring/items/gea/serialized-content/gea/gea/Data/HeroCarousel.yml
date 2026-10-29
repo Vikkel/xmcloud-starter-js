@@ -1,11 +1,5 @@
----
+﻿---
 ID: "7e7f016a-2ddb-479a-bca3-3c411d24e858"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "8724afc0-1372-4b91-a377-50d2303f5f68"
-Path: "/sitecore/content/gea/gea/Data/HeroCarousel"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/HeroCarousel

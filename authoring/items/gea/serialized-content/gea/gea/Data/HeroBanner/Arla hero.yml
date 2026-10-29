@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0cf8c65b-3ab3-4fa8-9e45-0e8531251fac"
+      Hint: Image
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-83703" dam-id="WucaFt8tQbC7v0Nv-puIYA" alt="arla site svenstrup" dam-content-type="Image" />
     - ID: "11784cbe-1f6f-4619-bad0-f9b377e13e94"
       Hint: 11784cbe-1f6f-4619-bad0-f9b377e13e94
       Value: "Customer story"

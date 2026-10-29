@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "09b0ad52-80b3-4bf6-a492-a50355fac861"
+      Hint: Icon
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-83957" dam-id="_6BbhpaZTxSkygWP0uc6-g" alt="food srgb white" dam-content-type="Image" />
     - ID: "ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5"
       Hint: ce2e1f4a-b1a5-4980-bcb6-06d8b4a486c5
       Value: "Food"

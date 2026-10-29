@@ -1,11 +1,5 @@
----
+﻿---
 ID: "e23e8e6a-9300-4d44-8411-31327e94c01e"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "e4f84e91-1ad7-48ef-961e-0e4a8c449cc7"
-Path: "/sitecore/content/gea/gea/Data/Card"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/Card

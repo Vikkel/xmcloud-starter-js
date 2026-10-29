@@ -1,11 +1,5 @@
----
+﻿---
 ID: "5bf726f5-3517-4b68-86b6-26ba2a415f31"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "23553c85-4844-45c0-aedb-d3b7411d1e5a"
-Path: "/sitecore/content/gea/gea/Data/HeroBanner"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/HeroBanner

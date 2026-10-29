@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
+      Hint: Logo
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" dam-id="uup4HJBVRbC-6VCwa-53KQ" alt="footer" dam-content-type="Image" />
     - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
       Hint: 32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e
       Value: |

@@ -1,11 +1,5 @@
----
+﻿---
 ID: "363f427c-4ce4-4e25-8b9b-408a661ac3d0"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "b0b7f0fd-2926-4952-b697-9a82d62c512c"
-Path: "/sitecore/content/gea/gea/Data/Promo"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/Promo

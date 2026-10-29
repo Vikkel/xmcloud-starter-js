@@ -1,11 +1,5 @@
----
+﻿---
 ID: "8faf9b24-419f-4c2d-afce-a491fe40c65f"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "487bc1f3-7465-4f6d-ae1d-4c60898c65ba"
-Path: "/sitecore/content/gea/gea/Data/ImageGallery"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/ImageGallery

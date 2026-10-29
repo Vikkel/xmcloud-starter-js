@@ -1,11 +1,5 @@
----
+﻿---
 ID: "d6bbd3ff-da78-46d6-922e-df628a35bce7"
 Parent: "3c212516-a687-4d1f-a95e-38dbd6c8a574"
 Template: "895d3b82-5e9d-485a-98b9-81b8196aec33"
-Path: "/sitecore/content/gea/gea/Data/Quote"
-Languages:
-- Language: en
-  Versions:
-  - Version: 1
-    Fields: []
-
+Path: /sitecore/content/gea/gea/Data/Quote

@@ -8,6 +8,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "e8c37084-33d8-4843-b005-aa8f2295f6ef"
+      Hint: Image
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84145" dam-id="RCq_dvxBQm-bj7iBYOJwkQ" alt="arla spray dryer msd" dam-content-type="Image" />
     - ID: "3c9022f1-33f7-4978-8f3c-a100540ad5b7"
       Hint: 3c9022f1-33f7-4978-8f3c-a100540ad5b7
       Value: "Story"

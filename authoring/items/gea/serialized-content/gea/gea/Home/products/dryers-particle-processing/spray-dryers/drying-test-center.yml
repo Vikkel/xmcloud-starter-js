@@ -1,4 +1,4 @@
----
+﻿---
 ID: "c9547f3a-ca70-4418-b400-952fc04b1d5c"
 Parent: "80621e07-b29f-4248-bed8-c5ba7b75fcad"
 Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
@@ -7,45 +7,47 @@ SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
-    <r xmlns:p="p" xmlns:s="s" p:p="1">
-          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{EA1CAF98-17F9-452C-A39C-AC5A3FCDBE47}"
-              p:before="*"
-              s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
-              s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
-              s:par="CSSStyles"
-              s:ph="headless-header" />
-            <r
-              uid="{69A8E0DB-0513-48EA-B6DA-6B1628195676}"
-              p:after="r[@uid='{EA1CAF98-17F9-452C-A39C-AC5A3FCDBE47}']"
-              s:ds="{5A0762CA-B70F-4AFD-800D-A34DB9E374C6}"
-              s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
-              s:par="CSSStyles&amp;Variant=Split"
-              s:ph="headless-main" />
-            <r
-              uid="{47DCC84D-76D1-46D7-A2F7-6C85B99FA820}"
-              p:after="r[@uid='{69A8E0DB-0513-48EA-B6DA-6B1628195676}']"
-              s:ds="{21B60259-ADA7-4734-B2D0-361E55259519}"
-              s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
-              s:par="CSSStyles&amp;Variant=Default"
-              s:ph="headless-main" />
-            <r
-              uid="{0FE74B78-4AF0-42D4-A108-37DC2BA76FCF}"
-              p:after="r[@uid='{47DCC84D-76D1-46D7-A2F7-6C85B99FA820}']"
-              s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
-              s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
-              s:par="CSSStyles"
-              s:ph="headless-footer" />
-            <r
-              uid="{2272003B-02F6-4E6D-8BE0-BA2830C39CEB}"
-              p:after="r[@uid='{0FE74B78-4AF0-42D4-A108-37DC2BA76FCF}']"
-              s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
-              s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
-              s:par="CSSStyles"
-              s:ph="headless-footer" />
-          </d>
-        </r>
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EA1CAF98-17F9-452C-A39C-AC5A3FCDBE47}"
+          p:before="*"
+          s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
+          s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
+          s:par="CSSStyles"
+          s:ph="headless-header" />
+        <r
+          uid="{69A8E0DB-0513-48EA-B6DA-6B1628195676}"
+          p:after="r[@uid='{EA1CAF98-17F9-452C-A39C-AC5A3FCDBE47}']"
+          s:ds="{5A0762CA-B70F-4AFD-800D-A34DB9E374C6}"
+          s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
+          s:par="CSSStyles&amp;Variant=Split"
+          s:ph="headless-main" />
+        <r
+          uid="{47DCC84D-76D1-46D7-A2F7-6C85B99FA820}"
+          p:after="r[@uid='{69A8E0DB-0513-48EA-B6DA-6B1628195676}']"
+          s:ds="{21B60259-ADA7-4734-B2D0-361E55259519}"
+          s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
+          s:par="CSSStyles&amp;Variant=Default"
+          s:ph="headless-main" />
+        <r
+          uid="{0FE74B78-4AF0-42D4-A108-37DC2BA76FCF}"
+          p:after="r[@uid='{47DCC84D-76D1-46D7-A2F7-6C85B99FA820}']"
+          s:ds="{FF1ACB46-EC81-4EBD-8111-9126BD42FBEE}"
+          s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
+          s:par="CSSStyles"
+          s:ph="headless-footer" />
+        <r
+          uid="{2272003B-02F6-4E6D-8BE0-BA2830C39CEB}"
+          p:after="r[@uid='{0FE74B78-4AF0-42D4-A108-37DC2BA76FCF}']"
+          s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
+          s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
+          s:par="CSSStyles"
+          s:ph="headless-footer" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -53,7 +55,7 @@ Languages:
     Fields:
     - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
       Hint: Title
-      Value: "Drying Test Center"
+      Value: Drying Test Center
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: "Drying Test Center"
+      Value: Drying Test Center

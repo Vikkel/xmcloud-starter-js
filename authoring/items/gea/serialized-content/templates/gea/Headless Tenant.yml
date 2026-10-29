@@ -2,7 +2,7 @@
 ID: "bedc7a52-a5da-422b-a569-4c222072105c"
 Parent: "3e0f1595-2fd7-4535-b233-f15a9ca84bfc"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/gea/Headless Tenant"
+Path: /sitecore/templates/Project/gea/Headless Tenant
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -11,11 +11,11 @@ SharedFields:
   Hint: __Base template
   Value: |
     {B91811F1-FA8B-47F8-B131-BD2C6D5EC805}
-    {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
     {DCB42A80-68C9-46F9-B036-BC44A27D96FE}
+    {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e42c1ecf-46d4-4c87-a215-c9216a42f991"
+  Value: "21f0bb2a-31ea-4389-821d-f1c16391ef58"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{CF16D791-50EF-40AF-9A9E-8C6E071E549B}"
@@ -37,11 +37,11 @@ Languages:
         sitecore\johan.becue@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c468c51d-22f1-47c5-81e6-327ba862fb62"
+      Value: "b9bd590b-0e79-43be-8dd6-a95b54830cb4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\johan.becue@sitecore.com
+        sitecore\sumith.damodaran@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260612T212902Z
+      Value: 20261029T101002Z

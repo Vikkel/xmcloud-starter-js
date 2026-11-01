@@ -26,12 +26,7 @@ Languages:
           p:p="1">
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{5F316EF2-C78B-4C36-9AC9-3FC099F31BA1}"
-              s:ds="c957e74c-fd21-4381-a83b-d5ff263e6226"
-              s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1&amp;Include in schema"
-              s:ph="headless-footer" />
+            
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"

@@ -11,16 +11,10 @@ SharedFields:
       p:p="1">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <r
-          uid="{F5316DF5-E46B-497B-AAD2-07BB22BCE445}"
-          p:before="*"
-          s:ds="{882FF547-3942-4571-BA97-3D5051D10F25}"
-          s:id="{F9957043-83D9-4C1D-9451-5C4BC707653D}"
-          s:par="CSSStyles"
-          s:ph="headless-header" />
+        
         <r
           uid="{6EF4E140-FA34-4BB7-8E1D-259465551036}"
-          p:after="r[@uid='{F5316DF5-E46B-497B-AAD2-07BB22BCE445}']"
+          p:before="*"
           s:ds="{8C3E1B0B-923B-48C4-A177-4A8FE341BC34}"
           s:id="{E11A3298-142B-4E24-9F48-CFEF0324DFDE}"
           s:par="CSSStyles"
@@ -151,13 +145,7 @@ SharedFields:
           s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
           s:par="CSSStyles"
           s:ph="headless-footer" />
-        <r
-          uid="{FDBD6DB4-9040-4C91-9AC3-A98D5B8498DE}"
-          p:after="r[@uid='{987A7FA5-8A1E-4D74-8062-3AFEC24E6FB7}']"
-          s:ds="{C957E74C-FD21-4381-A83B-D5FF263E6226}"
-          s:id="{9EF3A25D-202D-40C9-AB3A-419D1147B2B7}"
-          s:par="CSSStyles"
-          s:ph="headless-footer" />
+        
       </d>
     </r>
 Languages:

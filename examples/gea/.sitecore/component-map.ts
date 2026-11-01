@@ -6,6 +6,7 @@ import { BYOCServerWrapper, FEaaSServerWrapper } from '@sitecore-content-sdk/nex
 import { Form } from '@sitecore-content-sdk/nextjs';
 
 // end of built-in import section
+import * as RowSplitter from 'src/components/row-splitter/RowSplitter';
 import * as RichText from 'src/components/rich-text/RichText';
 import * as Quote from 'src/components/quote/Quote';
 import * as Promo from 'src/components/promo/Promo';
@@ -15,6 +16,7 @@ import * as ProcessStep from 'src/components/process-step/ProcessStep';
 import * as ProcessLine from 'src/components/process-line/ProcessLine';
 import * as PartialDesignDynamicPlaceholder from 'src/components/partial-design-dynamic-placeholder/PartialDesignDynamicPlaceholder';
 import * as PageNav from 'src/components/page-nav/PageNav';
+import * as PageContent from 'src/components/page-content/PageContent';
 import * as NewsletterContactBand from 'src/components/newsletter-contact-band/NewsletterContactBand';
 import * as LinkList from 'src/components/link-list/LinkList';
 import * as IndustryTiles from 'src/components/industry-tiles/IndustryTiles';
@@ -27,7 +29,9 @@ import * as HeroBanner from 'src/components/hero-banner/HeroBanner';
 import * as Header from 'src/components/header/Header';
 import * as Footer from 'src/components/footer/Footer';
 import * as CtaBanner from 'src/components/cta-banner/CtaBanner';
+import * as Container from 'src/components/container/Container';
 import * as ContactForm from 'src/components/contact-form/ContactForm';
+import * as ColumnSplitter from 'src/components/column-splitter/ColumnSplitter';
 import * as CardGrid from 'src/components/card-grid/CardGrid';
 import * as Card from 'src/components/card/Card';
 import * as Breadcrumb from 'src/components/breadcrumb/Breadcrumb';
@@ -36,6 +40,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['BYOCWrapper', BYOCServerWrapper],
   ['FEaaSWrapper', FEaaSServerWrapper],
   ['Form', { ...Form, componentType: 'client' }],
+  ['RowSplitter', { ...RowSplitter }],
   ['RichText', { ...RichText }],
   ['Quote', { ...Quote }],
   ['Promo', { ...Promo }],
@@ -45,6 +50,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ProcessLine', { ...ProcessLine }],
   ['PartialDesignDynamicPlaceholder', { ...PartialDesignDynamicPlaceholder }],
   ['PageNav', { ...PageNav }],
+  ['PageContent', { ...PageContent }],
   ['NewsletterContactBand', { ...NewsletterContactBand }],
   ['LinkList', { ...LinkList }],
   ['IndustryTiles', { ...IndustryTiles }],
@@ -57,7 +63,9 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['Header', { ...Header }],
   ['Footer', { ...Footer }],
   ['CtaBanner', { ...CtaBanner }],
+  ['Container', { ...Container }],
   ['ContactForm', { ...ContactForm, componentType: 'client' }],
+  ['ColumnSplitter', { ...ColumnSplitter }],
   ['CardGrid', { ...CardGrid }],
   ['Card', { ...Card }],
   ['Breadcrumb', { ...Breadcrumb }],

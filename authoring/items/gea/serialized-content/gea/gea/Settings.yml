@@ -2,7 +2,7 @@
 ID: "b821576b-d60e-4dec-8d6f-147f90df5d61"
 Parent: "b000b979-46ca-485b-9eba-dab710e40364"
 Template: "96e943d3-0265-43c9-a6a2-ccbde2c04d41"
-Path: "/sitecore/content/gea/gea/Settings"
+Path: /sitecore/content/gea/gea/Settings
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
@@ -19,7 +19,7 @@ SharedFields:
   Value: "{835D5CAA-ED6B-4B4A-AE56-4093505F9349}"
 - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
   Hint: Name
-  Value: "gea"
+  Value: gea
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
   Value: "{3C212516-A687-4D1F-A95E-38DBD6C8A574}"
@@ -28,7 +28,7 @@ SharedFields:
   Value: "{08446B69-37E5-44DA-A1ED-350F1F1597F9}"
 - ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
   Hint: FilesystemPath
-  Value: "/dist/gea"
+  Value: /dist/gea
 - ID: "9016141c-ff51-40f2-9135-40f5161b9784"
   Hint: ServerSideRenderingEngine
   Value: http
@@ -46,10 +46,10 @@ SharedFields:
   Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
 - ID: "d0ce707c-342f-4c02-ac0a-edb21346dde4"
   Hint: SupportedLanguages
-  Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}"
+  Value: af58419145c9420187405409f4cf8bdd|65884ab9a792475a960df2d7ec815067|18959c3876954d4e8475a37a226b5e49|e28229459ebe42c2956ace34ddc847bf|5c2a4b5eec0e4197b098a80e1762e018|113a86d7fefb4d4aade35df80586b767|a36bf9000826457aafe8dd1860c48461
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "94a8e1f9-03a7-46f5-82d3-d8786ffecb24"
+  Value: "16f507a1-1e88-4bbd-ac1e-801b4a96483f"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
   Value: "{3E0F1595-2FD7-4535-B233-F15A9CA84BFC}"
@@ -77,11 +77,11 @@ Languages:
         sitecore\johan.becue@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ad3606da-4e60-4f89-8ef2-d16c30bd0abe"
+      Value: "3b6d8811-61f7-4f5a-b33a-2cdc69ebd75d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\johan.becue@sitecore.com
+        sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260612T221317Z
+      Value: 20261031T152942Z

@@ -1,8 +1,15 @@
----
+﻿---
 ID: "68e65449-9e3e-4ab3-ad54-874ac5ad5a5a"
 Parent: "3e0f1595-2fd7-4535-b233-f15a9ca84bfc"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: "/sitecore/templates/Project/gea/Image Templates"
+Path: /sitecore/templates/Project/gea/Image Templates
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0b3ad6b3-d897-445b-ba81-1efa55c1b433"
 Languages:
 - Language: en
   Versions:
@@ -15,3 +22,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24764265-dfdd-4ddd-9b1b-8b65bc47a2d9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261031T181342Z

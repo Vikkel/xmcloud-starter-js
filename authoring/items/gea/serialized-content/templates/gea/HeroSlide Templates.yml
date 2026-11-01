@@ -1,8 +1,15 @@
----
+﻿---
 ID: "03357c79-643b-4446-85b0-0b04bab11e80"
 Parent: "3e0f1595-2fd7-4535-b233-f15a9ca84bfc"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: "/sitecore/templates/Project/gea/HeroSlide Templates"
+Path: /sitecore/templates/Project/gea/HeroSlide Templates
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d7d46b73-39b4-4c8a-b3c7-f7da56dfd28d"
 Languages:
 - Language: en
   Versions:
@@ -15,3 +22,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7dd989c-5bae-4ce8-9d76-ae2e1fa4dbda"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261031T181341Z

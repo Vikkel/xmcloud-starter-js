@@ -1,8 +1,15 @@
----
+﻿---
 ID: "b7679f01-da1c-4186-9795-3ce073d723ed"
 Parent: "3e0f1595-2fd7-4535-b233-f15a9ca84bfc"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: "/sitecore/templates/Project/gea/Card Templates"
+Path: /sitecore/templates/Project/gea/Card Templates
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "77f186c7-4b89-4cee-bd64-64aadb702880"
 Languages:
 - Language: en
   Versions:
@@ -15,3 +22,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec02fca1-e08e-4359-9307-a87e87f4a3e1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261031T181341Z

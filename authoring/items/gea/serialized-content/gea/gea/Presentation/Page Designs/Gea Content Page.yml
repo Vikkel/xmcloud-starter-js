@@ -1,0 +1,42 @@
+﻿---
+ID: "5c51d582-f572-4b4c-8b01-2b54de64086e"
+Parent: "d8cb6316-2c19-4ccb-92f4-fac3e923960f"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/gea/gea/Presentation/Page Designs/Gea Content Page
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "db5a9a46-b351-4f5c-8997-9b56badfd14f|957475d7-791c-4387-b310-355f80f30e30"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AE936C9A-E0C1-4862-A3D1-406D45867A92}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "46bde31f-8e0e-4087-bffc-c53b6cfed454"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261031T155823Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89ecfad8-c1ea-46d2-9d3c-9302309c39a3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261031T192214Z

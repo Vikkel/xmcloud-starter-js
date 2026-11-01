@@ -2,7 +2,7 @@
 ID: "96e943d3-0265-43c9-a6a2-ccbde2c04d41"
 Parent: "3e0f1595-2fd7-4535-b233-f15a9ca84bfc"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/gea/JSS Settings"
+Path: /sitecore/templates/Project/gea/JSS Settings
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -16,9 +16,12 @@ SharedFields:
     {A7228B46-610D-4A17-9F61-649F3A30AAAE}
     {2AF2DC09-057F-48C2-A9F4-9779ADF83659}
     {30869218-C3AD-40F9-BCFF-6837127ECD8F}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f60405d5-fc3a-400a-9113-a354c08f9deb"
+  Value: "40c7217e-9ad1-464c-822d-59e1b8d18cc0"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{232E4626-2653-4CB1-AB51-CA59B3506E2F}"
@@ -40,11 +43,11 @@ Languages:
         sitecore\johan.becue@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a5664ad2-f068-4b19-84ea-4f8180fb8040"
+      Value: "7f662d5c-1050-45c8-ba5c-75afa9c4be2f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\johan.becue@sitecore.com
+        sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260612T212902Z
+      Value: 20261031T181342Z

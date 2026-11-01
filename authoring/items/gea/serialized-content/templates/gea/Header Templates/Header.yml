@@ -1,8 +1,8 @@
----
+﻿---
 ID: "c90f43ee-592b-470b-95e6-81e08da0ac8b"
 Parent: "5026de18-f74b-4f71-8d8d-d6230ef20f78"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/gea/Header Templates/Header"
+Path: /sitecore/templates/Project/gea/Header Templates/Header
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -10,11 +10,14 @@ SharedFields:
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: |
-    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
     {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e8b22c5b-d9dc-42b0-8d98-e2c130c9e03c"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{D1CF664E-28E3-44F1-A6CF-1F5888FF6AD7}"
@@ -30,3 +33,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5fa07721-281f-4ca7-acc1-80323da44684"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261031T101833Z

@@ -2,7 +2,7 @@
 ID: "b000b979-46ca-485b-9eba-dab710e40364"
 Parent: "d007f23c-8135-49a9-b645-eff848290989"
 Template: "835d5caa-ed6b-4b4a-ae56-4093505f9349"
-Path: "/sitecore/content/gea/gea"
+Path: /sitecore/content/gea/gea
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
@@ -31,10 +31,16 @@ SharedFields:
   Value: "{4378179A-0AC5-4725-BAE2-0A9D8977EB8A}"
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
-  Value: gea
+  Value: Gea
+- ID: "89cecf4f-e545-44f2-813d-272c08661d14"
+  Hint: Description
+  Value: Website of Gea as example inside SitecoreAI
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: "<image mediaid='e8917b63-22c7-464d-9756-cbe07deda1e2' />"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "fc1992fc-cdf9-4d8e-828a-268187304708"
+  Value: "31d4dae1-c750-4331-891e-a09b493fd392"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{2867D289-8951-458A-AF19-CE93A67BB494}"
@@ -59,11 +65,11 @@ Languages:
         sitecore\johan.becue@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f328dfd6-8afb-43cd-bb6b-d234a3255998"
+      Value: "bce174b5-b31d-45a8-ba0b-ecc0cf4f01f7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Anonymous
+        sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260612T221349Z
+      Value: 20261029T105153Z

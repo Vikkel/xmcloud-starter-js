@@ -1,11 +1,11 @@
-import { defineCliConfig } from '@sitecore-content-sdk/nextjs/config-cli';
+import { defineCliConfig } from "@sitecore-content-sdk/nextjs/config-cli";
 import {
   generateSites,
   generateMetadata,
   extractFiles,
   writeImportMap,
-} from '@sitecore-content-sdk/nextjs/tools';
-import scConfig from './sitecore.config';
+} from "@sitecore-content-sdk/nextjs/tools";
+import scConfig from "./sitecore.config";
 
 export default defineCliConfig({
   config: scConfig,
@@ -15,19 +15,21 @@ export default defineCliConfig({
       generateSites(),
       extractFiles(),
       writeImportMap({
-        paths: ['src/components'],
+        paths: ["src/components"],
       }),
     ],
   },
   componentMap: {
-    paths: ['src/components'],
+    paths: ["src/components"],
     exclude: [
-      'src/components/content-sdk/*',
-      'src/components/atoms/**',
-      'src/components/ui/**',
-      '**/*.props.ts',
-      '**/*.props.tsx',
-      '**/*.schema.ts',
+      "src/components/content-sdk/*",
+      "src/components/atoms/**",
+      "src/components/ui/**",
+      "**/*.props.ts",
+      "**/*.props.tsx",
+      "**/*.schema.ts",
+      "src/components/cdp-profile/CdpProfilePanel.tsx",
+      "src/components/cdp-profile/CdpPageViewTracker.tsx",
     ],
   },
 });

@@ -1,4 +1,5 @@
-import React, { JSX } from "react";
+import React, { JSX, Suspense } from "react";
+import dynamic from "next/dynamic";
 import {
   Field,
   ImageField,
@@ -10,6 +11,15 @@ import Scripts from "src/Scripts";
 import SitecoreStyles from "components/content-sdk/SitecoreStyles";
 import { AppPlaceholder } from "@sitecore-content-sdk/nextjs";
 import componentMap from ".sitecore/component-map";
+
+const CDPProfile = dynamic(
+  () => import("components/cdp-profile/CDPProfile").then((mod) => mod.Default),
+  { ssr: false },
+);
+const ChatWidget = dynamic(
+  () => import("components/chat-widget/ChatWidget").then((mod) => mod.Default),
+  { ssr: false },
+);
 
 interface LayoutProps {
   page: Page;
@@ -87,6 +97,10 @@ const Layout = ({ page }: LayoutProps): JSX.Element => {
                 )}
               </div>
             </footer>
+            <Suspense fallback={null}>
+              <CDPProfile />
+              <ChatWidget />
+            </Suspense>
           </>
         )}
       </div>

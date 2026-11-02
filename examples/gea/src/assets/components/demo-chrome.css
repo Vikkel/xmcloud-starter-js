@@ -1,0 +1,371 @@
+.gea-chat__toggle,
+.gea-cdp__toggle {
+  position: fixed;
+  bottom: 1.5rem;
+  z-index: 80;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border: 0;
+  border-radius: 999px;
+  background: #0303b8;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(3, 3, 184, 0.28);
+}
+
+.gea-chat__toggle {
+  left: 1.5rem;
+}
+
+.gea-cdp__toggle {
+  right: 1.5rem;
+  z-index: 91;
+}
+
+.gea-cdp__backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 88;
+  border: 0;
+  background: rgba(3, 3, 184, 0.35);
+  cursor: pointer;
+}
+
+.gea-cdp__drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  width: min(36rem, 100%);
+  height: 100%;
+  background: #f7f8fa;
+  color: #111;
+  font-size: 0.9rem;
+  box-shadow: -16px 0 40px rgba(3, 3, 184, 0.2);
+}
+
+.gea-cdp__drawer-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  background: #0303b8;
+  color: #fff;
+}
+
+.gea-cdp__drawer-head p {
+  margin: 0;
+  color: #1aff80;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.gea-cdp__drawer-head h2 {
+  margin: 0.15rem 0 0;
+  font-size: 1.25rem;
+}
+
+.gea-cdp__stats {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.gea-cdp__stats span,
+.gea-cdp__stats button {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.gea-cdp__drawer-body {
+  flex: 1;
+  overflow: auto;
+  padding: 1rem;
+}
+
+.gea-cdp__card,
+.gea-cdp__section-body {
+  margin-bottom: 0.75rem;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid #e6e6e6;
+}
+
+.gea-cdp__card p,
+.gea-cdp__section-body > p {
+  margin: 0 0 0.45rem;
+}
+
+.gea-cdp__card span,
+.gea-cdp__section-body > p > span {
+  margin-right: 0.5rem;
+  color: #667085;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.gea-cdp__section {
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+  background: #0303b8;
+  color: #fff;
+}
+
+.gea-cdp__section > button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+.gea-cdp__section > button span {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.gea-cdp__section-body {
+  margin: 0;
+  color: #111;
+  border-width: 1px 0 0;
+}
+
+.gea-cdp__hint,
+.gea-cdp__muted {
+  color: #667085;
+  font-size: 0.75rem;
+}
+
+.gea-cdp__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.75rem;
+  text-align: left;
+}
+
+.gea-cdp__table th,
+.gea-cdp__table td {
+  padding: 0.35rem 0.25rem;
+  border-bottom: 1px solid #eee;
+  vertical-align: middle;
+}
+
+.gea-cdp__bar {
+  display: inline-block;
+  height: 0.35rem;
+  margin-right: 0.4rem;
+  background: #0303b8;
+}
+
+.gea-cdp__group {
+  margin: 0.8rem 0 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.gea-cdp__score-line {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin: 0.2rem 0;
+}
+
+.gea-cdp__events {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.gea-cdp__events li {
+  margin-bottom: 0.5rem;
+  padding: 0.75rem;
+  border: 1px solid #eee;
+}
+
+.gea-cdp__events time {
+  display: block;
+  margin-top: 0.25rem;
+  color: #667085;
+  font-size: 0.75rem;
+}
+
+.gea-cdp__events pre {
+  max-height: 10rem;
+  margin: 0.5rem 0 0;
+  padding: 0.5rem;
+  overflow: auto;
+  background: #f6f6f6;
+  font-size: 0.7rem;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.gea-cdp__events summary {
+  margin-top: 0.4rem;
+  color: #0303b8;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.gea-cdp__section-body form {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.gea-cdp__section-body input,
+.gea-chat__panel input {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #d0d5dd;
+  padding: 0.55rem 0.75rem;
+  font: inherit;
+}
+
+.gea-cdp__section-body form button,
+.gea-cdp__ghost {
+  width: 100%;
+  margin-top: 0.5rem;
+  border: 1px solid #0303b8;
+  background: #fff;
+  padding: 0.55rem 0.75rem;
+  color: #0303b8;
+  font: inherit;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.gea-cdp__section-body form button {
+  border-color: #0303b8;
+  background: #0303b8;
+  color: #fff;
+}
+
+.gea-cdp__error {
+  margin: 0;
+  color: #0303b8;
+  font-size: 0.75rem;
+}
+
+.gea-chat__panel {
+  position: fixed;
+  bottom: 5.5rem;
+  left: 1.5rem;
+  z-index: 80;
+  display: flex;
+  flex-direction: column;
+  width: min(24rem, calc(100vw - 2rem));
+  max-height: 70vh;
+  background: #fff;
+  color: #111;
+  box-shadow: 0 16px 40px rgba(3, 3, 184, 0.2);
+}
+
+.gea-chat__panel header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  background: #0303b8;
+  color: #fff;
+}
+
+.gea-chat__panel header button,
+.gea-chat__panel form button,
+.gea-chat__chips button {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.gea-chat__log {
+  flex: 1;
+  overflow: auto;
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+}
+
+.gea-chat__log article {
+  margin-bottom: 0.75rem;
+}
+
+.gea-chat__log .user {
+  text-align: right;
+}
+
+.gea-chat__log p,
+.gea-chat__log ul {
+  margin: 0;
+}
+
+.gea-chat__log ul {
+  padding: 0.35rem 0 0;
+  list-style: none;
+}
+
+.gea-chat__log a {
+  color: #0303b8;
+  font-weight: 700;
+}
+
+.gea-chat__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0 1rem 0.6rem;
+}
+
+.gea-chat__chips button {
+  border: 1px solid #0303b8;
+  border-radius: 999px;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.75rem;
+}
+
+.gea-chat__panel form {
+  display: flex;
+  border-top: 1px solid #e6e6e6;
+}
+
+.gea-chat__panel form button {
+  padding: 0 1rem;
+  color: #0303b8;
+}
+
+.gea-cdp svg,
+.gea-chat svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+.gea-cdp__toggle svg,
+.gea-chat__toggle svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}

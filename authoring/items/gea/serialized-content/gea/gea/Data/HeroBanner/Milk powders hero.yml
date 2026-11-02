@@ -1,9 +1,99 @@
----
+﻿---
 ID: "ddbb389f-7519-4e46-8f46-3178ae6e77ec"
 Parent: "5bf726f5-3517-4b68-86b6-26ba2a415f31"
 Template: "ffc35154-3a9e-4d13-aa32-c8ac63d5f462"
-Path: "/sitecore/content/gea/gea/Data/HeroBanner/Milk powders hero"
+Path: /sitecore/content/gea/gea/Data/HeroBanner/Milk powders hero
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0cf8c65b-3ab3-4fa8-9e45-0e8531251fac"
+      Hint: Image
+      Value: |
+        <image dam-content-type="Image" alt="Milchpulver" dam-id="yVDeQkszTXKVnMqCw4gXHQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84201" />
+    - ID: "11784cbe-1f6f-4619-bad0-f9b377e13e94"
+      Hint: Eyebrow
+      Value: Milchpulver
+    - ID: "17263a7b-c05f-40f2-b553-44833602d30f"
+      Hint: Title
+      Value: Weltweite Versorgung mit Milchpulveranlagen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94f28898-6ede-45e4-a1cb-837fd8c032a1"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "99871749-be90-498e-ab30-d2542c9a8f9e"
+      Hint: PrimaryLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Angebot anfordern" url="/contact" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T105257Z
+    - ID: "f7a50d20-928a-4e3b-9e9d-2b737428c5a0"
+      Hint: Lede
+      Value: <p>GEA ist einer der weltweit größten Anbieter kompletter Anlagen für Milchpulver auf Milchbasis. Jeden Tag werden Millionen Liter Milch auf von GEA geplanten und ausgestatteten Linien getrocknet.</p>
+  - Version: 2
+    Fields:
+    - ID: "0cf8c65b-3ab3-4fa8-9e45-0e8531251fac"
+      Hint: Image
+      Value: |
+        <image dam-content-type="Image" alt="Milchpulver" dam-id="yVDeQkszTXKVnMqCw4gXHQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84201" />
+    - ID: "11784cbe-1f6f-4619-bad0-f9b377e13e94"
+      Hint: Eyebrow
+      Value: Milchpulver
+    - ID: "17263a7b-c05f-40f2-b553-44833602d30f"
+      Hint: Title
+      Value: Lieferung globaler Milchpulveranlagen
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T110234Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47a8a4e0-c212-4dde-ada6-2da6dd62e10a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "99871749-be90-498e-ab30-d2542c9a8f9e"
+      Hint: PrimaryLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Angebot anfordern" url="/contact" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T110234Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T110238Z
+    - ID: "f7a50d20-928a-4e3b-9e9d-2b737428c5a0"
+      Hint: Lede
+      Value: <p>GEA ist einer der weltweit größten Anbieter kompletter Anlagen für Milchpulver auf Milchbasis. Jeden Tag werden Millionen Liter Milch auf von GEA konzipierten und ausgestatteten Linien getrocknet.</p>
 - Language: en
   Versions:
   - Version: 1
@@ -13,16 +103,15 @@ Languages:
       Value: |
         <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84201" dam-id="yVDeQkszTXKVnMqCw4gXHQ" alt="milk powder" dam-content-type="Image" />
     - ID: "11784cbe-1f6f-4619-bad0-f9b377e13e94"
-      Hint: 11784cbe-1f6f-4619-bad0-f9b377e13e94
-      Value: "Milk powders"
+      Hint: Eyebrow
+      Value: Milk powders
     - ID: "17263a7b-c05f-40f2-b553-44833602d30f"
-      Hint: 17263a7b-c05f-40f2-b553-44833602d30f
-      Value: "Supplying global milk powder plants"
-    - ID: "f7a50d20-928a-4e3b-9e9d-2b737428c5a0"
-      Hint: f7a50d20-928a-4e3b-9e9d-2b737428c5a0
-      Value: |
-        <p>GEA is one of the world’s largest suppliers of complete plants for dairy-based milk powder. Every day, millions of liters of milk are dried on lines designed and equipped by GEA.</p>
+      Hint: Title
+      Value: Supplying global milk powder plants
     - ID: "99871749-be90-498e-ab30-d2542c9a8f9e"
-      Hint: 99871749-be90-498e-ab30-d2542c9a8f9e
+      Hint: PrimaryLink
       Value: |
         <link text="Get a quote" linktype="external" url="/contact" anchor="" target="" />
+    - ID: "f7a50d20-928a-4e3b-9e9d-2b737428c5a0"
+      Hint: Lede
+      Value: "<p>GEA is one of the world’s largest suppliers of complete plants for dairy-based milk powder. Every day, millions of liters of milk are dried on lines designed and equipped by GEA.</p>"

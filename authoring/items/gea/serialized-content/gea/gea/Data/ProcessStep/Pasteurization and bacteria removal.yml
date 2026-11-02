@@ -1,25 +1,108 @@
----
+﻿---
 ID: "3c3c3eb7-6feb-4f40-bbd1-697665d6f25c"
 Parent: "84a42aa7-735f-40df-aeb4-a9f81060035c"
 Template: "53bf0f0a-a1b3-4362-9525-0c9fffafbca4"
-Path: "/sitecore/content/gea/gea/Data/ProcessStep/Pasteurization and bacteria removal"
+Path: /sitecore/content/gea/gea/Data/ProcessStep/Pasteurization and bacteria removal
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
+      Hint: Text
+      Value: <p>Wärmebehandlung, Separatoren zur Bakterienentfernung oder Mikrofiltration schützen die mikrobiologische Sicherheit.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "222e0735-5516-42db-ae7e-15c27de996bd"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
+      Hint: Title
+      Value: Pasteurisierung und Bakterienentfernung
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
+      Hint: ProductLinks
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Sprühtrockner</a></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T105258Z
+    - ID: "e9b64b08-d91f-41ab-9bf2-cd97231728f0"
+      Hint: Image
+      Value: |
+        <image dam-content-type="Image" alt="Pasteurisierungsanlage auf Schlitten, Separator 36506" dam-id="-t4EMR90TYyWS3brQQB7Iw" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84408" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T110234Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
+      Hint: Text
+      Value: <p>Wärmebehandlung, bakterienentfernende Separatoren oder Mikrofiltration schützen die mikrobiologische Sicherheit.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d09fbdad-021f-4c28-a40b-90afc2e74d11"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
+      Hint: Title
+      Value: Pasteurisierung und Bakterienentfernung
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T110234Z
+    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
+      Hint: ProductLinks
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Sprühtrockner</a></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T110238Z
+    - ID: "e9b64b08-d91f-41ab-9bf2-cd97231728f0"
+      Hint: Image
+      Value: |
+        <image dam-content-type="Image" alt="Pasteurisierungs-Skid-Separator 36506" dam-id="-t4EMR90TYyWS3brQQB7Iw" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84408" />
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
+      Hint: Text
+      Value: "<p>Heat treatment, bacteria-removal separators or microfiltration protect microbiological safety.</p>"
+    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
+      Hint: Title
+      Value: Pasteurization and bacteria removal
+    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
+      Hint: ProductLinks
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Spray Dryer</a></p>
     - ID: "e9b64b08-d91f-41ab-9bf2-cd97231728f0"
       Hint: Image
       Value: |
         <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84408" dam-id="-t4EMR90TYyWS3brQQB7Iw" alt="pasteurizer skid separator 36506" dam-content-type="Image" />
-    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
-      Hint: ad46de13-5d4c-4d6a-8d59-c0f740768792
-      Value: "Pasteurization and bacteria removal"
-    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
-      Hint: 5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac
-      Value: |
-        <p>Heat treatment, bacteria-removal separators or microfiltration protect microbiological safety.</p>
-    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
-      Hint: cc9adc6a-c1c6-42cd-a03c-37be239dba69
-      Value: |
-        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Spray Dryer</a></p>

@@ -1,25 +1,108 @@
----
+﻿---
 ID: "ea501232-8c72-4ad3-a85c-bb848e09bf2a"
 Parent: "84a42aa7-735f-40df-aeb4-a9f81060035c"
 Template: "53bf0f0a-a1b3-4362-9525-0c9fffafbca4"
-Path: "/sitecore/content/gea/gea/Data/ProcessStep/Cream separation and standardization"
+Path: /sitecore/content/gea/gea/Data/ProcessStep/Cream separation and standardization
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
+      Hint: Text
+      Value: <p>Rohmilch wird angenommen, separiert und standardisiert, bevor die Formulierung erfolgt.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd1b9d17-613f-48fa-8b33-4021201a974c"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
+      Hint: Title
+      Value: Rahmseparation und Standardisierung
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
+      Hint: ProductLinks
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Sprühtrockner</a></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T105258Z
+    - ID: "e9b64b08-d91f-41ab-9bf2-cd97231728f0"
+      Hint: Image
+      Value: |
+        <image dam-content-type="Image" alt="Zentrifugenseparator MSI für Milch und Molke 36506" dam-id="Qam5984iQu-MchcY2QqIuQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84260" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T110234Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
+      Hint: Text
+      Value: <p>Rohmilch wird angenommen, getrennt und standardisiert, bevor die Formulierung erfolgt.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ef26b9a-4c03-41cf-98af-b7943c64887a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
+      Hint: Title
+      Value: Rahmseparation und Standardisierung
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T110234Z
+    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
+      Hint: ProductLinks
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Sprühtrockner</a></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T110238Z
+    - ID: "e9b64b08-d91f-41ab-9bf2-cd97231728f0"
+      Hint: Image
+      Value: |
+        <image dam-content-type="Image" alt="Zentrifugenseparator MSI für Milch und Molke 36506" dam-id="Qam5984iQu-MchcY2QqIuQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84260" />
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
+      Hint: Text
+      Value: <p>Raw milk is received, separated and standardized before formulation.</p>
+    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
+      Hint: Title
+      Value: Cream separation and standardization
+    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
+      Hint: ProductLinks
+      Value: |
+        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Spray Dryer</a></p>
     - ID: "e9b64b08-d91f-41ab-9bf2-cd97231728f0"
       Hint: Image
       Value: |
         <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84260" dam-id="Qam5984iQu-MchcY2QqIuQ" alt="centrifuge separator msi milk whey 36506" dam-content-type="Image" />
-    - ID: "ad46de13-5d4c-4d6a-8d59-c0f740768792"
-      Hint: ad46de13-5d4c-4d6a-8d59-c0f740768792
-      Value: "Cream separation and standardization"
-    - ID: "5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac"
-      Hint: 5b8509d7-9362-4c49-bc6e-c17ae5c9b8ac
-      Value: |
-        <p>Raw milk is received, separated and standardized before formulation.</p>
-    - ID: "cc9adc6a-c1c6-42cd-a03c-37be239dba69"
-      Hint: cc9adc6a-c1c6-42cd-a03c-37be239dba69
-      Value: |
-        <p><a href="/products/dryers-particle-processing/spray-dryers/msd-spray-dryer">MSD® Spray Dryer</a></p>

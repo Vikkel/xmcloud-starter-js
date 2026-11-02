@@ -4,10 +4,16 @@ Parent: "189ff498-abc0-4f8f-b950-cd8e127ca7a0"
 Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
 Path: /sitecore/content/gea/gea/Home/contact
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{ABEE33EA-D4B7-4B7A-A12F-94F8AA511501}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e203773b-96d7-4459-bdca-3c814b142f71"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -15,7 +21,6 @@ SharedFields:
       p:p="1">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        
         <r
           uid="{B2930E45-35C0-4B51-8678-FA6C28D0F2A4}"
           p:before="*"
@@ -30,7 +35,6 @@ SharedFields:
           s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
           s:par="CSSStyles"
           s:ph="headless-footer" />
-        
       </d>
     </r>
 Languages:
@@ -47,9 +51,7 @@ Languages:
         <r xmlns:p="p" xmlns:s="s"
           p:p="1">
           <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            
-          </d>
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"></d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
@@ -66,11 +68,11 @@ Languages:
         sitecore\martin.madsen@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6d3f0f2e-329e-4ac7-9505-0d073c4e23ce"
+      Value: "97e4b008-e19b-4d3a-a258-094839ce547f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20261031T113045Z
+      Value: 20261101T152631Z

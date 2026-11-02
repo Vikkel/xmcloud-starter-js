@@ -1,0 +1,179 @@
+﻿---
+ID: "16911b7e-acf8-4d97-9646-820102d3d2e0"
+Parent: "e38e5637-06cf-44be-9e20-cffa8e0ae97b"
+Template: "fc230c2f-b3a1-4abd-86ec-cbf270150067"
+Path: /sitecore/content/gea/gea/Home/products/Bacteria removal
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{4507E0D6-3679-40D1-AEC2-541795EE30CB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A556EB05-B252-44D3-B70B-602DBABE3C65}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "90d81ec9-3bf3-4bd1-9d5b-cd8aa52de75b"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T111857Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>Das Anwendungsspektrum reicht von 1-stufiger, 2-stufiger und spezieller Bakterienabtrennung von Konsummilch über variable Bakterienabtrennung bis hin zu Milch für die Käseherstellung und zur Behandlung von Molkenkonzentrat.<br />&nbsp;</p><h2>Höhere Proteinausbeute mit GEA proplus</h2><p>Optional können die Bakterienentfernungsseparatoren mit dem GEA proplus System ausgestattet werden. Mit proplus ist es möglich, die Auswurfintervalle während der Produktion im Vergleich zu herkömmlichen Bakterienentfernungsseparatoren um das bis zu Sechsfache zu verlängern. Das Ergebnis ist eine deutliche Steigerung der Proteinausbeute aus der eingesetzten Rohmilch durch eine konsequente Verlustminimierung von bis zu 75 %. Darüber hinaus sinken die Kosten für Abwasser, Wartung und Verschleiß.</p><p>&nbsp;</p><h2>Optimale Auslegung für die effiziente Entfernung von Sporenbildnern<br />Der Bakterienentfernungsseparator trennt insbesondere Sporenbildner wie Bacillus cereus ab, hitzebeständig bis zu 128 °C und zugleich kältetolerant, die durch Süßgerinnung die Haltbarkeit der Konsummilch negativ beeinflussen. Eine große Zahl von Käsefehlern kann durch den Einsatz von Bakterienentfernungsseparatoren ebenfalls wirksam verhindert werden.</h2><p>&nbsp;</p><p>Der Einsatz von Nitrat ist außerdem weitgehend überflüssig oder kann vollständig entfallen. Aufgrund der höheren spezifischen Dichte der Sporen im Vergleich zu Rohmilch und Magermilch können diese mit Hilfe von bakterienentfernenden Zentrifugen äußerst effizient aus der Milch entfernt werden. Die Auslegung der Zentrifuge – insbesondere Zulauf, Tellerpaket und Zentripetalpumpe – ist für diese Aufgabe optimal konfiguriert. Zusätzlich ist jeder GEA Bakterienentfernungsseparator mit einem sogenannten Rezirkulationssystem ausgestattet. Bis zu 3 % des Zulaufvolumens werden als Trägerflüssigkeit abgezweigt und in den Zulauf zurückgeführt. Auf diese Weise können die Sporen um bis zu 99 % reduziert werden.</p><p>&nbsp;</p><h2>Probenahme<br />In den Klärseparatoren wird die Rohmilch in die schwere Phase „Schlamm“ und die leichte Phase „geklärte Milch“ getrennt. Direkt nachdem die leichte Phase den Klärseparator verlässt, muss eine Probe genommen werden, um eine erneute Kontamination zu vermeiden. Die Probe muss mit Eiswasser oder Trockeneis auf eine Temperatur von &lt; 3 ˚C gekühlt werden. Diese Temperatur darf nicht überschritten werden, bis die Proben spätestens nach 24 Stunden untersucht werden. Für detaillierte Informationen zum Verfahren der Probenahme kontaktieren Sie uns bitte.</h2></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bakterienentfernung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a68f25eb-e2a6-477a-b500-db06980f11d5"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Bakterienentfernung
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T112024Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T120148Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>Das Anwendungsspektrum reicht von 1-stufiger, 2-stufiger und spezieller Bakterienabtrennung aus Trinkmilch über variable Bakterienabtrennung bis hin zu Milch für die Käseherstellung und zur Behandlung von Molkekonzentrat.<br />&nbsp;</p><h2>Höhere Proteinausbeute mit GEA proplus</h2><p>Optional können die Bakterienentfernungsseparatoren mit dem GEA proplus System ausgestattet werden. Mit proplus ist es möglich, die Austragsintervalle während der Produktion im Vergleich zu herkömmlichen Bakterienentfernungsseparatoren um das bis zu Sechsfache zu verlängern. Das Ergebnis ist eine deutliche Steigerung der Proteinausbeute aus der eingesetzten Rohmilch durch eine konsequente Minimierung der Verluste um bis zu 75 %. Darüber hinaus sinken die Kosten für Abwasser, Wartung und Verschleiß.</p><p>&nbsp;</p><h2>Optimales Design für die effiziente Entfernung von Sporenbildnern<br />Der Bakterienentfernungsseparator trennt insbesondere Sporenbildner wie Bacillus cereus ab, hitzebeständig bis 128 °C und zugleich kältetolerant, die die Haltbarkeit der Trinkmilch durch Süßgerinnung negativ beeinflussen. Auch eine große Zahl von Käsefehlern kann durch den Einsatz von Bakterienentfernungsseparatoren wirksam verhindert werden.</h2><p>&nbsp;</p><p>Der Einsatz von Nitrat ist ebenfalls weitgehend überflüssig oder kann vollständig entfallen. Aufgrund der höheren spezifischen Dichte der Sporen im Vergleich zu Rohmilch und Magermilch können sie mit Hilfe von bakterienentfernenden Zentrifugen äußerst effizient aus der Milch entfernt werden. Das Design der Zentrifuge – insbesondere Zulauf, Tellerpaket und Zentripetalpumpe – ist für diese Aufgabe optimal ausgelegt. Zusätzlich ist jeder GEA Bakterienentfernungsseparator mit einem sogenannten Rezirkulationssystem ausgestattet. Bis zu 3 % des Zulaufvolumens werden als Trägerflüssigkeit abgezweigt und in den Zulauf zurückgeführt. Auf diese Weise können die Sporen um bis zu 99 % reduziert werden.</p><p>&nbsp;</p><h2>Probenahme<br />In den Klärern wird die Rohmilch in die Schwerphase „Schlamm“ und die Leichtphase „geklärte Milch“ getrennt. Direkt nachdem die Leichtphase den Klärer verlässt, muss eine Probe genommen werden, um eine Rekontamination zu vermeiden. Die Probe muss mit Eiswasser oder Trockeneis auf eine Temperatur von &lt; 3 ˚C gekühlt werden. Diese Temperatur darf nicht überschritten werden, bis die Proben nach spätestens 24 Stunden untersucht werden. Für ausführliche Informationen zum Verfahren der Probenahme kontaktieren Sie uns bitte.</h2></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bakterienentfernung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97fcc5e7-e460-456b-9a2f-dbbabc0b6678"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T120148Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Bakterienentfernung
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T120156Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T111857Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>The application spectrum ranges from 1-stage, 2-stage and special bacteria separation from drinking milk through variable bacteria separation to cheese-making milk, right up to treatment of whey concentrate.<br />&nbsp;</p><h2>Increased protein yield with GEA proplus</h2><p>Optionally, the <span style="color:hsl(240, 75%, 60%);"><strong>bacteria removal separators</strong></span> can be equipped with the GEA proplus system. With proplus it is possible to extend the ejection intervals during production up to six-fold compared to conventional bacteria removal separators. The result is a significant boost in protein yield from the raw milk used by means of consistent loss minimization of up to 75 %. In addition, there is a decrease in costs for waste water, maintenance and wear.</p><p>&nbsp;</p><h2>Optimum design for the efficient removal of spore formers<br />The bacteria removal separator separates in particular spore formers such as Bacillus cereus, heat-resistant up to 128 °C and cold-tolerant at the same time, which negatively impact the shelf life of the drinking milk due to sweet coagulation. A large number of cheese defects can likewise be prevented effectively through the application of bacteria removal separators.</h2><p>&nbsp;</p><p>The use of nitrate is also largely superfluous or can be dispensed with completely. Due to the higher specific gravity of the spores compared to the raw milk and skim milk, they can be removed from the milk extremely efficiently with the aid of bacteria-removing centrifuges. The design of the centrifuge – the feed, disk stack and centripetal pump in particular – is configured optimally for this task. Additionally, every GEA bacteria removal separator is equipped with a so-called recirculation system. Up to 3% of the feed volume is tapped off as carrier liquid and recycled back into the feed. In this way, the spores can be reduced by up to 99%.</p><p>&nbsp;</p><h2>Taking samples<br />In the clarifiers the raw milk is separated in to the heavy phase “sludge” and the light phase “clarified milk”. Directly after the light phase leaves the clarifier, a sample has to be taken in order to avoid any recontamination. The sample must be cooled to a temperature &lt; 3 ˚C using iced water or dry ice. This temperature may not be exceeded until the samples are examined after no more than 24 hours. For detailed information about the sample taking procedure please contact us.</h2></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bacteria removal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb8fbcd6-33c0-49f7-b335-dd5d80d4e6ff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Bacteria removal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T173526Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T111857Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>El espectro de aplicación abarca la separación de bacterias de 1 etapa, 2 etapas y especial, desde la leche de consumo hasta la separación variable de bacterias para leche destinada a la elaboración de queso, e incluso el tratamiento de concentrado de suero.<br />&nbsp;</p><h2>Mayor rendimiento de proteínas con GEA proplus</h2><p>Opcionalmente, los separadores para eliminación de bacterias pueden equiparse con el sistema GEA proplus. Con proplus es posible ampliar los intervalos de descarga durante la producción hasta seis veces en comparación con los separadores convencionales para eliminación de bacterias. El resultado es un aumento significativo del rendimiento de proteínas de la leche cruda utilizada mediante una minimización constante de pérdidas de hasta el 75 %. Además, se reducen los costos de aguas residuales, mantenimiento y desgaste.</p><p>&nbsp;</p><h2>Diseño óptimo para la eliminación eficiente de formadores de esporas<br />El separador para eliminación de bacterias separa en particular los formadores de esporas como Bacillus cereus, resistente al calor hasta 128 °C y tolerante al frío al mismo tiempo, que afectan negativamente a la vida útil de la leche de consumo debido a la coagulación dulce. Asimismo, un gran número de defectos del queso puede prevenirse de forma eficaz mediante la aplicación de separadores para eliminación de bacterias.</h2><p>&nbsp;</p><p>El uso de nitrato también es en gran medida superfluo o puede evitarse por completo. Debido a la mayor densidad específica de las esporas en comparación con la leche cruda y la leche desnatada, pueden eliminarse de la leche con una eficacia extrema con ayuda de centrífugas para eliminación de bacterias. El diseño de la centrífuga —en particular la alimentación, la pila de discos y la bomba centrípeta— está configurado de forma óptima para esta tarea. Además, cada separador para eliminación de bacterias de GEA está equipado con un denominado sistema de recirculación. Hasta el 3% del volumen de alimentación se desvía como líquido portador y se recircula de nuevo a la alimentación. De este modo, las esporas pueden reducirse hasta en un 99%.</p><p>&nbsp;</p><h2>Toma de muestras<br />En los clarificadores, la leche cruda se separa en la fase pesada, “lodo”, y la fase ligera, “leche clarificada”. Inmediatamente después de que la fase ligera salga del clarificador, debe tomarse una muestra para evitar cualquier recontaminación. La muestra debe enfriarse a una temperatura &lt; 3 ˚C utilizando agua helada o hielo seco. Esta temperatura no debe superarse hasta que las muestras se analicen en un plazo máximo de 24 horas. Para obtener información detallada sobre el procedimiento de toma de muestras, póngase en contacto con nosotros.</h2></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Eliminación de bacterias
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b20e148e-0ab9-4b94-ad49-c153c2eba4a3"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Eliminación de bacterias
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T120157Z

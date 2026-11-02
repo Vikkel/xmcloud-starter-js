@@ -1,13 +1,75 @@
----
+﻿---
 ID: "7d2f1cd5-b9f0-4343-aaea-aa77740994d4"
 Parent: "28989358-ae48-4a22-a822-0061619e29d8"
 Template: "ad7672f2-c74a-4e88-847a-b4c491f31541"
-Path: "/sitecore/content/gea/gea/Data/Breadcrumb/Milk powders trail"
+Path: /sitecore/content/gea/gea/Data/Breadcrumb/Milk powders trail
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6a3ac7dd-9bb1-4073-99c9-f68271e7fd7a"
+      Hint: Trail
+      Value: Startseite / Milchverarbeitung / Milchpulver
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dba07225-5c0b-43ee-ab9c-dab53df6e97c"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T105257Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T110233Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "6a3ac7dd-9bb1-4073-99c9-f68271e7fd7a"
+      Hint: Trail
+      Value: Startseite / Milchverarbeitung / Milchpulver
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67978a54-bade-44c5-a371-44039eb12f8d"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T110233Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T110238Z
 - Language: en
   Versions:
   - Version: 1
     Fields:
     - ID: "6a3ac7dd-9bb1-4073-99c9-f68271e7fd7a"
-      Hint: 6a3ac7dd-9bb1-4073-99c9-f68271e7fd7a
-      Value: "Home / Dairy processing / Milk powders"
+      Hint: Trail
+      Value: Home / Dairy processing / Milk powders

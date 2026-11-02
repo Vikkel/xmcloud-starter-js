@@ -11,7 +11,6 @@ SharedFields:
       p:p="1">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        
         <r
           uid="{18A4A62A-94CD-4DB7-B11C-E67AF0FF8859}"
           p:before="*"
@@ -26,7 +25,6 @@ SharedFields:
           s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
           s:par="CSSStyles"
           s:ph="headless-footer" />
-        
       </d>
     </r>
 Languages:

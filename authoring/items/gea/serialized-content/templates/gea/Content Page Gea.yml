@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/gea/Content Page Gea
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/document_text.png
+  Value: Applications/32x32/text_rich_marked.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: |
@@ -20,7 +20,7 @@ SharedFields:
   Value: 2050
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "51d38e39-78c7-4bf8-864b-ae6f9589429f"
+  Value: "33f1193c-c265-4167-95f3-723b28b9dd12"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{78FD7797-7DA8-44AC-8386-07A228B85FBC}"
@@ -42,11 +42,11 @@ Languages:
         sitecore\johan.becue@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "02b1d655-b980-4aac-bb5f-68d6467340ff"
+      Value: "2f98b734-6860-477d-8d73-0b3efde2ded0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20261031T181342Z
+      Value: 20261101T100335Z

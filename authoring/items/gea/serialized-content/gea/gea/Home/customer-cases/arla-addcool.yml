@@ -4,6 +4,13 @@ Parent: "a3707be8-7e94-4144-b020-84172cfedefe"
 Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
 Path: "/sitecore/content/gea/gea/Home/customer-cases/arla-addcool"
 SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9CB581DD-494B-4B59-87E6-944917DB1DB1}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "31f8e59b-ad21-4afe-a8b6-85cc1b817250"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -11,38 +18,9 @@ SharedFields:
       p:p="1">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        
-        <r
-          uid="{D2E62550-0CA7-4892-A261-F820C419637B}"
-          p:before="*"
-          s:ds="{95A0F55D-5EBE-4329-BFF0-542D3A8987A4}"
-          s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
-          s:par="CSSStyles&amp;Variant=Case"
-          s:ph="headless-main" />
-        <r
-          uid="{96AD7902-C0D2-424E-A055-9F3C88E77081}"
-          p:after="r[@uid='{D2E62550-0CA7-4892-A261-F820C419637B}']"
-          s:ds="{3F3EF879-008E-41A5-BBA8-225BD6E1B5D3}"
-          s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
-          s:par="CSSStyles&amp;Variant=Lead"
-          s:ph="headless-main" />
-        <r
-          uid="{B94AB225-D4D0-4F83-B4CE-D61A38FD5AD7}"
-          p:after="r[@uid='{96AD7902-C0D2-424E-A055-9F3C88E77081}']"
-          s:ds="{6F30AF1B-3C0C-4927-8714-139495A2F455}"
-          s:id="{81F49E1F-13FB-4713-BDB0-E49EA69A47D9}"
-          s:par="CSSStyles"
-          s:ph="headless-main" />
-        <r
-          uid="{59A203F0-61F3-4CD8-8D94-D59A775C733A}"
-          p:after="r[@uid='{B94AB225-D4D0-4F83-B4CE-D61A38FD5AD7}']"
-          s:ds="{A9FC3CDE-843C-40EF-96B6-42E590B7BA79}"
-          s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
-          s:par="CSSStyles&amp;Variant=Default"
-          s:ph="headless-main" />
         <r
           uid="{06DF2B67-789D-467D-9F4F-97CB2DA847AB}"
-          p:after="r[@uid='{59A203F0-61F3-4CD8-8D94-D59A775C733A}']"
+          p:before="*"
           s:ds="{E0B0349B-4269-4423-B895-26BC249195A7}"
           s:id="{81F49E1F-13FB-4713-BDB0-E49EA69A47D9}"
           s:par="CSSStyles"
@@ -68,7 +46,34 @@ SharedFields:
           s:id="{9109E359-5E2D-4EC9-B128-15339BBE4198}"
           s:par="CSSStyles"
           s:ph="headless-footer" />
-        
+        <r
+          uid="{D2E62550-0CA7-4892-A261-F820C419637B}"
+          p:after="r[@uid='{A8776E5C-6E09-433D-826A-6DBB7F1353F3}']"
+          s:ds="{95A0F55D-5EBE-4329-BFF0-542D3A8987A4}"
+          s:id="{D54AF5C3-164E-4415-91DB-165B9596DA49}"
+          s:par="CSSStyles&amp;Variant=Case"
+          s:ph="/headless-main/sxa-gea-product/row-1-2" />
+        <r
+          uid="{96AD7902-C0D2-424E-A055-9F3C88E77081}"
+          p:after="r[@uid='{D2E62550-0CA7-4892-A261-F820C419637B}']"
+          s:ds="{3F3EF879-008E-41A5-BBA8-225BD6E1B5D3}"
+          s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
+          s:par="CSSStyles&amp;Variant=Lead"
+          s:ph="/headless-main/sxa-gea-product/row-1-2" />
+        <r
+          uid="{B94AB225-D4D0-4F83-B4CE-D61A38FD5AD7}"
+          p:after="r[@uid='{96AD7902-C0D2-424E-A055-9F3C88E77081}']"
+          s:ds="{6F30AF1B-3C0C-4927-8714-139495A2F455}"
+          s:id="{81F49E1F-13FB-4713-BDB0-E49EA69A47D9}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/sxa-gea-product/row-1-2" />
+        <r
+          uid="{59A203F0-61F3-4CD8-8D94-D59A775C733A}"
+          p:after="*[1=2]"
+          s:ds="{A9FC3CDE-843C-40EF-96B6-42E590B7BA79}"
+          s:id="{D370D038-C42F-4651-8860-7FD90D1911C9}"
+          s:par="CSSStyles&amp;Variant=Default"
+          s:ph="/headless-main/sxa-gea-product/row-1-2" />
       </d>
     </r>
 Languages:
@@ -76,9 +81,29 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T175036Z
     - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
       Hint: Title
       Value: Arla AddCool
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Arla AddCool
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1c12e91-c436-4694-9947-3ce102f6ca77"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T175057Z

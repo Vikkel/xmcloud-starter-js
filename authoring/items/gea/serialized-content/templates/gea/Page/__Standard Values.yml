@@ -2,16 +2,18 @@
 ID: "e7e0c894-d9ee-42c1-8b55-23492b11d0c3"
 Parent: "9433b727-d449-48fd-a4e4-a254eac2501e"
 Template: "9433b727-d449-48fd-a4e4-a254eac2501e"
-Path: "/sitecore/templates/Project/gea/Page/__Standard Values"
+Path: /sitecore/templates/Project/gea/Page/__Standard Values
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: |
     {9433B727-D449-48FD-A4E4-A254EAC2501E}
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {FC230C2F-B3A1-4ABD-86EC-CBF270150067}
+    {B305A56C-0F2D-4A9C-9323-E77EACD54C6E}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "270f684a-5ba8-4a58-a510-24b94c845424"
+  Value: "82c7b713-9ff0-49c5-9ad4-82370cd524ae"
 Languages:
 - Language: en
   Versions:
@@ -20,6 +22,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260612T212856Z
+    - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
+      Hint: Title
+      Value: $name
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -30,14 +35,11 @@ Languages:
         sitecore\johan.becue@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6383f460-b838-4086-9a8b-b85d75252d89"
-    - ID: "3e40da48-5b93-461d-bd05-8d8c7a890f7e"
-      Hint: Title
-      Value: $name
+      Value: "6a8c2d0f-5724-4a77-9dd5-fcbaa2f69979"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\johan.becue@sitecore.com
+        sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260612T212903Z
+      Value: 20261101T103100Z

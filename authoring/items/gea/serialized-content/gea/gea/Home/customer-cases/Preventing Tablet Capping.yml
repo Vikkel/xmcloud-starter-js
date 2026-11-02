@@ -1,0 +1,631 @@
+﻿---
+ID: "1bcc2bba-4e9c-41c0-93fb-e816958f6771"
+Parent: "a3707be8-7e94-4144-b020-84172cfedefe"
+Template: "fc230c2f-b3a1-4abd-86ec-cbf270150067"
+Path: "/sitecore/content/gea/gea/Home/customer-cases/Preventing Tablet Capping"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{614D1987-319F-4391-81EE-1CF35CFBDA50}" />
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>Die Bedeutung von Vorkompressionsdruck und Verweilzeit zur Verringerung von <span style="color:hsl(240, 75%, 60%);"><strong>Tablet Capping</strong></span>-Problemen.</h1><h2><br />Lösung von <span style="color:hsl(240, 75%, 60%);"><strong>Tablet Capping</strong></span>-Problemen<br />Capping ist ein Begriff zur Beschreibung der Ablösung eines Querschnittsfragments von der Tablettenoberfläche, die in der Regel direkt nach dem Auswurf der Tablette aus der Matrize auftritt. Die Beschädigung von Tabletten durch Capping führt ausnahmslos zur Zurückweisung der Produktionscharge. Bei einem zugelassenen Produkt ist eine Änderung der Formulierung nicht die bevorzugte Option zur Behebung solcher Probleme. Außerdem sind bei einem hochdosierten Produkt den Formulierungsänderungen Grenzen gesetzt, und die endgültige Lösung beseitigt das Capping-Problem möglicherweise nicht vollständig.</h2><p>&nbsp;</p><p>Eine mögliche Alternative zur Verringerung von Capping besteht in der Verwendung einer speziell entwickelten Rundläufer-Tablettenpresse, die in der Vorkompressionsstufe einen Luftkompensator einsetzt: Die Vorkompressionskraft kann in Verbindung mit einer verlängerten Verweilzeit vor dem eigentlichen Hauptkompressionsvorgang angepasst werden. Dieser neuartige Modus der Anwendung der Vorkompressionskraft wurde mit einer GEA Rundläufer-Tablettenpresse mit Luftkompensator an Granulat untersucht, das durch High-Shear-Granulation hergestellt wurde; die Formulierung bestand aus 78% Acetaminophen (w/w) und 22% Stärke (w/w). Es wurde festgestellt, dass die Änderung des Modus der Anwendung der Kompressionskraft das Auftreten von Tablet Capping reduzieren oder sogar beseitigen kann, ohne die mechanische Festigkeit der hergestellten Tabletten zu beeinträchtigen.</p><p>&nbsp;</p><h2>Methoden<br />Acetaminophen-Stärke-Granulat wurde trocken mit 1.1% Magnesiumstearat (w/w) und 0.16% kolloidalem Siliciumdioxid (w/w) vermischt. Zur Herstellung von 325 mg schweren flachen Tabletten mit Facette wurde eine GEA Tablettenpresse (R190FT) mit 10 mm Stempeln verwendet. Untersucht wurden verschiedene Tablettierparameter, darunter Vorkompressionsdruck, Tablettendicke bei der Vorkompression, Tablettendicke bei der Hauptkompression und Tellergeschwindigkeit.</h2><p>&nbsp;</p><p>Hauptkompressionsdruck, Verweilzeit und Wegwerte wurden für jede hergestellte Tablettencharge aufgezeichnet. Chargen mit weniger als 10% Tablet Capping nach der Kompression wurden anschließend gemäß den USP-Pharmakopöe-Methoden weiter charakterisiert hinsichtlich Tablettendicke (Digimatic Micrometer, Mitotuyo, Japan), Bruchfestigkeit (HT1, Sotax, Schweiz) und Friabilität (TA20, Erweka, Deutschland). Auch die Anzahl der nach dem Friabilitätstest gedeckelten Tabletten wurde erfasst.</p><p>&nbsp;</p><h2>Ergebnisse und Diskussion<br />Die Herstellung von Tabletten aus Granulat erfordert die Anwendung einer bestimmten Kompressionskraft bzw. eines bestimmten Drucks. Ein unzureichender Kompressionsdruck führt dazu, dass sich die Granulate nicht zu kohärenten Massen oder Tabletten verdichten, die weiterer Handhabung oder Verarbeitung standhalten. Ein übermäßiger Kompressionsdruck kann jedoch zu Capping oder zu übermäßig harten Tabletten führen, die eine unzulässig lange Zerfallszeit aufweisen. Für die Acetaminophen-Stärke-Formulierung wurde festgestellt, dass für die Tablettenherstellung ein Hauptkompressionsdruck im Bereich von 108–140 N/mm2 erforderlich war. Tabletten, die mit einem Hauptkompressionsdruck von mehr als 140 N/mm2 hergestellt wurden, zeigten unmittelbar nach der Kompression Capping. Im Gegensatz dazu führte die Verwendung eines niedrigen Hauptkompressionsdrucks (&lt;100 N/mm2) zu Tabletten mit sehr geringer Bruchfestigkeit (&lt;25 N).</h2><p>&nbsp;</p><p>Für jeden ausgewählten Hauptkompressionsdruck im Bereich von 108–140 N/mm2 nahm die Tablettenbruchfestigkeit zu, während die Friabilität und das Auftreten von Capping mit steigendem Vorkompressionsdruck abnahmen. Bei einer Vorkompressionsdruckgrenze von 34 N/mm2 und einem Hauptkompressionsdruck von 108 N/mm2 konnte die Verweilzeit durch Anpassung der Tablettendicke bei der Vorkompression und der Tellergeschwindigkeit verändert werden. Der Luftkompensator an der Vorkompressionswalze bewegte die Walze nach oben, wenn die Vorkompressionskraft die voreingestellte Grenzkraft überschritt, wodurch der Vorkompressionsdruck auf der Tablette konstant blieb, während sich die Verweilzeit entsprechend verlängerte.</p><p>&nbsp;</p><p>Durch die Verlängerung der Verweilzeit in der Vorkompressionsstufe wurde festgestellt, dass die Tablettenbruchfestigkeit zunahm und die Friabilität abnahm. Für Acetaminophen wurden plastische Deformation und spröde Fragmentierung als Deformationsmechanismen beschrieben.1,2 Eine längere Verweilzeit verlängerte die effektive Kontaktzeit, in der der Kompakt einem angelegten Kraftniveau ausgesetzt war, das Capping verursachen kann, und ermöglichte dadurch eine weitere plastische Deformation. Dies führte zu längeren Partikel-Partikel-Bindungszeiten. Die anschließende Anwendung des Hauptkompressionsdrucks verstärkte die Wechselwirkung weiter und verbesserte die mechanische Festigkeit der resultierenden Tabletten.</p><p>&nbsp;</p><p>Ohne die geeignete Intervention in der Vorkompressionsstufe zur Ermöglichung einer anfänglichen Tablettenkonsolidierung könnte die Anwendung eines hohen Hauptkompressionsdrucks jedoch eine mögliche, mit elastischer Rückfederung verbundene Ruptur gebildeter Bindungen verursachen. Dadurch würden in den Tabletten geschwächte Bereiche entstehen, die sie anfälliger für Capping machen.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Vermeidung von Tablettendeckelung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8434d97-b71c-4894-90ea-709a9de791d7"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Vermeidung von Tablettendeckelung
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T160256Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T160756Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>Die Bedeutung von Vorkompressionsdruck und Verweilzeit zur Verringerung von <span style="color:hsl(240, 75%, 60%);"><strong>Tablettenkappenbildung</strong></span>.</h1><h2><br />Lösung von Problemen mit <span style="color:hsl(240, 75%, 60%);"><strong>Tablettenkappenbildung</strong></span><br />Capping ist ein Begriff zur Beschreibung der Ablösung eines querschnittlichen Fragments von der Tablettenoberfläche, die in der Regel direkt nach dem Ausstoßen der Tablette aus der Matrize auftritt. Die Beschädigung von Tabletten durch Capping führt unweigerlich zur Zurückweisung der Produktionscharge. Bei einem zugelassenen Produkt ist eine Änderung der Formulierung nicht die bevorzugte Option zur Behebung solcher Probleme. Darüber hinaus gibt es bei einem hoch dosierten Produkt Grenzen für Formulierungsänderungen, und die endgültige Lösung behebt das Capping-Problem möglicherweise nicht vollständig.</h2><p>&nbsp;</p><p>Eine mögliche Alternative zur Verringerung von Capping ist die Verwendung einer speziell entwickelten Rundläufer-Tablettenpresse, die in der Vorkompressionsstufe einen Luftkompensator einsetzt: Die Vorkompressionskraft kann in Verbindung mit einer verlängerten Verweilzeit vor dem eigentlichen Hauptkompressionsereignis angepasst werden. Dieser neuartige Modus der Anwendung der Vorkompressionskraft wurde mit einer GEA Rundläufer-Tablettenpresse mit Luftkompensator an Granulat untersucht, das durch High-Shear-Granulation hergestellt wurde; die Formulierung bestand aus 78% Acetaminophen (w/w) und 22% Stärke (w/w). Es wurde festgestellt, dass die Änderung der Art der Anwendung der Kompressionskraft das Auftreten von Tablettenkappenbildung verringern oder sogar beseitigen kann, ohne die mechanische Festigkeit der hergestellten Tabletten zu beeinträchtigen.</p><p>&nbsp;</p><h2>Methoden<br />Acetaminophen-Stärke-Granulat wurde trocken mit 1.1% Magnesiumstearat (w/w) und 0.16% kolloidalem Siliciumdioxid (w/w) gemischt. Eine GEA Tablettenpresse (R190FT) mit 10 mm Stempeln wurde zur Herstellung von 325 mg schweren flachen, abgeschrägten Tabletten verwendet. Es wurden verschiedene Tablettierparameter untersucht, darunter Vorkompressionsdruck, Tablettendicke bei der Vorkompression, Tablettendicke bei der Hauptkompression und Drehzahl des Rotors.</h2><p>&nbsp;</p><p>Hauptkompressionsdruck, Verweilzeit und Verdrängungswerte wurden für jede produzierte Tablettencharge aufgezeichnet. Chargen mit weniger als 10% Tablettenkappenbildung nach der Kompression wurden anschließend gemäß den USP-Pharmakopöe-Methoden für Tablettendicke (Digimatic Micrometer, Mitotuyo, Japan), Bruchfestigkeit (HT1, Sotax, Schweiz) und Friabilität (TA20, Erweka, Deutschland) weiter charakterisiert. Die Anzahl der nach dem Friabilitätstest gekappten Tabletten wurde ebenfalls erfasst.</p><p>&nbsp;</p><h2>Ergebnisse und Diskussion<br />Die Herstellung von Tabletten aus Granulat erfordert die Anwendung eines bestimmten Maßes an Kompressionskraft oder Druck. Unzureichender Kompressionsdruck führt dazu, dass sich die Granulate nicht zu kohärenten Massen oder Tabletten verdichten, die einer weiteren Handhabung oder Verarbeitung standhalten können. Übermäßiger Kompressionsdruck kann jedoch zu Tablettenkappenbildung oder zu übermäßig harten Tabletten führen, die unangemessen lange Zerfallszeiten aufweisen. Für die Acetaminophen-Stärke-Formulierung wurde festgestellt, dass für die Tablettenherstellung ein Hauptkompressionsdruck im Bereich von 108–140 N/mm2 erforderlich war. Tabletten, die mit einem Hauptkompressionsdruck von mehr als 140 N/mm2 hergestellt wurden, zeigten unmittelbar nach der Kompression Kappenbildung. Im Gegensatz dazu führte die Verwendung eines niedrigen Hauptkompressionsdrucks (&lt;100 N/mm2) zu Tabletten mit sehr geringer Bruchfestigkeit (&lt;25 N).</h2><p>&nbsp;</p><p>Für jeden ausgewählten Hauptkompressionsdruck innerhalb des Bereichs von 108–140 N/mm2 nahm die Bruchfestigkeit der Tabletten zu, während die Friabilität und das Auftreten von Tablettenkappenbildung mit zunehmendem Vorkompressionsdruck abnahmen. Bei einer Vorkompressionsdruckgrenze von 34 N/mm2 und einem Hauptkompressionsdruck von 108 N/mm2 konnte die Verweilzeit durch Anpassung der Tablettendicke bei der Vorkompression und der Rotorgeschwindigkeit verändert werden. Der Luftkompensator an der Vorkompressionswalze bewegte die Walze nach oben, wenn die Vorkompressionskraft die voreingestellte Grenzkraft überschritt, und hielt so den Vorkompressionsdruck auf die Tablette konstant, während sich die Verweilzeit entsprechend verlängerte.</p><p>&nbsp;</p><p>Durch die Verlängerung der Verweilzeit in der Vorkompressionsstufe wurde festgestellt, dass die Bruchfestigkeit der Tabletten zunahm und die Friabilität abnahm. Für Acetaminophen wurden plastische Deformation und spröde Fragmentierung als Verformungsmechanismen beschrieben.1,2 Eine Verlängerung der Verweilzeit erhöhte die effektive Kontaktzeit, während der das Kompakt einer angelegten Kraft ausgesetzt war, die Kappenbildung verursachen konnte, wodurch eine weitere plastische Deformation ermöglicht wurde. Dies führte zu längeren Bindungszeiten zwischen den Partikeln. Die anschließende Anwendung des Hauptkompressionsdrucks verstärkte die Wechselwirkung weiter und verbesserte die mechanische Festigkeit der resultierenden Tabletten.</p><p>&nbsp;</p><p>Ohne einen geeigneten Eingriff in der Vorkompressionsstufe, der eine anfängliche Konsolidierung der Tablette ermöglicht, kann die Anwendung eines hohen Hauptkompressionsdrucks jedoch eine mögliche, mit elastischer Rückfederung verbundene Ruptur der gebildeten Bindungen verursachen. Dadurch entstehen geschwächte Bereiche in den Tabletten, die sie anfällig für Tablettenkappenbildung machen.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Vermeidung von Tablettenkappenbildung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7392c39d-e8c7-4afb-b77e-9817da65ed6e"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T160756Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Vermeidung von Tablettenkappenbildung
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T160809Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>Die Bedeutung von Vorkompressionsdruck und Verweilzeit zur Minderung von <span style="color:hsl(240, 75%, 60%);"><strong>Deckeln</strong></span> bei Tabletten.</h1><h2><br />Lösung von Problemen mit <span style="color:hsl(240, 75%, 60%);"><strong>Deckeln</strong></span><br />Capping ist ein Begriff für das Ablösen eines querschnittlichen Fragments von der Tablettenoberfläche, was in der Regel unmittelbar nach dem Ausstoßen der Tablette aus der Matrize auftritt. Die Beschädigung von Tabletten durch Capping führt ausnahmslos zur Zurückweisung der Produktionscharge. Bei einem zugelassenen Produkt ist eine Änderung der Formulierung nicht die bevorzugte Option zur Lösung solcher Probleme. Darüber hinaus gibt es bei einem hochdosierten Produkt Grenzen für Formulierungsänderungen, und die endgültige Lösung behebt das Capping-Problem möglicherweise nicht vollständig.</h2><p>&nbsp;</p><p>Eine mögliche Alternative zur Verbesserung von Capping ist der Einsatz einer speziell entwickelten Rundlauf-Tablettenpresse, die in der Vorkompressionsstufe einen Luftkompensator verwendet: Die Vorkompressionskraft kann in Verbindung mit einer verlängerten Verweilzeit vor dem eigentlichen Hauptkompressionsereignis verändert werden. Diese neuartige Art der Anwendung der Vorkompressionskraft wurde mit einer GEA Rundlauf-Tablettenpresse mit Luftkompensator an Granulat untersucht, das durch High-Shear-Granulation hergestellt wurde; die Formulierung bestand aus 78% Acetaminophen (w/w) und 22% Stärke (w/w). Es wurde festgestellt, dass die Veränderung der Art der Anwendung der Kompressionskraft das Auftreten von Tabletten-Capping reduzieren oder sogar beseitigen kann, ohne die mechanische Festigkeit der hergestellten Tabletten zu beeinträchtigen.</p><p>&nbsp;</p><h2>Methoden<br />Acetaminophen-Stärke-Granulat wurde trocken mit 1.1% Magnesiumstearat (w/w) und 0.16% kolloidalem Siliciumdioxid (w/w) gemischt. Zur Herstellung von 325 mg schweren, flachen, abgeschrägten Tabletten wurde eine GEA Tablettenpresse (R190FT) mit 10 mm Stempeln verwendet. Untersucht wurden verschiedene Tablettierparameter, darunter Vorkompressionsdruck, Vorkompressions-Tablettendicke, Hauptkompressions-Tablettendicke und Revolvergeschwindigkeit.</h2><p>&nbsp;</p><p>Für jede produzierte Tablettencharge wurden Hauptkompressionsdruck, Verweilzeit und Wegwerte aufgezeichnet. Chargen mit weniger als 10% Capping nach der Kompression wurden anschließend gemäß den USP-Pharmakopöe-Methoden für Tablettendicke (Digimatic Micrometer, Mitotuyo, Japan), Bruchfestigkeit (HT1, Sotax, Schweiz) und Friabilität (TA20, Erweka, Deutschland) weiter charakterisiert. Die Anzahl der nach dem Friabilitätstest gedeckelten Tabletten wurde ebenfalls erfasst.</p><p>&nbsp;</p><h2>Ergebnisse und Diskussion<br />Die Herstellung von Tabletten aus Granulat erfordert die Anwendung einer bestimmten Kompressionskraft bzw. eines bestimmten Drucks. Unzureichender Kompressionsdruck führt dazu, dass sich die Granulate nicht zu kohärenten Massen oder Tabletten verdichten, die weiterer Handhabung oder Verarbeitung standhalten können. Übermäßiger Kompressionsdruck kann jedoch zu Capping oder zu übermäßig harten Tabletten führen, die ungewöhnlich lange Zerfallszeiten aufweisen würden. Für die Acetaminophen-Stärke-Formulierung wurde festgestellt, dass für die Tablettenherstellung ein Hauptkompressionsdruck im Bereich von 108–140 N/mm2 erforderlich war. Tabletten, die mit einem Hauptkompressionsdruck von mehr als 140 N/mm2 hergestellt wurden, deckelten unmittelbar nach der Kompression. Im Gegensatz dazu ergab die Verwendung eines niedrigen Hauptkompressionsdrucks (&lt;100 N/mm2) Tabletten mit sehr geringer Bruchfestigkeit (&lt;25 N).</h2><p>&nbsp;</p><p>Für jeden ausgewählten Hauptkompressionsdruck innerhalb des Bereichs von 108–140 N/mm2 stieg die Tabletten-Bruchfestigkeit, während die Friabilität und das Auftreten von Capping mit zunehmendem Vorkompressionsdruck abnahmen. Bei Verwendung eines Grenzwerts für den Vorkompressionsdruck von 34 N/mm2 und eines Hauptkompressionsdrucks von 108 N/mm2 konnte die Verweilzeit durch Anpassung der Vorkompressions-Tablettendicke und der Revolvergeschwindigkeit verändert werden. Der Luftkompensator an der Vorkompressionswalze bewegte die Walze nach oben, wenn die Vorkompressionskraft die voreingestellte Grenzkraft überschritt, wodurch der Vorkompressionsdruck auf die Tablette konstant gehalten wurde, während sich die Verweilzeit entsprechend erhöhte.</p><p>&nbsp;</p><p>Durch eine Erhöhung der Verweilzeit in der Vorkompressionsstufe wurde festgestellt, dass die Tabletten-Bruchfestigkeit zunahm und die Friabilität abnahm. Für Acetaminophen wurden plastische Verformung und spröde Fragmentierung als Verformungsmechanismen beschrieben.1,2 Eine längere Verweilzeit verlängerte die effektive Kontaktzeit, während der der Pressling einer angelegten Kraft ausgesetzt war, die Capping verursachen konnte, was eine weitere plastische Verformung ermöglichte. Dies führte zu längeren Partikel-Partikel-Bindungszeiten. Die anschließende Anwendung des Hauptkompressionsdrucks verstärkte die Wechselwirkung weiter und verbesserte die mechanische Festigkeit der resultierenden Tabletten.</p><p>&nbsp;</p><p>Ohne die geeignete Intervention in der Vorkompressionsstufe, um eine anfängliche Konsolidierung der Tablette zu ermöglichen, könnte die Anwendung eines hohen Hauptkompressionsdrucks jedoch eine mögliche, mit elastischer Rückfederung verbundene Ruptur gebildeter Bindungen verursachen und dadurch geschwächte Bereiche in den Tabletten erzeugen, die sie für Capping anfällig machen.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Deckeln von Tabletten verhindern
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d2a553a-cdfd-4ddc-a126-9b22b0ae3633"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Deckeln von Tabletten verhindern
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T165630Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>The importance of pre-compression pressure and dwell time to mitigate <span style="color:hsl(240, 75%, 60%);"><strong>tablet capping</strong></span> problems.</h1><h2><br />Solving <span style="color:hsl(240, 75%, 60%);"><strong>Tablet Capping</strong></span> Issues<br />Capping is a term used to describe the detachment of a cross-sectional fragment from the tablet face, which usually occurs just after ejection of the tablet from the die. The damage to tablets by capping will invariably lead to production batch rejection. For a registered product, changing the formulation is not the preferred option to resolve such issues. Moreover, for a high-dose product, there are limits to formulation changes and the final solution may not fully resolve the capping problem.</h2><p>&nbsp;</p><p>A possible alternative to ameliorate capping is to use a specially designed rotary tablet press that employs an air compensator at the pre-compression stage: the pre-compression force, in conjunction with an extended dwell time, can be modified prior to the main compression event. This novel mode of pre-compression force application was investigated using a GEA rotary tablet press with air compensator on granules prepared by high shear granulation; the formulation comprised 78% acetaminophen (w/w) and 22% starch (w/w). Modification of the mode of compression force application was found to be capable of reducing or even eliminating the occurrence of tablet capping without compromising the mechanical strength of the tablets produced.</p><p>&nbsp;</p><h2>Methods<br />Acetaminophen-starch granules were dry blended with 1.1% magnesium stearate (w/w) and 0.16% colloidal silicon dioxide (w/w). A GEA tablet press (R190FT) with 10 mm punches was used to prepare 325 mg flat beveled tablets. Various tableting parameters were investigated and they included pre-compression pressure, pre-compression tablet thickness, main compression tablet thickness and turret speed.</h2><p>&nbsp;</p><p>Main compression pressure, dwell time and displacement values were recorded for each batch of tablets produced. Batches with less than 10% tablet capping after compression were further characterized according to the USP Pharmacopoeia methods for tablet thickness (Digimatic Micrometer, Mitotuyo, Japan), crushing strength (HT1, Sotax, Switzerland) and friability (TA20, Erweka, Germany). The number of tablets capped after the friability test was also recorded.</p><p>&nbsp;</p><h2>Results and Discussion<br />Tablet production from granules requires the application of a certain amount of compression force or pressure. Insufficient compression pressure will result in the failure of the granules to consolidate into coherent masses or tablets that can withstand further handling or processing. However, excessive compression pressure may result in capping or excessively hard tablets that would show unduly prolonged disintegration times. For the acetaminophen-starch formulation, it was found that tablet production required the main compression pressure to be in the range of 108–140 N/mm2. Tablets produced with a main compression pressure higher than 140 N/mm2 capped immediately after compression. By contrast, use of a low main compression pressure (&lt;100 N/mm2) produced tablets with very low crushing strength (&lt;25 N).</h2><p>&nbsp;</p><p>For each selected main compression pressure within the 108–140 N/mm2 range, the tablet crushing strength increased whereas the tablet friability and occurrence of capping decreased with an increase in the pre-compression pressure. Using a pre-compression pressure limit of 34 N/mm2 and a main compression pressure of 108 N/mm2, the dwell time could be altered by adjusting the pre-compression tablet thickness and turret speed. The air compensator at the pre-compression roller would move the roller upwards if the pre-compression force exceeded the pre-set limiting force, thus keeping the pre-compression pressure on the tablet constant whilst the dwell time increased accordingly.</p><p>&nbsp;</p><p>By increasing the dwell time at the pre-compression stage, tablet crushing strength was found to increase and friability decreased. Plastic deformation and brittle fragmentation have been reported as deformation mechanisms for acetaminophen.1,2 An increase in dwell time extended the effective contact time that the compact was subjected to an applied force capable of causing capping, which allowed for further plastic deformation. This resulted in increased particle-particle bonding times. The subsequent application of the main compression pressure further enhanced the interaction and improved the mechanical strength of the resultant tablets.</p><p>&nbsp;</p><p>However, without the appropriate intervention at the pre-compression stage to allow for initial tablet consolidation, the application of a high main compression pressure might cause possible elastic recovery related rupture of formed bonds, thereby creating weakened areas in the tablets and predisposing them to capping.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Preventing Tablet Capping
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b93560b-fd8b-4907-9f1e-c6ca2d846d9b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Preventing Tablet Capping
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T160204Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>La importancia de la presión de precompresión y del tiempo de permanencia para mitigar los problemas de <span style="color:hsl(240, 75%, 60%);"><strong>capping en tabletas</strong></span>.</h1><h2><br />Solución de los problemas de <span style="color:hsl(240, 75%, 60%);"><strong>capping en tabletas</strong></span><br />Capping es un término que se utiliza para describir el desprendimiento de un fragmento transversal de la cara de la tableta, que suele producirse justo después de la eyección de la tableta de la matriz. El daño en las tabletas por capping conduce invariablemente al rechazo del lote de producción. En el caso de un producto registrado, cambiar la formulación no es la opción preferida para resolver estos problemas. Además, para un producto de alta dosis, existen límites a los cambios de formulación y es posible que la solución final no resuelva por completo el problema de capping.</h2><p>&nbsp;</p><p>Una posible alternativa para mejorar el capping es utilizar una tableteadora rotativa de diseño especial que emplea un compensador de aire en la etapa de precompresión: la fuerza de precompresión, junto con un tiempo de permanencia prolongado, puede modificarse antes del evento principal de compresión. Este novedoso modo de aplicación de la fuerza de precompresión se investigó utilizando una tableteadora rotativa de GEA con compensador de aire sobre gránulos preparados mediante granulación de alta cizalla; la formulación estaba compuesta por 78% de acetaminofén (w/w) y 22% de almidón (w/w). Se observó que la modificación del modo de aplicación de la fuerza de compresión era capaz de reducir o incluso eliminar la aparición de capping en tabletas sin comprometer la resistencia mecánica de las tabletas producidas.</p><p>&nbsp;</p><h2>Métodos<br />Los gránulos de acetaminofén y almidón se mezclaron en seco con 1.1% de estearato de magnesio (w/w) y 0.16% de dióxido de silicio coloidal (w/w). Se utilizó una tableteadora GEA (R190FT) con punzones de 10 mm para preparar tabletas planas biseladas de 325 mg. Se investigaron varios parámetros de tableteado, entre ellos la presión de precompresión, el espesor de la tableta en precompresión, el espesor de la tableta en compresión principal y la velocidad de la torreta.</h2><p>&nbsp;</p><p>Se registraron los valores de presión de compresión principal, tiempo de permanencia y desplazamiento para cada lote de tabletas producido. Los lotes con menos de 10% de capping en tabletas después de la compresión se caracterizaron adicionalmente de acuerdo con los métodos de la Farmacopea USP para espesor de tableta (Digimatic Micrometer, Mitotuyo, Japón), resistencia a la rotura (HT1, Sotax, Suiza) y friabilidad (TA20, Erweka, Alemania). También se registró el número de tabletas con capping después del ensayo de friabilidad.</p><p>&nbsp;</p><h2>Resultados y análisis<br />La producción de tabletas a partir de gránulos requiere la aplicación de una determinada cantidad de fuerza o presión de compresión. Una presión de compresión insuficiente provocará que los gránulos no se consoliden en masas coherentes o tabletas que puedan soportar su manipulación o procesamiento posterior. Sin embargo, una presión de compresión excesiva puede provocar capping o tabletas excesivamente duras que mostrarían tiempos de desintegración indebidamente prolongados. Para la formulación de acetaminofén y almidón, se observó que la producción de tabletas requería que la presión de compresión principal estuviera en el intervalo de 108–140 N/mm2. Las tabletas producidas con una presión de compresión principal superior a 140 N/mm2 presentaron capping inmediatamente después de la compresión. En cambio, el uso de una presión de compresión principal baja (&lt;100 N/mm2) produjo tabletas con una resistencia a la rotura muy baja (&lt;25 N).</h2><p>&nbsp;</p><p>Para cada presión de compresión principal seleccionada dentro del intervalo de 108–140 N/mm2, la resistencia a la rotura de las tabletas aumentó, mientras que la friabilidad y la aparición de capping disminuyeron con el aumento de la presión de precompresión. Utilizando un límite de presión de precompresión de 34 N/mm2 y una presión de compresión principal de 108 N/mm2, el tiempo de permanencia podía modificarse ajustando el espesor de la tableta en precompresión y la velocidad de la torreta. El compensador de aire en el rodillo de precompresión desplazaba el rodillo hacia arriba si la fuerza de precompresión superaba la fuerza límite preajustada, manteniendo así constante la presión de precompresión sobre la tableta, mientras que el tiempo de permanencia aumentaba en consecuencia.</p><p>&nbsp;</p><p>Al aumentar el tiempo de permanencia en la etapa de precompresión, se observó que la resistencia a la rotura de las tabletas aumentaba y la friabilidad disminuía. Se ha informado de que la deformación plástica y la fragmentación frágil son mecanismos de deformación del acetaminofén.1,2 Un aumento del tiempo de permanencia prolongó el tiempo de contacto efectivo durante el cual el compacto estuvo sometido a una fuerza aplicada capaz de provocar capping, lo que permitió una mayor deformación plástica. Esto se tradujo en un aumento de los tiempos de unión partícula-partícula. La aplicación posterior de la presión de compresión principal mejoró aún más la interacción y la resistencia mecánica de las tabletas resultantes.</p><p>&nbsp;</p><p>Sin embargo, sin la intervención adecuada en la etapa de precompresión para permitir la consolidación inicial de la tableta, la aplicación de una presión de compresión principal elevada podría provocar una posible rotura de los enlaces relacionada con la recuperación elástica, creando así zonas debilitadas en las tabletas y haciéndolas más propensas al capping.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Prevención del capping en tabletas
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a5147cc-695a-4d8a-9dd9-6d5ded91cdd7"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Prevención del capping en tabletas
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T160247Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T160759Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>La importancia de la presión de precompresión y el tiempo de permanencia para mitigar los problemas de <span style="color:hsl(240,75%,60%);"><strong>laminado de comprimidos</strong></span>.</h1><h2><br />Cómo resolver los problemas de <span style="color:hsl(240,75%,60%);"><strong>laminado de comprimidos</strong></span><br />El laminado es un término utilizado para describir la separación de un fragmento transversal de la cara del comprimido, que suele producirse justo después de la expulsión del comprimido de la matriz. El daño en los comprimidos por laminado conducirá invariablemente al rechazo del lote de producción. En el caso de un producto registrado, cambiar la formulación no es la opción preferida para resolver estos problemas. Además, en un producto de dosis alta, existen límites para los cambios en la formulación y es posible que la solución final no resuelva por completo el problema del laminado.</h2><p>&nbsp;</p><p>Una posible alternativa para mejorar el laminado es utilizar una prensa rotativa de comprimidos especialmente diseñada que emplea un compensador de aire en la etapa de precompresión: la fuerza de precompresión, junto con un tiempo de permanencia prolongado, puede modificarse antes del evento principal de compresión. Este novedoso modo de aplicación de la fuerza de precompresión se investigó utilizando una prensa rotativa de comprimidos GEA con compensador de aire sobre gránulos preparados mediante granulación de alto cizallamiento; la formulación estaba compuesta por 78% de acetaminofén (p/p) y 22% de almidón (p/p). Se observó que la modificación del modo de aplicación de la fuerza de compresión era capaz de reducir o incluso eliminar la aparición de laminado de comprimidos sin comprometer la resistencia mecánica de los comprimidos producidos.</p><p>&nbsp;</p><h2>Métodos<br />Los gránulos de acetaminofén y almidón se mezclaron en seco con 1,1% de estearato de magnesio (p/p) y 0,16% de dióxido de silicio coloidal (p/p). Se utilizó una prensa de comprimidos GEA (R190FT) con punzones de 10 mm para preparar comprimidos planos biselados de 325 mg. Se investigaron varios parámetros de tableteado, entre ellos la presión de precompresión, el espesor del comprimido en precompresión, el espesor del comprimido en compresión principal y la velocidad de la torreta.</h2><p>&nbsp;</p><p>Se registraron los valores de presión de compresión principal, tiempo de permanencia y desplazamiento para cada lote de comprimidos producido. Los lotes con menos del 10% de comprimidos laminados después de la compresión se caracterizaron adicionalmente según los métodos de la Farmacopea USP para espesor del comprimido (Digimatic Micrometer, Mitotuyo, Japón), resistencia al aplastamiento (HT1, Sotax, Suiza) y friabilidad (TA20, Erweka, Alemania). También se registró el número de comprimidos laminados después de la prueba de friabilidad.</p><p>&nbsp;</p><h2>Resultados y análisis<br />La producción de comprimidos a partir de gránulos requiere la aplicación de una determinada cantidad de fuerza o presión de compresión. Una presión de compresión insuficiente hará que los gránulos no se consoliden en masas coherentes o comprimidos que puedan soportar una manipulación o un procesamiento posteriores. Sin embargo, una presión de compresión excesiva puede provocar laminado o comprimidos excesivamente duros que presentarían tiempos de desintegración indebidamente prolongados. Para la formulación de acetaminofén y almidón, se observó que la producción de comprimidos requería que la presión de compresión principal estuviera en el intervalo de 108–140 N/mm2. Los comprimidos producidos con una presión de compresión principal superior a 140 N/mm2 se laminaban inmediatamente después de la compresión. Por el contrario, el uso de una presión de compresión principal baja (&lt;100 N/mm2) produjo comprimidos con una resistencia al aplastamiento muy baja (&lt;25 N).</h2><p>&nbsp;</p><p>Para cada presión de compresión principal seleccionada dentro del intervalo de 108–140 N/mm2, la resistencia al aplastamiento del comprimido aumentó, mientras que la friabilidad del comprimido y la aparición de laminado disminuyeron con el aumento de la presión de precompresión. Utilizando un límite de presión de precompresión de 34 N/mm2 y una presión de compresión principal de 108 N/mm2, el tiempo de permanencia podía modificarse ajustando el espesor del comprimido en precompresión y la velocidad de la torreta. El compensador de aire en el rodillo de precompresión desplazaba el rodillo hacia arriba si la fuerza de precompresión superaba la fuerza límite preestablecida, manteniendo así constante la presión de precompresión sobre el comprimido mientras el tiempo de permanencia aumentaba en consecuencia.</p><p>&nbsp;</p><p>Al aumentar el tiempo de permanencia en la etapa de precompresión, se observó que la resistencia al aplastamiento del comprimido aumentaba y la friabilidad disminuía. Se ha informado de que la deformación plástica y la fragmentación frágil son mecanismos de deformación del acetaminofén.1,2 Un aumento del tiempo de permanencia prolongó el tiempo de contacto efectivo durante el cual el compacto estuvo sometido a una fuerza aplicada capaz de provocar laminado, lo que permitió una mayor deformación plástica. Esto dio lugar a un aumento de los tiempos de unión partícula-partícula. La aplicación posterior de la presión de compresión principal mejoró aún más la interacción y aumentó la resistencia mecánica de los comprimidos resultantes.</p><p>&nbsp;</p><p>Sin embargo, sin la intervención adecuada en la etapa de precompresión para permitir la consolidación inicial del comprimido, la aplicación de una presión de compresión principal elevada podría causar una posible rotura de los enlaces formados relacionada con la recuperación elástica, creando así zonas debilitadas en los comprimidos y predisponiéndolos al laminado.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cómo prevenir el laminado de comprimidos
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "251dc35c-df6e-42b3-ad63-4ddaba90a1be"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T160759Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Cómo prevenir el laminado de comprimidos
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T162133Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>La importancia de la presión de precompresión y del tiempo de permanencia para mitigar los problemas de <span style="color:hsl(240, 75%, 60%);"><strong>decapado</strong></span> de comprimidos.</h1><h2><br />Resolución de problemas de <span style="color:hsl(240, 75%, 60%);"><strong>Decapado</strong></span> de comprimidos<br />El decapado es un término que se utiliza para describir la separación de un fragmento transversal de la cara del comprimido, que suele producirse justo después de la expulsión del comprimido de la matriz. El daño en los comprimidos por decapado conduce invariablemente al rechazo del lote de producción. En el caso de un producto registrado, cambiar la formulación no es la opción preferida para resolver estos problemas. Además, en un producto de dosis alta, existen límites a los cambios de formulación y es posible que la solución final no resuelva por completo el problema de decapado.</h2><p>&nbsp;</p><p>Una posible alternativa para mejorar el decapado es utilizar una prensa rotativa de comprimidos especialmente diseñada que emplea un compensador de aire en la etapa de precompresión: la fuerza de precompresión, junto con un tiempo de permanencia ampliado, puede modificarse antes del evento de compresión principal. Este novedoso modo de aplicación de la fuerza de precompresión se investigó utilizando una prensa rotativa de comprimidos GEA con compensador de aire sobre gránulos preparados mediante granulación de alto cizallamiento; la formulación comprendía 78% de acetaminofén (p/p) y 22% de almidón (p/p). Se observó que la modificación del modo de aplicación de la fuerza de compresión era capaz de reducir o incluso eliminar la aparición de decapado de comprimidos sin comprometer la resistencia mecánica de los comprimidos producidos.</p><p>&nbsp;</p><h2>Métodos<br />Los gránulos de acetaminofén y almidón se mezclaron en seco con 1.1% de estearato de magnesio (p/p) y 0.16% de dióxido de silicio coloidal (p/p). Se utilizó una prensa de comprimidos GEA (R190FT) con punzones de 10 mm para preparar comprimidos planos biselados de 325 mg. Se investigaron diversos parámetros de compresión, entre ellos la presión de precompresión, el grosor del comprimido en precompresión, el grosor del comprimido en compresión principal y la velocidad de la torreta.</h2><p>&nbsp;</p><p>Se registraron los valores de presión, tiempo de permanencia y desplazamiento de compresión principal para cada lote de comprimidos producido. Los lotes con menos de 10% de decapado de comprimidos después de la compresión se caracterizaron posteriormente según los métodos de la Farmacopea USP para el grosor del comprimido (Digimatic Micrometer, Mitotuyo, Japón), la resistencia al aplastamiento (HT1, Sotax, Suiza) y la friabilidad (TA20, Erweka, Alemania). También se registró el número de comprimidos decapados después de la prueba de friabilidad.</p><p>&nbsp;</p><h2>Resultados y debate<br />La producción de comprimidos a partir de gránulos requiere la aplicación de una determinada cantidad de fuerza o presión de compresión. Una presión de compresión insuficiente dará lugar a que los gránulos no se consoliden en masas coherentes o comprimidos que puedan soportar una manipulación o un procesamiento posteriores. Sin embargo, una presión de compresión excesiva puede provocar decapado o comprimidos excesivamente duros que mostrarían tiempos de desintegración indebidamente prolongados. Para la formulación de acetaminofén y almidón, se observó que la producción de comprimidos requería que la presión de compresión principal estuviera en el intervalo de 108–140 N/mm2. Los comprimidos producidos con una presión de compresión principal superior a 140 N/mm2 se decaparon inmediatamente después de la compresión. En cambio, el uso de una presión de compresión principal baja (&lt;100 N/mm2) produjo comprimidos con una resistencia al aplastamiento muy baja (&lt;25 N).</h2><p>&nbsp;</p><p>Para cada presión de compresión principal seleccionada dentro del intervalo de 108–140 N/mm2, la resistencia al aplastamiento del comprimido aumentó, mientras que la friabilidad y la aparición de decapado disminuyeron con el aumento de la presión de precompresión. Utilizando un límite de presión de precompresión de 34 N/mm2 y una presión de compresión principal de 108 N/mm2, el tiempo de permanencia podía modificarse ajustando el grosor del comprimido en precompresión y la velocidad de la torreta. El compensador de aire en el rodillo de precompresión desplazaría el rodillo hacia arriba si la fuerza de precompresión superaba la fuerza límite preestablecida, manteniendo así constante la presión de precompresión sobre el comprimido mientras el tiempo de permanencia aumentaba en consecuencia.</p><p>&nbsp;</p><p>Al aumentar el tiempo de permanencia en la etapa de precompresión, se observó que la resistencia al aplastamiento del comprimido aumentaba y la friabilidad disminuía. Se ha informado de la deformación plástica y la fragmentación frágil como mecanismos de deformación del acetaminofén.1,2 Un aumento del tiempo de permanencia prolongó el tiempo de contacto efectivo durante el cual el compacto estuvo sometido a una fuerza aplicada capaz de causar decapado, lo que permitió una mayor deformación plástica. Esto dio lugar a un aumento de los tiempos de unión partícula-partícula. La aplicación posterior de la presión de compresión principal mejoró aún más la interacción y mejoró la resistencia mecánica de los comprimidos resultantes.</p><p>&nbsp;</p><p>Sin embargo, sin la intervención adecuada en la etapa de precompresión para permitir la consolidación inicial del comprimido, la aplicación de una presión de compresión principal alta podría causar una posible rotura por recuperación elástica de los enlaces formados, creando así zonas debilitadas en los comprimidos y predisponiéndolos al decapado.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Prevención del decapado
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "570ed00b-f285-4f6b-84ee-54dd7729d299"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Prevención del decapado
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T165631Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>L’importance de la pression de pré-compression et du temps de séjour pour limiter les problèmes de <span style="color:hsl(240, 75%, 60%);"><strong>capsulage des comprimés</strong></span>.</h1><h2><br />Résoudre les problèmes de <span style="color:hsl(240, 75%, 60%);"><strong>capsulage des comprimés</strong></span><br />Le capsulage est un terme utilisé pour décrire le détachement d’un fragment de section transversale de la face du comprimé, qui se produit généralement juste après l’éjection du comprimé hors de la matrice. Les dommages causés aux comprimés par le capsulage entraînent invariablement le rejet du lot de production. Pour un produit enregistré, modifier la formulation n’est pas l’option privilégiée pour résoudre de tels problèmes. De plus, pour un produit fortement dosé, les possibilités de modification de la formulation sont limitées et la solution finale peut ne pas résoudre complètement le problème de capsulage.</h2><p>&nbsp;</p><p>Une alternative possible pour atténuer le capsulage consiste à utiliser une presse rotative à comprimés spécialement conçue, qui emploie un compensateur pneumatique à l’étape de pré-compression : la force de pré-compression, associée à un temps de séjour prolongé, peut être modifiée avant l’étape de compression principale. Ce nouveau mode d’application de la force de pré-compression a été étudié à l’aide d’une presse rotative à comprimés GEA avec compensateur pneumatique sur des granulés préparés par granulation à haut cisaillement ; la formulation comprenait 78% d’acétaminophène (p/p) et 22% d’amidon (p/p). Il a été constaté que la modification du mode d’application de la force de compression permettait de réduire, voire d’éliminer, l’apparition du capsulage des comprimés sans compromettre la résistance mécanique des comprimés produits.</p><p>&nbsp;</p><h2>Méthodes<br />Des granulés d’acétaminophène-amidon ont été mélangés à sec avec 1.1% de stéarate de magnésium (p/p) et 0.16% de dioxyde de silicium colloïdal (p/p). Une presse à comprimés GEA (R190FT) avec des poinçons de 10 mm a été utilisée pour préparer des comprimés plats biseautés de 325 mg. Divers paramètres de compression ont été étudiés, notamment la pression de pré-compression, l’épaisseur du comprimé en pré-compression, l’épaisseur du comprimé en compression principale et la vitesse de rotation du touret.</h2><p>&nbsp;</p><p>Les valeurs de pression de compression principale, de temps de séjour et de déplacement ont été enregistrées pour chaque lot de comprimés produit. Les lots présentant moins de 10% de capsulage des comprimés après compression ont ensuite été caractérisés selon les méthodes de la Pharmacopée USP pour l’épaisseur des comprimés (Digimatic Micrometer, Mitotuyo, Japon), la résistance à l’écrasement (HT1, Sotax, Suisse) et la friabilité (TA20, Erweka, Allemagne). Le nombre de comprimés capsulés après l’essai de friabilité a également été enregistré.</p><p>&nbsp;</p><h2>Résultats et discussion<br />La production de comprimés à partir de granulés nécessite l’application d’une certaine force ou pression de compression. Une pression de compression insuffisante empêchera les granulés de se consolider en masses cohérentes ou en comprimés pouvant résister à une manipulation ou à un traitement ultérieur. Cependant, une pression de compression excessive peut entraîner un capsulage ou des comprimés excessivement durs présentant des temps de désintégration indûment prolongés. Pour la formulation acétaminophène-amidon, il a été constaté que la production des comprimés nécessitait une pression de compression principale comprise entre 108–140 N/mm2. Les comprimés produits avec une pression de compression principale supérieure à 140 N/mm2 présentaient un capsulage immédiatement après compression. En revanche, l’utilisation d’une faible pression de compression principale (&lt;100 N/mm2) produisait des comprimés ayant une très faible résistance à l’écrasement (&lt;25 N).</h2><p>&nbsp;</p><p>Pour chaque pression de compression principale sélectionnée dans la plage de 108–140 N/mm2, la résistance à l’écrasement des comprimés augmentait tandis que la friabilité et l’apparition du capsulage diminuaient avec l’augmentation de la pression de pré-compression. En utilisant une limite de pression de pré-compression de 34 N/mm2 et une pression de compression principale de 108 N/mm2, le temps de séjour pouvait être modifié en ajustant l’épaisseur du comprimé en pré-compression et la vitesse de rotation du touret. Le compensateur pneumatique au niveau du rouleau de pré-compression déplaçait le rouleau vers le haut si la force de pré-compression dépassait la force limite préréglée, maintenant ainsi la pression de pré-compression sur le comprimé constante tandis que le temps de séjour augmentait en conséquence.</p><p>&nbsp;</p><p>En augmentant le temps de séjour à l’étape de pré-compression, il a été constaté que la résistance à l’écrasement des comprimés augmentait et que la friabilité diminuait. La déformation plastique et la fragmentation fragile ont été rapportées comme mécanismes de déformation de l’acétaminophène.1,2 Une augmentation du temps de séjour prolongeait le temps de contact effectif pendant lequel le compact était soumis à une force appliquée susceptible de provoquer le capsulage, ce qui permettait une déformation plastique supplémentaire. Il en résultait une augmentation du temps de liaison entre les particules. L’application ultérieure de la pression de compression principale renforçait encore l’interaction et améliorait la résistance mécanique des comprimés obtenus.</p><p>&nbsp;</p><p>Cependant, sans intervention appropriée à l’étape de pré-compression pour permettre une consolidation initiale du comprimé, l’application d’une pression de compression principale élevée pourrait provoquer une rupture des liaisons formées liée à une possible récupération élastique, créant ainsi des zones fragilisées dans les comprimés et les prédisposant au capsulage.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Prévenir le capsulage des comprimés
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "333edbe4-5ecf-47d7-a5e2-9d705ef5698b"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Prévenir le capsulage des comprimés
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T162722Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T165623Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>L’importance de la pression de précompression et du temps de séjour pour atténuer les problèmes de <span style="color:hsl(240, 75%, 60%);"><strong>décalottage</strong></span> des comprimés.</h1><h2><br />Résoudre les problèmes de <span style="color:hsl(240, 75%, 60%);"><strong>décalottage</strong></span> des comprimés<br />Le décalottage est un terme utilisé pour décrire le détachement d’un fragment transversal de la face du comprimé, qui se produit généralement juste après l’éjection du comprimé hors de la matrice. Les dommages causés aux comprimés par le décalottage conduisent invariablement au rejet du lot de production. Pour un produit enregistré, modifier la formulation n’est pas l’option privilégiée pour résoudre ces problèmes. De plus, pour un produit fortement dosé, les possibilités de modification de la formulation sont limitées et la solution finale peut ne pas résoudre complètement le problème de décalottage.</h2><p>&nbsp;</p><p>Une autre solution possible pour améliorer le problème de décalottage consiste à utiliser une presse rotative à comprimés spécialement conçue, qui emploie un compensateur pneumatique à l’étape de précompression : la force de précompression, associée à un temps de séjour prolongé, peut être modifiée avant l’étape de compression principale. Ce nouveau mode d’application de la force de précompression a été étudié à l’aide d’une presse rotative à comprimés GEA avec compensateur pneumatique sur des granulés préparés par granulation à haut cisaillement ; la formulation comprenait 78% d’acétaminophène (p/p) et 22% d’amidon (p/p). Il a été constaté que la modification du mode d’application de la force de compression pouvait réduire, voire éliminer, l’apparition du décalottage des comprimés sans compromettre la résistance mécanique des comprimés produits.</p><p>&nbsp;</p><h2>Méthodes<br />Des granulés d’acétaminophène-amidon ont été mélangés à sec avec 1,1% de stéarate de magnésium (p/p) et 0,16% de dioxyde de silicium colloïdal (p/p). Une presse à comprimés GEA (R190FT) avec des poinçons de 10 mm a été utilisée pour préparer des comprimés plats biseautés de 325 mg. Divers paramètres de compression ont été étudiés, notamment la pression de précompression, l’épaisseur du comprimé en précompression, l’épaisseur du comprimé en compression principale et la vitesse de rotation de la tourelle.</h2><p>&nbsp;</p><p>Les valeurs de pression de compression principale, de temps de séjour et de déplacement ont été enregistrées pour chaque lot de comprimés produit. Les lots présentant moins de 10% de décalottage des comprimés après compression ont ensuite été caractérisés selon les méthodes de la Pharmacopée USP pour l’épaisseur des comprimés (Digimatic Micrometer, Mitotuyo, Japon), la résistance à l’écrasement (HT1, Sotax, Suisse) et la friabilité (TA20, Erweka, Allemagne). Le nombre de comprimés décalottés après l’essai de friabilité a également été enregistré.</p><p>&nbsp;</p><h2>Résultats et discussion<br />La production de comprimés à partir de granulés nécessite l’application d’une certaine force ou pression de compression. Une pression de compression insuffisante empêchera les granulés de se consolider en masses cohérentes ou en comprimés capables de supporter les manipulations ou les traitements ultérieurs. Cependant, une pression de compression excessive peut provoquer un décalottage ou des comprimés excessivement durs qui présenteraient des temps de désagrégation indûment prolongés. Pour la formulation acétaminophène-amidon, il a été constaté que la production de comprimés nécessitait une pression de compression principale comprise entre 108–140 N/mm2. Les comprimés produits avec une pression de compression principale supérieure à 140 N/mm2 ont présenté un décalottage immédiatement après compression. En revanche, l’utilisation d’une faible pression de compression principale (&lt;100 N/mm2) a produit des comprimés ayant une très faible résistance à l’écrasement (&lt;25 N).</h2><p>&nbsp;</p><p>Pour chaque pression de compression principale sélectionnée dans la plage de 108–140 N/mm2, la résistance à l’écrasement des comprimés augmentait tandis que la friabilité et l’apparition du décalottage diminuaient avec l’augmentation de la pression de précompression. En utilisant une limite de pression de précompression de 34 N/mm2 et une pression de compression principale de 108 N/mm2, le temps de séjour pouvait être modifié en ajustant l’épaisseur du comprimé en précompression et la vitesse de rotation de la tourelle. Le compensateur pneumatique au niveau du rouleau de précompression déplaçait le rouleau vers le haut si la force de précompression dépassait la force limite préréglée, maintenant ainsi la pression de précompression sur le comprimé constante tandis que le temps de séjour augmentait en conséquence.</p><p>&nbsp;</p><p>En augmentant le temps de séjour à l’étape de précompression, il a été constaté que la résistance à l’écrasement des comprimés augmentait et que la friabilité diminuait. La déformation plastique et la fragmentation fragile ont été décrites comme des mécanismes de déformation de l’acétaminophène.1,2 Une augmentation du temps de séjour prolongeait le temps de contact effectif pendant lequel le compact était soumis à une force appliquée susceptible de provoquer un décalottage, ce qui permettait une déformation plastique supplémentaire. Cela a entraîné une augmentation du temps de liaison entre les particules. L’application ultérieure de la pression de compression principale a encore renforcé l’interaction et amélioré la résistance mécanique des comprimés obtenus.</p><p>&nbsp;</p><p>Cependant, sans intervention appropriée à l’étape de précompression pour permettre une consolidation initiale du comprimé, l’application d’une pression de compression principale élevée pourrait provoquer une rupture liée à une possible récupération élastique des liaisons formées, créant ainsi des zones affaiblies dans les comprimés et les prédisposant au décalottage.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Prévenir le décalottage des comprimés
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "757e23ea-42dc-4b2b-9b08-a70bd51c0e01"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T165623Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Prévenir le décalottage des comprimés
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T165636Z
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>L'importanza della pressione di pre-compressione e del tempo di permanenza per mitigare i problemi di <span style="color:hsl(240, 75%, 60%);"><strong>capping delle compresse</strong></span>.</h1><h2><br />Risolvere i problemi di <span style="color:hsl(240, 75%, 60%);"><strong>capping delle compresse</strong></span><br />Il capping è un termine usato per descrivere il distacco di un frammento trasversale dalla faccia della compressa, che di solito si verifica subito dopo l'espulsione della compressa dalla matrice. Il danneggiamento delle compresse dovuto al capping porterà invariabilmente al rigetto del lotto di produzione. Per un prodotto registrato, modificare la formulazione non è l'opzione preferita per risolvere tali problemi. Inoltre, per un prodotto ad alto dosaggio, esistono limiti alle modifiche della formulazione e la soluzione finale potrebbe non risolvere completamente il problema del capping.</h2><p>&nbsp;</p><p>Una possibile alternativa per migliorare il capping consiste nell'utilizzare una pressa rotativa per compresse appositamente progettata che impiega un compensatore ad aria nella fase di pre-compressione: la forza di pre-compressione, insieme a un tempo di permanenza esteso, può essere modificata prima dell'evento di compressione principale. Questa nuova modalità di applicazione della forza di pre-compressione è stata studiata utilizzando una pressa rotativa per compresse GEA con compensatore ad aria su granuli preparati mediante granulazione ad alta velocità di taglio; la formulazione comprendeva il 78% di acetaminofene (p/p) e il 22% di amido (p/p). È stato riscontrato che la modifica della modalità di applicazione della forza di compressione è in grado di ridurre o addirittura eliminare il verificarsi del capping delle compresse senza compromettere la resistenza meccanica delle compresse prodotte.</p><p>&nbsp;</p><h2>Metodi<br />I granuli di acetaminofene-amido sono stati miscelati a secco con l'1,1% di stearato di magnesio (p/p) e lo 0,16% di biossido di silicio colloidale (p/p). Per preparare compresse piatte smussate da 325 mg è stata utilizzata una pressa per compresse GEA (R190FT) con punzoni da 10 mm. Sono stati studiati diversi parametri di compressione delle compresse, tra cui pressione di pre-compressione, spessore della compressa in pre-compressione, spessore della compressa in compressione principale e velocità della torretta.</h2><p>&nbsp;</p><p>Per ogni lotto di compresse prodotto sono stati registrati i valori di pressione di compressione principale, tempo di permanenza e spostamento. I lotti con meno del 10% di capping delle compresse dopo la compressione sono stati ulteriormente caratterizzati secondo i metodi della Farmacopea USP per lo spessore della compressa (Digimatic Micrometer, Mitotuyo, Giappone), la resistenza alla rottura (HT1, Sotax, Svizzera) e la friabilità (TA20, Erweka, Germania). È stato registrato anche il numero di compresse che presentavano capping dopo il test di friabilità.</p><p>&nbsp;</p><h2>Risultati e discussione<br />La produzione di compresse a partire dai granuli richiede l'applicazione di una certa quantità di forza o pressione di compressione. Una pressione di compressione insufficiente comporterà il mancato consolidamento dei granuli in masse coerenti o compresse in grado di resistere a ulteriori manipolazioni o lavorazioni. Tuttavia, una pressione di compressione eccessiva può provocare capping o compresse eccessivamente dure che mostrerebbero tempi di disintegrazione indebitamente prolungati. Per la formulazione acetaminofene-amido, è stato riscontrato che la produzione di compresse richiedeva una pressione di compressione principale nell'intervallo 108–140 N/mm2. Le compresse prodotte con una pressione di compressione principale superiore a 140 N/mm2 hanno mostrato capping immediatamente dopo la compressione. Al contrario, l'uso di una bassa pressione di compressione principale (&lt;100 N/mm2) ha prodotto compresse con una resistenza alla rottura molto bassa (&lt;25 N).</h2><p>&nbsp;</p><p>Per ciascuna pressione di compressione principale selezionata nell'intervallo 108–140 N/mm2, la resistenza alla rottura della compressa aumentava mentre la friabilità della compressa e l'incidenza del capping diminuivano con l'aumento della pressione di pre-compressione. Utilizzando un limite di pressione di pre-compressione di 34 N/mm2 e una pressione di compressione principale di 108 N/mm2, il tempo di permanenza poteva essere modificato regolando lo spessore della compressa in pre-compressione e la velocità della torretta. Il compensatore ad aria sul rullo di pre-compressione si spostava verso l'alto se la forza di pre-compressione superava la forza limite preimpostata, mantenendo così costante la pressione di pre-compressione sulla compressa mentre il tempo di permanenza aumentava di conseguenza.</p><p>&nbsp;</p><p>Aumentando il tempo di permanenza nella fase di pre-compressione, è stato riscontrato un aumento della resistenza alla rottura delle compresse e una diminuzione della friabilità. La deformazione plastica e la frammentazione fragile sono state riportate come meccanismi di deformazione per l'acetaminofene.1,2 Un aumento del tempo di permanenza ha esteso il tempo di contatto effettivo durante il quale il compatto era soggetto a una forza applicata in grado di causare capping, consentendo un'ulteriore deformazione plastica. Ciò ha determinato un aumento dei tempi di legame particella-particella. La successiva applicazione della pressione di compressione principale ha ulteriormente migliorato l'interazione e aumentato la resistenza meccanica delle compresse risultanti.</p><p>&nbsp;</p><p>Tuttavia, senza un intervento appropriato nella fase di pre-compressione che consenta il consolidamento iniziale della compressa, l'applicazione di un'elevata pressione di compressione principale potrebbe causare una possibile rottura dei legami formati correlata al recupero elastico, creando così aree indebolite nelle compresse e predisponendole al capping.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Prevenire il capping delle compresse
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "654aca29-c2c5-4fc8-ad67-15aa776ba6dc"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Prevenire il capping delle compresse
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T162725Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T165625Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>L'importanza della pressione di pre-compressione e del tempo di permanenza per mitigare i problemi di <span style="color:hsl(240, 75%, 60%);"><strong>tablet capping</strong></span>.</h1><h2><br />Risolvere i problemi di <span style="color:hsl(240, 75%, 60%);"><strong>tablet capping</strong></span><br />Il capping è un termine usato per descrivere il distacco di un frammento trasversale dalla faccia della compressa, che di solito si verifica subito dopo l'espulsione della compressa dalla matrice. Il danno alle compresse causato dal capping porterà inevitabilmente al rigetto del lotto di produzione. Per un prodotto registrato, modificare la formulazione non è l'opzione preferita per risolvere tali problemi. Inoltre, per un prodotto ad alto dosaggio, vi sono limiti alle modifiche della formulazione e la soluzione finale potrebbe non risolvere completamente il problema di tablet capping.</h2><p>&nbsp;</p><p>Una possibile alternativa per migliorare il capping consiste nell'utilizzare una comprimitrice rotativa appositamente progettata che impiega un compensatore ad aria nella fase di pre-compressione: la forza di pre-compressione, insieme a un tempo di permanenza prolungato, può essere modificata prima dell'evento di compressione principale. Questa nuova modalità di applicazione della forza di pre-compressione è stata studiata utilizzando una comprimitrice rotativa GEA con compensatore ad aria su granuli preparati mediante granulazione ad alto taglio; la formulazione comprendeva il 78% di acetaminofene (p/p) e il 22% di amido (p/p). Si è riscontrato che la modifica della modalità di applicazione della forza di compressione era in grado di ridurre o persino eliminare l'insorgenza di tablet capping senza compromettere la resistenza meccanica delle compresse prodotte.</p><p>&nbsp;</p><h2>Metodi<br />Granuli di acetaminofene-amido sono stati miscelati a secco con 1.1% di stearato di magnesio (p/p) e 0.16% di biossido di silicio colloidale (p/p). Per preparare compresse piane smussate da 325 mg è stata utilizzata una comprimitrice GEA (R190FT) con punzoni da 10 mm. Sono stati studiati vari parametri di compressione, tra cui pressione di pre-compressione, spessore della compressa in pre-compressione, spessore della compressa in compressione principale e velocità della torretta.</h2><p>&nbsp;</p><p>Per ogni lotto di compresse prodotto sono stati registrati i valori di pressione di compressione principale, tempo di permanenza e spostamento. I lotti con meno del 10% di tablet capping dopo la compressione sono stati ulteriormente caratterizzati secondo i metodi della Farmacopea USP per spessore della compressa (Digimatic Micrometer, Mitotuyo, Japan), resistenza allo schiacciamento (HT1, Sotax, Switzerland) e friabilità (TA20, Erweka, Germany). È stato inoltre registrato il numero di compresse con capping dopo il test di friabilità.</p><p>&nbsp;</p><h2>Risultati e discussione<br />La produzione di compresse a partire da granuli richiede l'applicazione di una certa quantità di forza o pressione di compressione. Una pressione di compressione insufficiente comporterà l'incapacità dei granuli di consolidarsi in masse coerenti o compresse in grado di resistere a ulteriori manipolazioni o lavorazioni. Tuttavia, una pressione di compressione eccessiva può causare capping o compresse eccessivamente dure che mostrerebbero tempi di disintegrazione indebitamente prolungati. Per la formulazione acetaminofene-amido, è stato riscontrato che la produzione di compresse richiedeva che la pressione di compressione principale fosse nell'intervallo 108–140 N/mm2. Le compresse prodotte con una pressione di compressione principale superiore a 140 N/mm2 presentavano capping immediatamente dopo la compressione. Al contrario, l'uso di una bassa pressione di compressione principale (&lt;100 N/mm2) ha prodotto compresse con resistenza allo schiacciamento molto bassa (&lt;25 N).</h2><p>&nbsp;</p><p>Per ogni pressione di compressione principale selezionata nell'intervallo 108–140 N/mm2, la resistenza allo schiacciamento della compressa aumentava mentre la friabilità della compressa e l'insorgenza di capping diminuivano con l'aumento della pressione di pre-compressione. Utilizzando un limite di pressione di pre-compressione di 34 N/mm2 e una pressione di compressione principale di 108 N/mm2, il tempo di permanenza poteva essere modificato regolando lo spessore della compressa in pre-compressione e la velocità della torretta. Il compensatore ad aria sul rullo di pre-compressione si spostava verso l'alto se la forza di pre-compressione superava la forza limite preimpostata, mantenendo così costante la pressione di pre-compressione sulla compressa mentre il tempo di permanenza aumentava di conseguenza.</p><p>&nbsp;</p><p>Aumentando il tempo di permanenza nella fase di pre-compressione, si è riscontrato un aumento della resistenza allo schiacciamento della compressa e una diminuzione della friabilità. Deformazione plastica e frammentazione fragile sono state riportate come meccanismi di deformazione per l'acetaminofene.1,2 Un aumento del tempo di permanenza ha esteso il tempo di contatto effettivo durante il quale il compatto era soggetto a una forza applicata in grado di causare capping, consentendo un'ulteriore deformazione plastica. Ciò ha comportato un aumento dei tempi di legame particella-particella. La successiva applicazione della pressione di compressione principale ha ulteriormente migliorato l'interazione e aumentato la resistenza meccanica delle compresse risultanti.</p><p>&nbsp;</p><p>Tuttavia, senza un intervento appropriato nella fase di pre-compressione per consentire il consolidamento iniziale della compressa, l'applicazione di un'elevata pressione di compressione principale potrebbe causare una possibile rottura dei legami formati correlata al recupero elastico, creando così aree indebolite nelle compresse e predisponendole al capping.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Prevenire il tablet capping
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0f179eb-7927-475c-bd82-7c4489d78295"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T165625Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Prevenire il tablet capping
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T165637Z
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>Het belang van voordruk en verblijftijd om <span style="color:hsl(240, 75%, 60%);"><strong>tablet capping</strong></span>-problemen te beperken.</h1><h2><br />Oplossen van problemen met <span style="color:hsl(240, 75%, 60%);"><strong>tablet capping</strong></span><br />Capping is een term die wordt gebruikt om het loskomen van een dwarsdoorsnededeel van het tabletoppervlak te beschrijven, wat meestal optreedt vlak nadat de tablet uit de matrijs is uitgeworpen. Schade aan tabletten door capping leidt onvermijdelijk tot afkeuring van de productiebatch. Bij een geregistreerd product is het wijzigen van de formulering niet de voorkeursoptie om dergelijke problemen op te lossen. Bovendien zijn er bij een hooggedoseerd product grenzen aan wijzigingen in de formulering en biedt de uiteindelijke oplossing mogelijk geen volledige oplossing voor het capping-probleem.</h2><p>&nbsp;</p><p>Een mogelijk alternatief om capping te verminderen is het gebruik van een speciaal ontworpen roterende tabletpers die in de voordrukfase een luchtcompensator gebruikt: de voordrukkracht kan, in combinatie met een verlengde verblijftijd, worden aangepast vóór de hoofdcompressiefase. Deze nieuwe manier van het toepassen van voordrukkracht werd onderzocht met een GEA roterende tabletpers met luchtcompensator op granulaat dat was bereid via high shear granulation; de formulering bestond uit 78% acetaminophen (w/w) en 22% starch (w/w). Er werd vastgesteld dat aanpassing van de manier waarop de compressiekracht werd toegepast de kans op tablet capping kon verminderen of zelfs elimineren, zonder de mechanische sterkte van de geproduceerde tabletten in gevaar te brengen.</p><p>&nbsp;</p><h2>Methoden<br />Acetaminophen-starchgranulaat werd droog gemengd met 1.1% magnesiumstearaat (w/w) en 0.16% colloïdaal siliciumdioxide (w/w). Een GEA tabletpers (R190FT) met 10 mm stempels werd gebruikt om platte, afgeschuinde tabletten van 325 mg te maken. Verschillende tableteerparameters werden onderzocht, waaronder voordruk, tablet­dikte bij voordruk, tabletdikte bij hoofdcompressie en omloopsnelheid.</h2><p>&nbsp;</p><p>Hoofdcompressiedruk, verblijftijd en verplaatsingswaarden werden geregistreerd voor elke geproduceerde batch tabletten. Batches met minder dan 10% tablet capping na compressie werden vervolgens verder gekarakteriseerd volgens de USP Pharmacopoeia-methoden voor tabletdikte (Digimatic Micrometer, Mitotuyo, Japan), breuksterkte (HT1, Sotax, Switzerland) en brosheid (TA20, Erweka, Germany). Ook het aantal tabletten met capping na de brosheidstest werd geregistreerd.</p><p>&nbsp;</p><h2>Resultaten en discussie<br />Voor de productie van tabletten uit granulaat is de toepassing van een bepaalde mate van compressiekracht of druk vereist. Onvoldoende compressiedruk leidt ertoe dat het granulaat niet consolideert tot samenhangende massa's of tabletten die verdere hantering of verwerking kunnen weerstaan. Overmatige compressiedruk kan echter leiden tot capping of tot te harde tabletten met ongewenst lange desintegratietijden. Voor de acetaminophen-starchformulering werd vastgesteld dat voor tabletproductie een hoofdcompressiedruk in het bereik van 108–140 N/mm2 nodig was. Tabletten die werden geproduceerd met een hoofdcompressiedruk hoger dan 140 N/mm2 vertoonden direct na compressie capping. Daarentegen leverde gebruik van een lage hoofdcompressiedruk (&lt;100 N/mm2) tabletten op met een zeer lage breuksterkte (&lt;25 N).</h2><p>&nbsp;</p><p>Voor elke geselecteerde hoofdcompressiedruk binnen het bereik van 108–140 N/mm2 nam de breuksterkte van de tabletten toe, terwijl de brosheid en het optreden van capping afnamen naarmate de voordruk toenam. Met een voordruklimiet van 34 N/mm2 en een hoofdcompressiedruk van 108 N/mm2 kon de verblijftijd worden aangepast door de tabletdikte bij voordruk en de omloopsnelheid te wijzigen. De luchtcompensator bij de voordrukrol zou de rol omhoog bewegen als de voordrukkracht de vooraf ingestelde begrenzingskracht overschreed, waardoor de voordruk op de tablet constant bleef terwijl de verblijftijd overeenkomstig toenam.</p><p>&nbsp;</p><p>Door de verblijftijd in de voordrukfase te verlengen, nam de breuksterkte van de tabletten toe en nam de brosheid af. Plastic deformation en brittle fragmentation zijn gerapporteerd als vervormingsmechanismen voor acetaminophen.1,2 Een toename van de verblijftijd verlengde de effectieve contacttijd waarin de compacte massa werd blootgesteld aan een aangelegde kracht die capping kon veroorzaken, wat verdere plastische vervorming mogelijk maakte. Dit resulteerde in langere bindingstijden tussen deeltjes. De daaropvolgende toepassing van de hoofdcompressiedruk versterkte de interactie verder en verbeterde de mechanische sterkte van de resulterende tabletten.</p><p>&nbsp;</p><p>Maar zonder de juiste interventie in de voordrukfase om initiële consolidatie van de tablet mogelijk te maken, kan de toepassing van een hoge hoofdcompressiedruk mogelijk elastisch herstel en gerelateerde breuk van gevormde bindingen veroorzaken, waardoor verzwakte zones in de tabletten ontstaan en de kans op capping toeneemt.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Tablet capping voorkomen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5708a181-981f-470c-afff-3cc9e007b453"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Tablet capping voorkomen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T162723Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T165628Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>Het belang van voordruk en verblijftijd om problemen met <span style="color:hsl(240, 75%, 60%);"><strong>capping</strong></span> te beperken.</h1><h2><br />Problemen met <span style="color:hsl(240, 75%, 60%);"><strong>capping</strong></span> oplossen<br />Capping is een term die wordt gebruikt om het loskomen van een dwarsdoorsnedefragment van het tabletoppervlak te beschrijven, wat meestal direct na het uitwerpen van de tablet uit de matrijs optreedt. Beschadiging van tabletten door capping leidt onvermijdelijk tot afkeuring van de productiebatch. Voor een geregistreerd product heeft het wijzigen van de formulering niet de voorkeur om dergelijke problemen op te lossen. Bovendien zijn er voor een hooggedoseerd product grenzen aan formuleringswijzigingen en is het mogelijk dat de uiteindelijke oplossing het cappingprobleem niet volledig verhelpt.</h2><p>&nbsp;</p><p>Een mogelijk alternatief om capping te verminderen is het gebruik van een speciaal ontworpen roterende tablettenpers die in de voordrukfase een luchtcompensator toepast: de voordrukkracht kan in combinatie met een verlengde verblijftijd vóór de hoofdcompressie worden aangepast. Deze nieuwe manier van het toepassen van voordrukkracht werd onderzocht met een GEA roterende tablettenpers met luchtcompensator op granulaat bereid via high shear-granulatie; de formulering bestond uit 78% acetaminofen (w/w) en 22% zetmeel (w/w). Er werd vastgesteld dat wijziging van de manier waarop de drukkracht werd toegepast de kans op capping kon verkleinen of zelfs elimineren, zonder de mechanische sterkte van de geproduceerde tabletten in gevaar te brengen.</p><p>&nbsp;</p><h2>Methoden<br />Acetaminofen-zetmeelgranulaat werd droog gemengd met 1.1% magnesiumstearaat (w/w) en 0.16% colloïdaal siliciumdioxide (w/w). Een GEA tablettenpers (R190FT) met 10 mm ponsen werd gebruikt om vlakke tabletten van 325 mg met afgeschuinde rand te produceren. Verschillende tabletteerparameters werden onderzocht, waaronder voordruk, tabletdikte bij voordruk, tabletdikte bij hoofdcompressie en revolversnelheid.</h2><p>&nbsp;</p><p>De waarden voor hoofdcompressiedruk, verblijftijd en verplaatsing werden voor elke geproduceerde batch tabletten vastgelegd. Batches met minder dan 10% capping na compressie werden verder gekarakteriseerd volgens de USP Pharmacopoeia-methoden voor tabletdikte (Digimatic Micrometer, Mitotuyo, Japan), breuksterkte (HT1, Sotax, Zwitserland) en brosheid (TA20, Erweka, Duitsland). Het aantal tabletten met capping na de brosheidstest werd ook geregistreerd.</p><p>&nbsp;</p><h2>Resultaten en discussie<br />Voor de productie van tabletten uit granulaat moet een bepaalde hoeveelheid drukkracht of druk worden toegepast. Onvoldoende compressiedruk leidt ertoe dat het granulaat niet consolideert tot coherente massa's of tabletten die verdere hantering of verwerking kunnen weerstaan. Overmatige compressiedruk kan echter leiden tot capping of tot te harde tabletten met onnodig lange desintegratietijden. Voor de acetaminofen-zetmeelformulering werd vastgesteld dat voor tabletproductie een hoofdcompressiedruk in het bereik van 108–140 N/mm2 nodig was. Tabletten die werden geproduceerd met een hoofdcompressiedruk hoger dan 140 N/mm2 vertoonden direct na compressie capping. Daarentegen leverde het gebruik van een lage hoofdcompressiedruk (&lt;100 N/mm2) tabletten op met een zeer lage breuksterkte (&lt;25 N).</h2><p>&nbsp;</p><p>Voor elke geselecteerde hoofdcompressiedruk binnen het bereik van 108–140 N/mm2 nam de breuksterkte van de tabletten toe, terwijl de brosheid en het optreden van capping afnamen bij een hogere voordruk. Met een voordruklimiet van 34 N/mm2 en een hoofdcompressiedruk van 108 N/mm2 kon de verblijftijd worden aangepast door de tabletdikte bij voordruk en de revolversnelheid te wijzigen. De luchtcompensator bij de voordrukrol bewoog de rol omhoog als de voordrukkracht de vooraf ingestelde limiet overschreed, waardoor de voordruk op de tablet constant bleef terwijl de verblijftijd overeenkomstig toenam.</p><p>&nbsp;</p><p>Door de verblijftijd in de voordrukfase te verlengen, nam de breuksterkte van de tabletten toe en nam de brosheid af. Plastische vervorming en brosse fragmentatie zijn gerapporteerd als vervormingsmechanismen voor acetaminofen.1,2 Een langere verblijftijd verlengde de effectieve contacttijd waarin de compact aan een aangelegde kracht werd blootgesteld die capping kon veroorzaken, waardoor verdere plastische vervorming mogelijk werd. Dit resulteerde in langere deeltjes-deeltjesbindingstijden. De daaropvolgende toepassing van de hoofdcompressiedruk versterkte de interactie verder en verbeterde de mechanische sterkte van de resulterende tabletten.</p><p>&nbsp;</p><p>Zonder de juiste interventie in de voordrukfase om initiële tabletconsolidatie mogelijk te maken, kan de toepassing van een hoge hoofdcompressiedruk echter een mogelijke breuk van gevormde bindingen veroorzaken die verband houdt met elastisch herstel, waardoor verzwakte zones in de tabletten ontstaan en deze vatbaarder worden voor capping.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Capping van tabletten voorkomen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d35ad95-f26f-4424-8f74-729bf988a740"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T165628Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Capping van tabletten voorkomen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T165639Z
+- Language: "pl-PL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T155215Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>Znaczenie ciśnienia wstępnego prasowania i czasu przebywania w ograniczaniu problemów <span style="color:hsl(240, 75%, 60%);"><strong>cappingu tabletek</strong></span>.</h1><h2><br />Rozwiązywanie problemów <span style="color:hsl(240, 75%, 60%);"><strong>cappingu tabletek</strong></span><br />Capping to termin używany do opisania oddzielenia fragmentu przekroju poprzecznego od powierzchni tabletki, które zwykle występuje tuż po wypchnięciu tabletki z matrycy. Uszkodzenie tabletek przez capping niezmiennie prowadzi do odrzucenia partii produkcyjnej. W przypadku zarejestrowanego produktu zmiana formulacji nie jest preferowaną opcją rozwiązania takich problemów. Ponadto w przypadku produktu wysokodawkowego istnieją ograniczenia dotyczące zmian formulacji, a ostateczne rozwiązanie może nie usunąć w pełni problemu cappingu.</h2><p>&nbsp;</p><p>Możliwą alternatywą ograniczenia cappingu jest zastosowanie specjalnie zaprojektowanej rotacyjnej prasy tabletkowej, która wykorzystuje kompensator powietrzny na etapie prasowania wstępnego: siłę prasowania wstępnego, w połączeniu z wydłużonym czasem przebywania, można modyfikować przed głównym etapem prasowania. Ten nowy tryb przyłożenia siły prasowania wstępnego zbadano z użyciem rotacyjnej prasy tabletkowej GEA z kompensatorem powietrznym na granulkach przygotowanych metodą granulacji szybkoobrotowej; formulacja zawierała 78% acetaminofenu (w/w) i 22% skrobi (w/w). Stwierdzono, że modyfikacja sposobu przyłożenia siły prasowania może ograniczyć, a nawet wyeliminować występowanie cappingu tabletek bez pogorszenia wytrzymałości mechanicznej wytwarzanych tabletek.</p><p>&nbsp;</p><h2>Metody<br />Granulki acetaminofen-skrobia mieszano na sucho z 1.1% stearynianu magnezu (w/w) i 0.16% koloidalnego dwutlenku krzemu (w/w). Do przygotowania płaskich tabletek ze ściętymi krawędziami o masie 325 mg użyto prasy tabletkowej GEA (R190FT) z punconami 10 mm. Badano różne parametry tabletkowania, w tym ciśnienie prasowania wstępnego, grubość tabletki po prasowaniu wstępnym, grubość tabletki po prasowaniu głównym oraz prędkość obrotową wieży.</h2><p>&nbsp;</p><p>Dla każdej wytworzonej partii tabletek rejestrowano wartości ciśnienia prasowania głównego, czasu przebywania i przemieszczenia. Partie, w których po prasowaniu odsetek tabletek z cappingiem był mniejszy niż 10%, poddano dalszej charakterystyce zgodnie z metodami Farmakopei USP dla grubości tabletki (Digimatic Micrometer, Mitotuyo, Japonia), wytrzymałości na zgniatanie (HT1, Sotax, Szwajcaria) i ścieralności (TA20, Erweka, Niemcy). Rejestrowano również liczbę tabletek, w których wystąpił capping po badaniu ścieralności.</p><p>&nbsp;</p><h2>Wyniki i dyskusja<br />Wytwarzanie tabletek z granulek wymaga przyłożenia określonej siły lub ciśnienia prasowania. Niewystarczające ciśnienie prasowania spowoduje, że granulki nie skonsolidują się w spójne masy lub tabletki, które mogłyby wytrzymać dalsze przenoszenie lub przetwarzanie. Jednak nadmierne ciśnienie prasowania może powodować capping albo nadmiernie twarde tabletki, które będą wykazywać niepożądanie wydłużony czas rozpadu. Dla formulacji acetaminofen-skrobia stwierdzono, że wytwarzanie tabletek wymagało, aby ciśnienie prasowania głównego mieściło się w zakresie 108–140 N/mm2. Tabletki wytwarzane przy ciśnieniu prasowania głównego wyższym niż 140 N/mm2 ulegały cappingowi natychmiast po sprasowaniu. Natomiast zastosowanie niskiego ciśnienia prasowania głównego (&lt;100 N/mm2) skutkowało tabletkami o bardzo niskiej wytrzymałości na zgniatanie (&lt;25 N).</h2><p>&nbsp;</p><p>Dla każdego wybranego ciśnienia prasowania głównego w zakresie 108–140 N/mm2 wytrzymałość tabletek na zgniatanie rosła, natomiast ścieralność i częstość występowania cappingu malały wraz ze wzrostem ciśnienia prasowania wstępnego. Przy zastosowaniu granicznego ciśnienia prasowania wstępnego 34 N/mm2 i ciśnienia prasowania głównego 108 N/mm2 czas przebywania można było zmieniać przez regulację grubości tabletki po prasowaniu wstępnym i prędkości obrotowej wieży. Kompensator powietrzny przy rolce prasowania wstępnego przesuwał rolkę ku górze, jeśli siła prasowania wstępnego przekraczała ustawioną wcześniej wartość graniczną, utrzymując w ten sposób stałe ciśnienie prasowania wstępnego na tabletce, podczas gdy czas przebywania odpowiednio się wydłużał.</p><p>&nbsp;</p><p>Stwierdzono, że zwiększenie czasu przebywania na etapie prasowania wstępnego zwiększa wytrzymałość tabletek na zgniatanie i zmniejsza ścieralność. Odkształcenie plastyczne i krucha fragmentacja były opisywane jako mechanizmy odkształcenia dla acetaminofenu.1,2 Wydłużenie czasu przebywania zwiększało efektywny czas kontaktu, przez jaki zwarta masa była poddawana przyłożonej sile mogącej powodować capping, co umożliwiało dalsze odkształcenie plastyczne. Prowadziło to do wydłużenia czasu tworzenia wiązań między cząstkami. Późniejsze przyłożenie ciśnienia prasowania głównego dodatkowo wzmacniało te oddziaływania i poprawiało wytrzymałość mechaniczną otrzymanych tabletek.</p><p>&nbsp;</p><p>Jednak bez odpowiedniej interwencji na etapie prasowania wstępnego, która umożliwia początkową konsolidację tabletki, zastosowanie wysokiego ciśnienia prasowania głównego może powodować możliwe rozerwanie utworzonych wiązań związane ze sprężystym odprężeniem, tworząc tym samym osłabione obszary w tabletkach i zwiększając ich podatność na capping.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Zapobieganie cappingowi tabletek
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3144ac68-2502-4fd9-885b-eb356eb4f92c"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Zapobieganie cappingowi tabletek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T162725Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T165631Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><h1>Znaczenie ciśnienia wstępnego prasowania i czasu przebywania w celu ograniczenia problemów z <span style="color:hsl(240, 75%, 60%);"><strong>wieczkowaniem</strong></span> tabletek.</h1><h2><br />Rozwiązywanie problemów z <span style="color:hsl(240, 75%, 60%);"><strong>wieczkowaniem</strong></span> tabletek<br />Wieczkowanie to termin używany do opisania oddzielenia fragmentu przekroju poprzecznego od powierzchni tabletki, co zwykle następuje tuż po wysunięciu tabletki z matrycy. Uszkodzenie tabletek przez wieczkowanie niezmiennie prowadzi do odrzucenia partii produkcyjnej. W przypadku zarejestrowanego produktu zmiana formulacji nie jest preferowaną opcją rozwiązania takich problemów. Ponadto w przypadku produktu wysokodawkowego istnieją ograniczenia dotyczące zmian formulacji i ostateczne rozwiązanie może nie wyeliminować w pełni problemu wieczkowania.</h2><p>&nbsp;</p><p>Możliwą alternatywą ograniczenia wieczkowania jest zastosowanie specjalnie zaprojektowanej rotacyjnej prasy tabletkowej, która wykorzystuje kompensator powietrzny na etapie wstępnego prasowania: siła wstępnego prasowania, w połączeniu z wydłużonym czasem przebywania, może być modyfikowana przed głównym etapem prasowania. Ten nowatorski sposób przykładania siły wstępnego prasowania zbadano z użyciem rotacyjnej prasy tabletkowej GEA z kompensatorem powietrznym na granulkach przygotowanych metodą granulacji szybkoobrotowej; formulacja składała się z 78% acetaminofenu (w/w) i 22% skrobi (w/w). Stwierdzono, że modyfikacja sposobu przykładania siły prasowania może ograniczyć, a nawet wyeliminować występowanie wieczkowania tabletek bez pogorszenia wytrzymałości mechanicznej wytworzonych tabletek.</p><p>&nbsp;</p><h2>Metody<br />Granulki acetaminofenu i skrobi mieszano na sucho z 1.1% stearynianu magnezu (w/w) oraz 0.16% koloidalnego ditlenku krzemu (w/w). Do przygotowania płaskich tabletek ze ściętymi krawędziami o masie 325 mg użyto prasy tabletkowej GEA (R190FT) z tłocznikami 10 mm. Badano różne parametry tabletkowania, w tym ciśnienie wstępnego prasowania, grubość tabletki po wstępnym prasowaniu, grubość tabletki po głównym prasowaniu oraz prędkość wieży.</h2><p>&nbsp;</p><p>Dla każdej wyprodukowanej partii tabletek rejestrowano wartości ciśnienia głównego prasowania, czasu przebywania i przemieszczenia. Partie z mniej niż 10% wieczkowania tabletek po prasowaniu poddano następnie dalszej charakterystyce zgodnie z metodami Farmakopei USP dla grubości tabletek (Digimatic Micrometer, Mitotuyo, Japonia), wytrzymałości na zgniatanie (HT1, Sotax, Szwajcaria) oraz ścieralności (TA20, Erweka, Niemcy). Rejestrowano również liczbę tabletek z wieczkowaniem po teście ścieralności.</p><p>&nbsp;</p><h2>Wyniki i omówienie<br />Wytwarzanie tabletek z granulek wymaga przyłożenia określonej siły lub ciśnienia prasowania. Niewystarczające ciśnienie prasowania spowoduje, że granulki nie skonsolidują się w zwarte masy lub tabletki zdolne wytrzymać dalsze przenoszenie lub przetwarzanie. Jednak nadmierne ciśnienie prasowania może powodować wieczkowanie lub nadmiernie twarde tabletki, które będą wykazywać niepożądanie wydłużony czas rozpadu. W przypadku formulacji acetaminofen-skrobia stwierdzono, że wytwarzanie tabletek wymagało, aby główne ciśnienie prasowania mieściło się w zakresie 108–140 N/mm2. Tabletki wytworzone przy głównym ciśnieniu prasowania wyższym niż 140 N/mm2 ulegały wieczkowaniu natychmiast po prasowaniu. Natomiast zastosowanie niskiego głównego ciśnienia prasowania (&lt;100 N/mm2) dawało tabletki o bardzo niskiej wytrzymałości na zgniatanie (&lt;25 N).</h2><p>&nbsp;</p><p>Dla każdego wybranego głównego ciśnienia prasowania w zakresie 108–140 N/mm2 wytrzymałość tabletek na zgniatanie wzrastała, natomiast ścieralność tabletek i występowanie wieczkowania malały wraz ze wzrostem ciśnienia wstępnego prasowania. Przy zastosowaniu granicznego ciśnienia wstępnego prasowania 34 N/mm2 i głównego ciśnienia prasowania 108 N/mm2 czas przebywania można było zmieniać przez regulację grubości tabletki po wstępnym prasowaniu i prędkości wieży. Kompensator powietrzny przy rolce wstępnego prasowania przesuwał rolkę ku górze, jeśli siła wstępnego prasowania przekraczała ustawioną wcześniej siłę graniczną, utrzymując tym samym stałe ciśnienie wstępnego prasowania na tabletce, podczas gdy czas przebywania odpowiednio się wydłużał.</p><p>&nbsp;</p><p>Stwierdzono, że przez wydłużenie czasu przebywania na etapie wstępnego prasowania wzrasta wytrzymałość tabletek na zgniatanie, a ścieralność maleje. Odkształcenie plastyczne i krucha fragmentacja były opisywane jako mechanizmy odkształcania acetaminofenu.1,2 Wydłużenie czasu przebywania zwiększało efektywny czas kontaktu, przez który kompakt był poddawany przyłożonej sile zdolnej powodować wieczkowanie, co umożliwiało dalsze odkształcenie plastyczne. Skutkowało to wydłużeniem czasu wiązania cząstka-cząstka. Kolejne przyłożenie głównego ciśnienia prasowania dodatkowo wzmacniało oddziaływania i poprawiało wytrzymałość mechaniczną otrzymanych tabletek.</p><p>&nbsp;</p><p>Jednak bez odpowiedniej interwencji na etapie wstępnego prasowania, pozwalającej na początkową konsolidację tabletki, zastosowanie wysokiego głównego ciśnienia prasowania mogłoby spowodować możliwe pękanie utworzonych wiązań związane ze sprężystym odkształceniem powrotnym, tworząc w ten sposób osłabione obszary w tabletkach i predysponując je do wieczkowania.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Zapobieganie wieczkowaniu
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0aa32f4-e13e-4cd9-b4ce-0e7baa81ed99"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T165631Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Zapobieganie wieczkowaniu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T165643Z

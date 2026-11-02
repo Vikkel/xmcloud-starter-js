@@ -1,32 +1,126 @@
----
+﻿---
 ID: "ff1acb46-ec81-4ebd-8111-9126bd42fbee"
 Parent: "f2bbc4aa-296c-4035-85ba-76ea4a670cf5"
 Template: "f9d39d29-98ef-40b0-b57b-c605f58901bc"
-Path: "/sitecore/content/gea/gea/Data/NewsletterContactBand/Site band"
+Path: /sitecore/content/gea/gea/Data/NewsletterContactBand/Site band
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0467690b-2df5-4e09-ba08-2677e69aa46b"
+      Hint: ContactTitle
+      Value: Kontaktieren Sie uns
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "26f74b07-0b25-461e-9783-551433eba5b1"
+      Hint: NewsLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Einblicke" url="https://www.gea.com/en/insights/" />
+    - ID: "2f05e7a9-729a-43bd-9e29-4dc631c0364d"
+      Hint: ContactLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Angebot anfordern" url="/contact" />
+    - ID: "4a8527e5-8eaa-465d-a851-a46456c2b2b5"
+      Hint: ContactText
+      Value: <p>Sprechen Sie mit GEA über eine Milchpulverlinie, einen Sprühtrockner oder eine GEA AddCool® Wärmepumpe.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "becc1f76-d111-43b9-b0d3-d8de467dc0c0"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T105302Z
+    - ID: "e5955f30-a946-4869-a905-fa7d392eb244"
+      Hint: NewsTitle
+      Value: Neuigkeiten von GEA erhalten
+    - ID: "ffca1628-ebc6-4a62-8e90-a4a35c2187ee"
+      Hint: NewsText
+      Value: "<p>Stories, Kundenberichte und Produktneuigkeiten aus der Milch- und Prozesstechnologie.</p>"
+  - Version: 2
+    Fields:
+    - ID: "0467690b-2df5-4e09-ba08-2677e69aa46b"
+      Hint: ContactTitle
+      Value: Kontaktieren Sie uns
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T110239Z
+    - ID: "26f74b07-0b25-461e-9783-551433eba5b1"
+      Hint: NewsLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Einblicke" url="https://www.gea.com/en/insights/" />
+    - ID: "2f05e7a9-729a-43bd-9e29-4dc631c0364d"
+      Hint: ContactLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Angebot anfordern" url="/contact" />
+    - ID: "4a8527e5-8eaa-465d-a851-a46456c2b2b5"
+      Hint: ContactText
+      Value: <p>Sprechen Sie mit GEA über eine Milchpulveranlage, einen Sprühtrockner oder die AddCool® Wärmepumpe.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a55a2b8e-e616-4715-b3f1-76ff735397bd"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T110239Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T110244Z
+    - ID: "e5955f30-a946-4869-a905-fa7d392eb244"
+      Hint: NewsTitle
+      Value: Neuigkeiten von GEA erhalten
+    - ID: "ffca1628-ebc6-4a62-8e90-a4a35c2187ee"
+      Hint: NewsText
+      Value: "<p>Geschichten, Kundenberichte und Produktneuigkeiten aus der Molkerei- und Prozesstechnik.</p>"
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "e5955f30-a946-4869-a905-fa7d392eb244"
-      Hint: e5955f30-a946-4869-a905-fa7d392eb244
-      Value: "Receive news from GEA"
-    - ID: "ffca1628-ebc6-4a62-8e90-a4a35c2187ee"
-      Hint: ffca1628-ebc6-4a62-8e90-a4a35c2187ee
-      Value: |
-        <p>Stories, customer cases and product news from dairy and process technology.</p>
+    - ID: "0467690b-2df5-4e09-ba08-2677e69aa46b"
+      Hint: ContactTitle
+      Value: Contact us
     - ID: "26f74b07-0b25-461e-9783-551433eba5b1"
-      Hint: 26f74b07-0b25-461e-9783-551433eba5b1
+      Hint: NewsLink
       Value: |
         <link text="Insights" linktype="external" url="https://www.gea.com/en/insights/" anchor="" target="" />
-    - ID: "0467690b-2df5-4e09-ba08-2677e69aa46b"
-      Hint: 0467690b-2df5-4e09-ba08-2677e69aa46b
-      Value: "Contact us"
-    - ID: "4a8527e5-8eaa-465d-a851-a46456c2b2b5"
-      Hint: 4a8527e5-8eaa-465d-a851-a46456c2b2b5
-      Value: |
-        <p>Talk to GEA about a milk powder line, spray dryer or AddCool® heat pump.</p>
     - ID: "2f05e7a9-729a-43bd-9e29-4dc631c0364d"
-      Hint: 2f05e7a9-729a-43bd-9e29-4dc631c0364d
+      Hint: ContactLink
       Value: |
         <link text="Get a quote" linktype="external" url="/contact" anchor="" target="" />
+    - ID: "4a8527e5-8eaa-465d-a851-a46456c2b2b5"
+      Hint: ContactText
+      Value: <p>Talk to GEA about a milk powder line, spray dryer or AddCool® heat pump.</p>
+    - ID: "e5955f30-a946-4869-a905-fa7d392eb244"
+      Hint: NewsTitle
+      Value: Receive news from GEA
+    - ID: "ffca1628-ebc6-4a62-8e90-a4a35c2187ee"
+      Hint: NewsText
+      Value: <p>Stories, customer cases and product news from dairy and process technology.</p>

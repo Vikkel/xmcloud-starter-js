@@ -4,6 +4,74 @@ Parent: "6c0d2586-261b-443f-a4e6-5d15b18440fa"
 Template: "c90f43ee-592b-470b-95e6-81e08da0ac8b"
 Path: /sitecore/content/gea/gea/Data/Header/Site header
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "077cb6e1-3e82-46d6-adf5-cc2691f9bad5"
+      Hint: LanguageLabel
+      Value: DE
+    - ID: "1aa15866-05d9-4f30-94e8-0a4072271be6"
+      Hint: SustainabilityLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Nachhaltigkeit" url="https://www.gea.com/en/sustainability/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261031T101458Z
+    - ID: "27801fd9-2190-40be-be1f-aa4d978e348e"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="GEA Logo" dam-id="NQPslfOoSB6QwnkPzYAjsA" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84482" />
+    - ID: "298af196-777b-4824-a442-ee4eb3f21b63"
+      Hint: AboutLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Über uns" url="https://www.gea.com/en/company/" />
+    - ID: "31ebfc94-f651-4db9-8787-ef3d06b7790e"
+      Hint: CareersLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Karriere" url="https://www.gea.com/en/careers/" />
+    - ID: "33babe74-d6c4-41aa-a477-3809a29a3e23"
+      Hint: ContactLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Kontakt" url="/contact" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01acbc05-5329-42c4-86b4-ae4200f89ecb"
+    - ID: "9450c1f8-639a-4131-93d7-8119a3093e1e"
+      Hint: InvestorsLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Investoren" url="https://www.gea.com/en/investors/" />
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "b9747f79-3a12-4c15-8ea1-38fa349d1ac5"
+      Hint: ProductsMenuLabel
+      Value: Produkte & Services
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122618Z
+    - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
+      Hint: SearchPlaceholder
+      Value: Suche
+    - ID: "fadbaded-0654-4a25-9048-c6cae7baaff7"
+      Hint: MediaLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Medien" url="https://www.gea.com/en/news/" />
 - Language: en
   Versions:
   - Version: 1
@@ -58,6 +126,346 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20261031T101459Z
+    - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
+      Hint: SearchPlaceholder
+      Value: Search
+    - ID: "fadbaded-0654-4a25-9048-c6cae7baaff7"
+      Hint: MediaLink
+      Value: |
+        <link text="Media" linktype="external" url="https://www.gea.com/en/news/" anchor="" target="" />
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "077cb6e1-3e82-46d6-adf5-cc2691f9bad5"
+      Hint: LanguageLabel
+      Value: ES
+    - ID: "1aa15866-05d9-4f30-94e8-0a4072271be6"
+      Hint: SustainabilityLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Sostenibilidad" url="https://www.gea.com/en/sustainability/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261031T101458Z
+    - ID: "27801fd9-2190-40be-be1f-aa4d978e348e"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="Logotipo de GEA" dam-id="NQPslfOoSB6QwnkPzYAjsA" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84482" />
+    - ID: "298af196-777b-4824-a442-ee4eb3f21b63"
+      Hint: AboutLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Sobre nosotros" url="https://www.gea.com/en/company/" />
+    - ID: "31ebfc94-f651-4db9-8787-ef3d06b7790e"
+      Hint: CareersLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Carreras" url="https://www.gea.com/en/careers/" />
+    - ID: "33babe74-d6c4-41aa-a477-3809a29a3e23"
+      Hint: ContactLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Contacto" url="/contact" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bba42e39-7780-4b62-be75-01d94e98c0d6"
+    - ID: "9450c1f8-639a-4131-93d7-8119a3093e1e"
+      Hint: InvestorsLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Inversores" url="https://www.gea.com/en/investors/" />
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "b9747f79-3a12-4c15-8ea1-38fa349d1ac5"
+      Hint: ProductsMenuLabel
+      Value: Productos y servicios
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122619Z
+    - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
+      Hint: SearchPlaceholder
+      Value: Buscar
+    - ID: "fadbaded-0654-4a25-9048-c6cae7baaff7"
+      Hint: MediaLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Medios" url="https://www.gea.com/en/news/" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "077cb6e1-3e82-46d6-adf5-cc2691f9bad5"
+      Hint: LanguageLabel
+      Value: FR
+    - ID: "1aa15866-05d9-4f30-94e8-0a4072271be6"
+      Hint: SustainabilityLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Développement durable" url="https://www.gea.com/en/sustainability/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261031T101458Z
+    - ID: "27801fd9-2190-40be-be1f-aa4d978e348e"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="Logo GEA" dam-id="NQPslfOoSB6QwnkPzYAjsA" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84482" />
+    - ID: "298af196-777b-4824-a442-ee4eb3f21b63"
+      Hint: AboutLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="À propos de nous" url="https://www.gea.com/en/company/" />
+    - ID: "31ebfc94-f651-4db9-8787-ef3d06b7790e"
+      Hint: CareersLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Carrières" url="https://www.gea.com/en/careers/" />
+    - ID: "33babe74-d6c4-41aa-a477-3809a29a3e23"
+      Hint: ContactLink
+      Value: |
+        <link text="Contact" linktype="external" url="/contact" anchor="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1888212f-6809-4e65-858b-09b7c6c9b408"
+    - ID: "9450c1f8-639a-4131-93d7-8119a3093e1e"
+      Hint: InvestorsLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Investisseurs" url="https://www.gea.com/en/investors/" />
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "b9747f79-3a12-4c15-8ea1-38fa349d1ac5"
+      Hint: ProductsMenuLabel
+      Value: Produits et services
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122620Z
+    - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
+      Hint: SearchPlaceholder
+      Value: Rechercher
+    - ID: "fadbaded-0654-4a25-9048-c6cae7baaff7"
+      Hint: MediaLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Médias" url="https://www.gea.com/en/news/" />
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "077cb6e1-3e82-46d6-adf5-cc2691f9bad5"
+      Hint: LanguageLabel
+      Value: EN
+    - ID: "1aa15866-05d9-4f30-94e8-0a4072271be6"
+      Hint: SustainabilityLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Sostenibilità" url="https://www.gea.com/en/sustainability/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261031T101458Z
+    - ID: "27801fd9-2190-40be-be1f-aa4d978e348e"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="logo GEA" dam-id="NQPslfOoSB6QwnkPzYAjsA" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84482" />
+    - ID: "298af196-777b-4824-a442-ee4eb3f21b63"
+      Hint: AboutLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Chi siamo" url="https://www.gea.com/en/company/" />
+    - ID: "31ebfc94-f651-4db9-8787-ef3d06b7790e"
+      Hint: CareersLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Carriere" url="https://www.gea.com/en/careers/" />
+    - ID: "33babe74-d6c4-41aa-a477-3809a29a3e23"
+      Hint: ContactLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Contatti" url="/contact" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4c1ed82-5849-433d-b997-a64216119b83"
+    - ID: "9450c1f8-639a-4131-93d7-8119a3093e1e"
+      Hint: InvestorsLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Investitori" url="https://www.gea.com/en/investors/" />
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "b9747f79-3a12-4c15-8ea1-38fa349d1ac5"
+      Hint: ProductsMenuLabel
+      Value: Prodotti e servizi
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122620Z
+    - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
+      Hint: SearchPlaceholder
+      Value: Cerca
+    - ID: "fadbaded-0654-4a25-9048-c6cae7baaff7"
+      Hint: MediaLink
+      Value: |
+        <link text="Media" linktype="external" url="https://www.gea.com/en/news/" anchor="" target="" />
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "077cb6e1-3e82-46d6-adf5-cc2691f9bad5"
+      Hint: LanguageLabel
+      Value: EN
+    - ID: "1aa15866-05d9-4f30-94e8-0a4072271be6"
+      Hint: SustainabilityLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Duurzaamheid" url="https://www.gea.com/en/sustainability/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261031T101458Z
+    - ID: "27801fd9-2190-40be-be1f-aa4d978e348e"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="GEA-logo" dam-id="NQPslfOoSB6QwnkPzYAjsA" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84482" />
+    - ID: "298af196-777b-4824-a442-ee4eb3f21b63"
+      Hint: AboutLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Over ons" url="https://www.gea.com/en/company/" />
+    - ID: "31ebfc94-f651-4db9-8787-ef3d06b7790e"
+      Hint: CareersLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Carrières" url="https://www.gea.com/en/careers/" />
+    - ID: "33babe74-d6c4-41aa-a477-3809a29a3e23"
+      Hint: ContactLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Contact opnemen" url="/contact" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a72d0fa-0a62-4e6d-a124-02dddac80549"
+    - ID: "9450c1f8-639a-4131-93d7-8119a3093e1e"
+      Hint: InvestorsLink
+      Value: |
+        <link anchor="" target="" linktype="external" text="Investeerders" url="https://www.gea.com/en/investors/" />
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "b9747f79-3a12-4c15-8ea1-38fa349d1ac5"
+      Hint: ProductsMenuLabel
+      Value: Producten en services
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122621Z
+    - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
+      Hint: SearchPlaceholder
+      Value: Zoeken
+    - ID: "fadbaded-0654-4a25-9048-c6cae7baaff7"
+      Hint: MediaLink
+      Value: |
+        <link text="Media" linktype="external" url="https://www.gea.com/en/news/" anchor="" target="" />
+- Language: "pl-PL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "077cb6e1-3e82-46d6-adf5-cc2691f9bad5"
+      Hint: LanguageLabel
+      Value: EN
+    - ID: "1aa15866-05d9-4f30-94e8-0a4072271be6"
+      Hint: SustainabilityLink
+      Value: |
+        <link text="Sustainability" linktype="external" url="https://www.gea.com/en/sustainability/" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261031T101458Z
+    - ID: "27801fd9-2190-40be-be1f-aa4d978e348e"
+      Hint: Logo
+      Value: |
+        <image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84482" dam-id="NQPslfOoSB6QwnkPzYAjsA" alt="GEA logo" dam-content-type="Image" />
+    - ID: "298af196-777b-4824-a442-ee4eb3f21b63"
+      Hint: AboutLink
+      Value: |
+        <link text="About us" linktype="external" url="https://www.gea.com/en/company/" anchor="" target="" />
+    - ID: "31ebfc94-f651-4db9-8787-ef3d06b7790e"
+      Hint: CareersLink
+      Value: |
+        <link text="Careers" linktype="external" url="https://www.gea.com/en/careers/" anchor="" target="" />
+    - ID: "33babe74-d6c4-41aa-a477-3809a29a3e23"
+      Hint: ContactLink
+      Value: |
+        <link text="Contact" linktype="external" url="/contact" anchor="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd46bc04-602c-443f-a2a4-6a57b748af95"
+    - ID: "9450c1f8-639a-4131-93d7-8119a3093e1e"
+      Hint: InvestorsLink
+      Value: |
+        <link text="Investors" linktype="external" url="https://www.gea.com/en/investors/" anchor="" target="" />
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "b9747f79-3a12-4c15-8ea1-38fa349d1ac5"
+      Hint: ProductsMenuLabel
+      Value: Products & Services
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122622Z
     - ID: "dee3bf5d-9e64-4b0b-9526-77d05853ed93"
       Hint: SearchPlaceholder
       Value: Search

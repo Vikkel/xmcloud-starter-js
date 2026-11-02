@@ -1,0 +1,343 @@
+﻿---
+ID: "fea8ddf5-2aca-4424-adc8-c244111ccb78"
+Parent: "e38e5637-06cf-44be-9e20-cffa8e0ae97b"
+Template: "fc230c2f-b3a1-4abd-86ec-cbf270150067"
+Path: /sitecore/content/gea/gea/Home/products/Curd cutters
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{899C95C4-A65E-44A7-AF22-ED7E0CD93437}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5aaf7586-c857-4c6e-98d7-9163a7f4302d"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T124031Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA bietet eine Reihe von Bruchschneider-Modellen, die nach höchsten Spezifikationen und Hygienestandards ausgelegt sind. Zu den Optionen gehören Sprühventile im gesamten Behälter und die zugehörige Verrohrung für den Anschluss an eine externe CIP-Anlage. Bei einigen Modellen ist zudem eine Konfiguration mit Sicherheitssensoren möglich, die den Betrieb automatisch stoppen, wenn Inspektionsklappen am Schneider geöffnet werden. Und natürlich sind alle GEA Technologien servicefreundlich ausgelegt und werden aus hochwertigen Materialien und Komponenten gefertigt, um die Lebensdauer zu maximieren.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bruchschneider
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eae30882-bcde-445d-b799-aea9b9b9f7c8"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Bruchschneider
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T124646Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T170010Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA bietet eine Reihe von <span style="color:hsl(240, 75%, 60%);"><strong>Bruchschneider</strong></span>-Modellen, die nach höchsten Spezifikationen und Hygienestandards ausgelegt sind. Zu den Optionen gehören Sprühventile im gesamten Behälter sowie die zugehörige Verrohrung für den Anschluss an eine externe Cleaning-in-Place-Anlage. Bei einigen Modellen ist außerdem eine Konfiguration mit Sicherheitssensoren möglich, die den Betrieb automatisch stoppen, wenn Inspektionsklappen des Bruchschneiders geöffnet werden. Und natürlich sind alle GEA Technologien servicefreundlich ausgelegt und werden aus hochwertigsten Materialien und Komponenten gefertigt, um die Lebensdauer zu maximieren.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Bruchschneider
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01da39ee-653b-4dad-a2ef-245b8e1c49b6"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20261101T170010Z
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Bruchschneider
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T170015Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T124031Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA offers a range of <span style="color:hsl(240, 75%, 60%);"><strong>curd cutter</strong></span> models, which are designed to the highest specifications and hygiene standards. Options include the provision of sprinkler valves throughout the chamber and associated pipework for connecting to an external cleaning-in-place plant. It is also possible to configure some models units with safety sensors that automatically stop operation if inspection panels to the cutter are opened. And of course, all GEA technologies are designed to be service friendly, and are built using the highest quality materials and components to maximize lifespan.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Curd cutters
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1867e7b3-1b3f-4cd9-a287-14020245e596"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Curd cutters
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T165950Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T124031Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA ofrece una gama de modelos de <span style="color:hsl(240, 75%, 60%);"><strong>cortadora de cuajada</strong></span>, diseñados conforme a las más altas especificaciones y normas de higiene. Entre las opciones se incluye la instalación de válvulas de aspersión en toda la cámara y el sistema de tuberías asociado para la conexión a una planta externa de limpieza in situ. También es posible configurar algunas unidades de ciertos modelos con sensores de seguridad que detienen automáticamente el funcionamiento si se abren los paneles de inspección de la cortadora. Y, por supuesto, todas las tecnologías de GEA están diseñadas para facilitar el servicio y se fabrican con materiales y componentes de la máxima calidad para maximizar la vida útil.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cortadoras de cuajada
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d44e24d-02a5-47a6-846f-954fd703af3b"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Cortadoras de cuajada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T170017Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T124031Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA propose une gamme de modèles de <span style="color:hsl(240, 75%, 60%);"><strong>tranche-caillé</strong></span>, conçus selon les spécifications les plus élevées et les normes d’hygiène les plus strictes. Les options incluent l’installation de vannes d’aspersion dans toute la chambre et de la tuyauterie associée pour le raccordement à une installation externe de nettoyage en place. Il est également possible de configurer certaines unités de modèles avec des capteurs de sécurité qui arrêtent automatiquement le fonctionnement si les panneaux d’inspection du tranche-caillé sont ouverts. Et bien sûr, toutes les technologies GEA sont conçues pour être faciles à entretenir et sont fabriquées avec des matériaux et des composants de la plus haute qualité afin de maximiser leur durée de vie.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Tranche-caillé"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83c5d247-ef49-4d59-af94-ef03b6a39dfa"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: "Tranche-caillé"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T170017Z
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T124031Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA offre una gamma di modelli di <span style="color:hsl(240, 75%, 60%);"><strong>cutter per cagliate</strong></span>, progettati secondo le più elevate specifiche e norme igieniche. Le opzioni includono la predisposizione di valvole sprinkler in tutta la camera e delle tubazioni associate per il collegamento a un impianto esterno di pulizia in loco. È inoltre possibile configurare alcune unità modello con sensori di sicurezza che arrestano automaticamente il funzionamento se i pannelli di ispezione del cutter vengono aperti. E naturalmente, tutte le tecnologie GEA sono progettate per facilitare la manutenzione e sono costruite utilizzando materiali e componenti della massima qualità per massimizzare la durata.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cutter per cagliate
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e3bf279-6899-4ac6-ad93-50ac21239ae4"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Cutter per cagliate
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T170018Z
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T124031Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA biedt een reeks <span style="color:hsl(240, 75%, 60%);"><strong>wrongelmes</strong></span>-modellen, die zijn ontworpen volgens de hoogste specificaties en hygiënenormen. Opties omvatten de plaatsing van sproeikleppen in de hele kamer en bijbehorend leidingwerk voor aansluiting op een externe cleaning-in-place-installatie. Het is ook mogelijk om sommige modelunits te configureren met veiligheidssensoren die de werking automatisch stoppen als inspectiepanelen van de snijder worden geopend. En natuurlijk zijn alle GEA-technologieën ontworpen om onderhoudsvriendelijk te zijn en gebouwd met materialen en componenten van de hoogste kwaliteit om de levensduur te maximaliseren.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Wrongelmessen
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1610c99-28b9-4d12-be71-ae42600357ab"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Wrongelmessen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T170019Z
+- Language: "pl-PL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20261101T124031Z
+    - ID: "2aff0fb3-0a86-4843-8ef0-de61f5cd97b4"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>GEA oferuje gamę modeli <span style="color:hsl(240, 75%, 60%);"><strong>obcinarka masy serowej</strong></span>, które zaprojektowano zgodnie z najwyższymi specyfikacjami i standardami higieny. Opcje obejmują zastosowanie zaworów zraszających w całej komorze oraz powiązanego orurowania do podłączenia do zewnętrznej instalacji mycia na miejscu. Możliwe jest również skonfigurowanie niektórych modeli z czujnikami bezpieczeństwa, które automatycznie zatrzymują pracę po otwarciu paneli inspekcyjnych obcinarki. Oczywiście wszystkie technologie GEA zaprojektowano z myślą o łatwym serwisowaniu i zbudowano z materiałów oraz komponentów najwyższej jakości, aby zmaksymalizować trwałość.</p></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Obcinarki masy serowej
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0be1cd03-1a76-4c8b-ba2c-c4126a15ee04"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "cd92ffdb-10f8-4402-b6e7-e458de702e26"
+      Hint: Title
+      Value: Obcinarka masy serowej
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T170020Z

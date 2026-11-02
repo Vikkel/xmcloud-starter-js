@@ -3,6 +3,13 @@ ID: "8c87c007-25b6-486c-816b-61d517f64e1e"
 Parent: "189ff498-abc0-4f8f-b950-cd8e127ca7a0"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
 Path: /sitecore/content/gea/gea/Home/Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d9b98fe7-6015-4a00-a637-b4bb86db0637"
 Languages:
 - Language: en
   Versions:
@@ -21,11 +28,11 @@ Languages:
         sitecore\martin.madsen@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ef25ccb0-be47-4ce5-8992-cb253a2d7aad"
+      Value: "b180166a-4910-4692-b95a-026a399b3ce2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20261030T082910Z
+      Value: 20261101T152630Z

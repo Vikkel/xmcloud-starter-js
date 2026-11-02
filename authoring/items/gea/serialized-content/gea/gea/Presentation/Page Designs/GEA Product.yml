@@ -6,14 +6,14 @@ Path: /sitecore/content/gea/gea/Presentation/Page Designs/GEA Product
 SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "db5a9a46-b351-4f5c-8997-9b56badfd14f|6f4c8a21-9b3e-4d17-a6c2-1e8d5b0f7a44"
+  Value: "db5a9a46-b351-4f5c-8997-9b56badfd14f|0a3001d2-84f2-4a3c-ad09-31a87f43f77e|6f4c8a21-9b3e-4d17-a6c2-1e8d5b0f7a44"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{7998A425-E772-4B9A-9A48-D010A71A9AEA}" />
+    <image mediaid="{6A08669D-1983-4406-A482-919F4FD6AF53}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "7fa4a01d-8f01-43fa-b099-39bc83fe40bc"
+  Value: "6e669619-7841-49dd-8344-218ba1beb892"
 Languages:
 - Language: en
   Versions:
@@ -32,11 +32,11 @@ Languages:
         sitecore\martin.madsen@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6360b817-13b4-4bbb-994d-684a60a50356"
+      Value: "995176e2-f096-42ad-9a69-29716f671664"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\martin.madsen@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20261031T122729Z
+      Value: 20261101T142135Z

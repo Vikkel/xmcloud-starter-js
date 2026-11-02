@@ -1,37 +1,336 @@
----
+﻿---
 ID: "c957e74c-fd21-4381-a83b-d5ff263e6226"
 Parent: "2a87518b-1b56-4374-ba77-fd43bcd8ac34"
 Template: "69d37866-e9af-4706-aab3-e855fba05bb4"
-Path: "/sitecore/content/gea/gea/Data/Footer/Site footer"
+Path: /sitecore/content/gea/gea/Data/Footer/Site footer
 Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: AboutText
+      Value: <p>Engineering für eine bessere Welt.</p>
+    - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
+      Hint: Copyright
+      Value: © GEA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="Fußzeile" dam-id="uup4HJBVRbC-6VCwa-53KQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5e876277-4181-47d1-9ddc-d61a7775f2a7"
+      Hint: ProductsColumn
+      Value: "<p><strong>Produkte &amp; Services</strong></p><p>Molkerei-, Lebensmittel-, Getränke-, Pharma- und Chemieverarbeitung.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e89c9d27-6c04-43c0-aff2-f59a7bb949ca"
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: LegalText
+      Value: "<p>Impressum · Datenschutz · Cookie-Einstellungen · Sitemap</p>"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
+      Hint: QuickLinksColumn
+      Value: |
+        <p><strong>Schnellzugriffe</strong></p><p><a href="/contact">Kontakt</a></p><p><a href="/dairy-processing">Molkereiverarbeitung</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: CompanyColumn
+      Value: <p><strong>Unternehmen</strong></p><p>Über uns, Nachhaltigkeit, Investoren, Medien und Karriere.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122453Z
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: AboutText
+      Value: <p>Engineering for a better world.</p>
+    - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
+      Hint: Copyright
+      Value: © GEA
     - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
       Hint: Logo
       Value: |
         <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" dam-id="uup4HJBVRbC-6VCwa-53KQ" alt="footer" dam-content-type="Image" />
-    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
-      Hint: 32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e
-      Value: |
-        <p>Engineering for a better world.</p>
     - ID: "5e876277-4181-47d1-9ddc-d61a7775f2a7"
-      Hint: 5e876277-4181-47d1-9ddc-d61a7775f2a7
-      Value: |
-        <p><strong>Products &amp; services</strong></p><p>Dairy, food, beverages, pharma and chemical processing.</p>
-    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
-      Hint: d6cb86f8-2978-4b00-b0d1-d2f829f99d27
-      Value: |
-        <p><strong>Company</strong></p><p>About us, sustainability, investors, media and careers.</p>
+      Hint: ProductsColumn
+      Value: <p><strong>Products &amp; services</strong></p><p>Dairy, food, beverages, pharma and chemical processing.</p>
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: LegalText
+      Value: <p>Imprint · Data protection · Cookie settings · Sitemap</p>
     - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
-      Hint: 9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5
+      Hint: QuickLinksColumn
       Value: |
         <p><strong>Quick links</strong></p><p><a href="/contact">Contact</a></p><p><a href="/dairy-processing">Dairy processing</a></p>
-    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
-      Hint: 9179d22a-2b84-432f-a736-d277d09d7a1d
-      Value: |
-        <p>Imprint · Data protection · Cookie settings · Sitemap</p>
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: CompanyColumn
+      Value: <p><strong>Company</strong></p><p>About us, sustainability, investors, media and careers.</p>
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: AboutText
+      Value: <p>Ingeniería para un mundo mejor.</p>
     - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
-      Hint: 40c8a0ab-7462-43c7-b1e4-11204b7b5a50
-      Value: "© GEA"
+      Hint: Copyright
+      Value: © GEA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="pie de página" dam-id="uup4HJBVRbC-6VCwa-53KQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9164c96-b7c0-4931-b657-d40541814f5a"
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: LegalText
+      Value: <p>Aviso legal · Protección de datos · Configuración de cookies · Mapa del sitio</p>
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
+      Hint: QuickLinksColumn
+      Value: |
+        <p><strong>Enlaces rápidos</strong></p><p><a href="/contact">Contacto</a></p><p><a href="/dairy-processing">Procesamiento de lácteos</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: CompanyColumn
+      Value: <p><strong>Empresa</strong></p><p>Sobre nosotros, sostenibilidad, inversores, medios y carreras.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122458Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: AboutText
+      Value: <p>L’ingénierie pour un monde meilleur.</p>
+    - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
+      Hint: Copyright
+      Value: © GEA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="pied de page" dam-id="uup4HJBVRbC-6VCwa-53KQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5e876277-4181-47d1-9ddc-d61a7775f2a7"
+      Hint: ProductsColumn
+      Value: <p><strong>Produits et services</strong></p><p>Produits laitiers, agroalimentaire, boissons, pharmacie et traitement chimique.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f8ddd2f-40b9-462f-a28d-2ba484aef676"
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: LegalText
+      Value: <p>Mentions légales · Protection des données · Paramètres des cookies · Plan du site</p>
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
+      Hint: QuickLinksColumn
+      Value: |
+        <p><strong>Liens rapides</strong></p><p><a href="/contact">Nous contacter</a></p><p><a href="/dairy-processing">Transformation laitière</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: CompanyColumn
+      Value: <p><strong>Entreprise</strong></p><p>À propos de nous, développement durable, investisseurs, médias et carrières.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122456Z
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: AboutText
+      Value: <p>Progettare per un mondo migliore.</p>
+    - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
+      Hint: Copyright
+      Value: © GEA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="piè di pagina" dam-id="uup4HJBVRbC-6VCwa-53KQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5e876277-4181-47d1-9ddc-d61a7775f2a7"
+      Hint: ProductsColumn
+      Value: "<p><strong>Prodotti e servizi</strong></p><p>Lavorazione lattiero-casearia, alimentare, delle bevande, farmaceutica e chimica.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "410b19d0-babc-4840-80f2-30ce63ba3283"
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: LegalText
+      Value: <p>Note legali · Protezione dei dati · Impostazioni dei cookie · Mappa del sito</p>
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
+      Hint: QuickLinksColumn
+      Value: |
+        <p><strong>Link rapidi</strong></p><p><a href="/contact">Contattaci</a></p><p><a href="/dairy-processing">Lavorazione lattiero-casearia</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: CompanyColumn
+      Value: <p><strong>Azienda</strong></p><p>Chi siamo, sostenibilità, investitori, media e carriere.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122457Z
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: AboutText
+      Value: <p>Engineering for a better world.</p>
+    - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
+      Hint: Copyright
+      Value: © GEA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
+      Hint: Logo
+      Value: |
+        <Image src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" dam-id="uup4HJBVRbC-6VCwa-53KQ" alt="footer" dam-content-type="Image" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5e876277-4181-47d1-9ddc-d61a7775f2a7"
+      Hint: ProductsColumn
+      Value: <p><strong>Products &amp; services</strong></p><p>Dairy, food, beverages, pharma and chemical processing.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f30c5b9e-cc8e-49df-ba9b-6c6727b1920d"
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: LegalText
+      Value: <p>Imprint · Data protection · Cookie settings · Sitemap</p>
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
+      Hint: QuickLinksColumn
+      Value: |
+        <p><strong>Quick links</strong></p><p><a href="/contact">Contact</a></p><p><a href="/dairy-processing">Dairy processing</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: CompanyColumn
+      Value: <p><strong>Company</strong></p><p>About us, sustainability, investors, media and careers.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122458Z
+- Language: "pl-PL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260101T120000Z
+    - ID: "32cbc4d8-a186-4185-b1c6-5d6a7ae5c47e"
+      Hint: AboutText
+      Value: <p>Inżynieria dla lepszego świata.</p>
+    - ID: "40c8a0ab-7462-43c7-b1e4-11204b7b5a50"
+      Hint: Copyright
+      Value: © GEA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "5cc64267-1a38-4ecf-90a1-9dc523479d73"
+      Hint: Logo
+      Value: |
+        <image dam-content-type="Image" alt="stopka" dam-id="uup4HJBVRbC-6VCwa-53KQ" src="https://mvm-ch.sitecoresandbox.cloud/api/public/content/gea-84472" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5e876277-4181-47d1-9ddc-d61a7775f2a7"
+      Hint: ProductsColumn
+      Value: <p><strong>Produkty i usługi</strong></p><p>Przetwórstwo mleczarskie, spożywcze, napojów, farmaceutyczne i chemiczne.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af64478a-8eae-43a9-8b60-6ad7fdd338db"
+    - ID: "9179d22a-2b84-432f-a736-d277d09d7a1d"
+      Hint: LegalText
+      Value: <p>Nota prawna · Ochrona danych · Ustawienia plików cookie · Mapa witryny</p>
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9f7dcdf2-6afc-4209-abb5-7063bfdfb2c5"
+      Hint: QuickLinksColumn
+      Value: |
+        <p><strong>Szybkie linki</strong></p><p><a href="/contact">Kontakt</a></p><p><a href="/dairy-processing">Przetwórstwo mleczarskie</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\martin.madsen@sitecore.com
+    - ID: "d6cb86f8-2978-4b00-b0d1-d2f829f99d27"
+      Hint: CompanyColumn
+      Value: <p><strong>Firma</strong></p><p>O nas, zrównoważony rozwój, inwestorzy, media i kariery.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20261101T122458Z

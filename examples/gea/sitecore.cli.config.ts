@@ -30,6 +30,7 @@ export default defineCliConfig({
       "**/*.schema.ts",
       "src/components/cdp-profile/CdpProfilePanel.tsx",
       "src/components/cdp-profile/CdpPageViewTracker.tsx",
+      "src/components/demo-chrome/**",
     ],
   },
 });

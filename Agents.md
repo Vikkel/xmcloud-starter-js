@@ -6,7 +6,7 @@ This clone is a fork used for **SitecoreAI prospect demos**. Website-mimic, capt
 
 - New demo hosts go in `examples/{folder}/`; never modify the upstream starters for a demo.
 - Each demo has its own collection: `authoring/items/{collection}/{collection}.module.json`, site `/sitecore/content/{collection}/{site}`.
-- Current demo: **GEA** (`examples/gea`, planned) — see `docs/GEA.md` for the story, personas and the pages to mimic.
+- Demos: **GEA** (`examples/gea`, see `docs/GEA.md`) and **GN Nordic Figma** (`examples/gn-nordic-figma`, host only, see `docs/GN-NORDIC-FIGMA.md`).
 - When a site is created or renamed, run the `new-site-inventory` skill in the same change.
 
 ## Project Overview

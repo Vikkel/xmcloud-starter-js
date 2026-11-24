@@ -164,3 +164,4 @@ This clone (`xmcloud-starter-js-1`) is a **fork used for prospect demos**, not a
 
 Demo sites:
 - `gea` — **GEA** (industrial B2B, food/dairy/pharma process technology). Scaffolded (`examples/gea`, `authoring/items/gea`), not yet built; mimic of https://www.gea.com/en/. Guide: `docs/GEA.md`. Skill: `industry-industrial`.
+- `gn-nordic-figma` — **GN Nordic Figma**. Host only (`examples/gn-nordic-figma`, deploy key `gn-nordic-figma`). Site already exists on MVM demo environment SE7; no serialization module in this repo. Guide: `docs/GN-NORDIC-FIGMA.md`. Industry not classified.

@@ -2,7 +2,7 @@
 
 Source of truth for sites in **this** clone (`xmcloud-starter-js-1`). When a site is created, cloned, or renamed, update this file in the same change as the host and authoring. Procedure: [skills/new-site-inventory/SKILL.md](./skills/new-site-inventory/SKILL.md).
 
-Last verified: 2026-10-28 against `examples/*/package.json`, `xmcloud.build.json` and `authoring/items/`.
+Last verified: 2026-11-24 against `examples/*/package.json`, `xmcloud.build.json` and `authoring/items/`.
 
 Demo hosts go under `examples/{folder}/`, next to the upstream starters. Each demo gets its **own isolated collection** under `authoring/items/{collection}/` (generated with the `sitecore-yaml` collection + site generators).
 
@@ -23,6 +23,7 @@ Demo hosts go under `examples/{folder}/`, next to the upstream starters. Each de
 | Folder | Brand | `renderingHosts` key | Sitecore site | Serialization | Status |
 |--------|-------|----------------------|---------------|---------------|--------|
 | `gea` | GEA | `gea` | `/sitecore/content/gea/gea` | `authoring/items/gea/gea.module.json` (`gea-scs`) | **Scaffolded** — host + collection/site YAML on disk, not pushed; component manifest awaiting approval ([docs/GEA-SITE-MAP.md](../docs/GEA-SITE-MAP.md)) |
+| `gn-nordic-figma` | GN Nordic Figma | `gn-nordic-figma` | Existing site on MVM demo, environment SE7. Site name `gn-nordic-figma`. Item path not serialized in this repo. | None yet — host only; do not generate a second site | **Host scaffolded** — `.env.local` points at SE7 ([docs/GN-NORDIC-FIGMA.md](../docs/GN-NORDIC-FIGMA.md)) |
 
 ## Industry skills
 

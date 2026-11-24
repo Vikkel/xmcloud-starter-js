@@ -9,6 +9,7 @@ Agent rules and skills: [.cursor/AGENTS.md](../.cursor/AGENTS.md). Live host lis
 | Industry | Folder | Site | Deploy key | Guide | Status |
 | -------- | ------ | ---- | ---------- | ----- | ------ |
 | Industrial B2B (food, dairy, pharma process technology) | `examples/gea` | GEA | `gea` | [GEA.md](./GEA.md), [site map](./GEA-SITE-MAP.md) | Scaffolded, awaiting component approval |
+| Not classified | `examples/gn-nordic-figma` | GN Nordic Figma | `gn-nordic-figma` | [GN-NORDIC-FIGMA.md](./GN-NORDIC-FIGMA.md) | Host scaffolded; `.env.local` points at SE7; site not serialized here |
 
 ## Start here
 

@@ -162,6 +162,8 @@ User request
 
 **Example — GEA (industrial B2B demo):** Human guide and page list: [docs/GEA.md](../docs/GEA.md). Host `examples/gea`, collection + site `/sitecore/content/gea/gea`, module `authoring/items/gea/gea.module.json`, deploy key `gea`.
 
+**Example — GN Nordic Figma:** Host only. `examples/gn-nordic-figma`, deploy key `gn-nordic-figma`. The site already exists on MVM demo environment SE7; do not generate a second collection. Guide: [docs/GN-NORDIC-FIGMA.md](../docs/GN-NORDIC-FIGMA.md).
+
 **Example — new isolated collection:** Use `isolated-collection-site`, then `new-site-inventory`, and write `docs/{SITE}.md`. Do not copy GUIDs from another module.
 
 ---

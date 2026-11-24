@@ -15,7 +15,9 @@ Editing host for the existing **GN Nordic Figma** site on the MVM demo project, 
 
 ## Deploy
 
-In Deploy, add an editing host named `gn-nordic-figma` and link it to authoring environment **SE7**. The name must match the `renderingHosts` key. Point the site grouping **Predefined application editing host** at `gn-nordic-figma`.
+The editing host `gn-nordic-figma` exists in Deploy on organization **Sales Engineers 7**, project **MVM-demo**. It is linked to authoring environment `mvm-demo-authoring`, repository `Vikkel/xmcloud-starter-js`, branch `gn-nordic-figma`, with auto deploy on. Host id `16XLTQoi0aRqPhCiaJw5fn`. The first deployment completed successfully.
+
+Site grouping `/sitecore/content/industry-verticals/gn-nordic-figma/Settings/Site Grouping/gn-nordic-figma` has **Predefined application editing host** set to `gn-nordic-figma` and is published to Edge. The matching rendering host item is `/sitecore/system/Settings/Services/Rendering Hosts/gn-nordic-figma`. That item is what fills the dropdown, and it appears only after the editing host deployment finishes.
 
 ## Local connection
 
